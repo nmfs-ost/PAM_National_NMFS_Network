@@ -21,6 +21,13 @@
     "text": "Add Content Here"
   },
   {
+    "objectID": "content/GithubBook.html",
+    "href": "content/GithubBook.html",
+    "title": "Github Book",
+    "section": "",
+    "text": "Github Book:\n\nLoad New Github Desktop, RStudio & R\nCreate your own Github Site\nUse template to create a copy of this ‘book’ as a repository in your own github account.\n\nNOAA Quarto Template to your Github Repository, following these directions\nGive it an appropriate name\nMake sure it is PUBLIC (necessary)\n\nGithub Desktop–> Clone repository using URL\n\nSave to your documents–>github (use the default they provide)\nSee this tutorial for more info\n\nRStudio–> New Project (top right)--> Existing Project–> navigate to your project folder in documents-> github\nUnderstand Layout\nChange names for files in contents folder\nmodify file that says _quarto it is a yaml file\nRender\nOpen -site folder, click on index file, and view in web browser.\nIf all looks good– then github desktop commit, then push to github\nOpen in github, check it out.\nIf needed, fix mistakes or revise in RStudio, rinse, repeat"
+  },
+  {
     "objectID": "content/ProjectManagement.html",
     "href": "content/ProjectManagement.html",
     "title": "Project Management",
