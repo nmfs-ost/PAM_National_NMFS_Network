@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "SAEL Lab Manual" 
+  site-url: "https://sael-swfsc.github.io/SAEL-lab-manual" 
+  repo-url: "https://github.com/SAEL-SWFSC/SAEL-lab-manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -15,17 +15,17 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab
+        text: "Southwest Acoustic Ecology Lab, SWFSC"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/SAEL-SWFSC
+        text: "SAEL Github"
 
     style: "docked"
     search: true
@@ -33,18 +33,18 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/SharedValues-BestPractices.qmd
+        text: Shared Values and Best Practices
+      - href: content/Safety.qmd
+        text: Safety
+      - href: content/Inventory.qmd
+        text: Inventory
+      - href: content/ProjectManagement.Rmd
+        text: Project Management
+      - href: content/WritersWorkshop.qmd
+        text: Writers Workshop
+      - href: content/Intro-Acoustics.qmd
+        text: Introduction to Acoustics
 
 format:
   html:
