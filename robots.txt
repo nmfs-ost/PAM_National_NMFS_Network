@@ -1,1 +1,1 @@
-Sitemap: https://nmfs-opensci.github.io/NOAA-quarto-simple/sitemap.xml
+Sitemap: https://sael-swfsc.github.io/SAEL-lab-manual/sitemap.xml
