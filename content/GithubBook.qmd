@@ -1,0 +1,43 @@
+---
+title: Github Book
+---
+
+## Github Book
+
+Github Book:
+
+1.  Load New Github Desktop, RStudio & R
+
+2.  Create your own Github Site
+
+3.  Use template to create a copy of this 'book' as a repository in your own github account.
+
+    1.  NOAA Quarto Template to your Github Repository, following [these directions](https://github.com/nmfs-opensci/NOAA-quarto-simple)
+
+    2.  Give it an appropriate name
+
+    3.  Make sure it is PUBLIC (necessary)
+
+4.  Github Desktop--\> Clone repository using URL
+
+    1.  Save to your documents--\>github (use the default they provide)
+
+    2.  See this tutorial for more info
+
+5.  RStudio--\> New Project (top right)\--\> Existing Project--\> navigate to your project folder in documents-\> github
+
+6.  Understand Layout
+
+7.  Change names for files in contents folder
+
+8.  modify file that says \_quarto it is a yaml file
+
+9.  Render
+
+10. Open -site folder, click on index file, and view in web browser.
+
+11. If all looks good-- then github desktop commit, then push to github
+
+12. Open in github, check it out.
+
+13. If needed, fix mistakes or revise in RStudio, rinse, repeat
