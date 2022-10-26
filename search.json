@@ -25,7 +25,7 @@
     "href": "content/GithubBook.html",
     "title": "Github Book",
     "section": "",
-    "text": "Github Book:\n\nLoad New Github Desktop, RStudio & R\nCreate your own Github Site\nUse template to create a copy of this ‘book’ as a repository in your own github account.\n\nNOAA Quarto Template to your Github Repository, following these directions\nGive it an appropriate name\nMake sure it is PUBLIC (necessary)\n\nGithub Desktop–> Clone repository using URL\n\nSave to your documents–>github (use the default they provide)\nSee this tutorial for more info\n\nRStudio–> New Project (top right)--> Existing Project–> navigate to your project folder in documents-> github\nUnderstand Layout\nChange names for files in contents folder\nmodify file that says _quarto it is a yaml file\nRender\nOpen -site folder, click on index file, and view in web browser.\nIf all looks good– then github desktop commit, then push to github\nOpen in github, check it out.\nIf needed, fix mistakes or revise in RStudio, rinse, repeat"
+    "text": "You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.\n\nPrepare to do Great Things!\n\nLoad Software: Github Desktop\nLoad Software: RStudio (v2022.07.2 build 576 or later)\nLoad Software: R\nCreate a Github Login\n\nCopy a template of Great Things!\nCopy an existing template to your own Github account. Go to NOAA Quarto Template and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.\nCopy to your desktop to make it a Greater Thing!\nUsing Github Desktop, Clone repository using URL (File-> Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-> Github folder (use defaults). See this Introduction to Git/Github tutorial for more help.\nUse RStudio to Modify Great Thing to make it Greater!\nIn RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-> Github. Examine the documents:\n\nREADME.md\nThis is the README file that will appear on your repository page.\nindex.qmd\nThis will serve as your ‘home’ page for the web-book that is created\ncontents folder\nThis folder will contain the ‘pages’ (chapters) for your web-book\n_quarto.yml\nThis will define the layout of your web-book\n(Insert picture of Layout)\n\nModify README.md\nIf you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nModify and Rename files in Contents Folder\nEach of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the original template web-page for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.\nFor each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-> Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. Make sure you SAVE each file when you are finished!\nModify _quarto.yml file\nThe _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site & repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.\nThe contents are each of your chapters (or web- pages). Each chapter has two lines of information:\n\nhref: refers to the name of the relevant qmd file (located in the contents folder).\ntext: this is the text you will see on the sidebar of the web-book.\nThe first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).\n\nRender & View the Web-book\nTo Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!\nTo view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.\nCommit & Push to Github\nOpen Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out your Great Things!"
   },
   {
     "objectID": "content/ProjectManagement.html",
@@ -39,28 +39,7 @@
     "href": "content/Intro-Acoustics.html",
     "title": "Introduction to Acoustics",
     "section": "",
-    "text": "Intro to Acoustics (Anne)\nIntro to Pamguard (Cory)\nIntro to PAMpal (Taiki)"
-  },
-  {
-    "objectID": "content/rmarkdown.html",
-    "href": "content/rmarkdown.html",
-    "title": "R Markdown",
-    "section": "",
-    "text": "You can include R Markdown files in your project."
-  },
-  {
-    "objectID": "content/rmarkdown.html#r-markdown",
-    "href": "content/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
-  },
-  {
-    "objectID": "content/rmarkdown.html#including-plots",
-    "href": "content/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+    "text": "##Intro to Acoustics (Anne) Add Content Here\n##Intro to Pamguard (Cory) Add Content Here\n##Intro to PAMpal (Taiki) Add Content Here"
   },
   {
     "objectID": "content/WritersWorkshop.html",
