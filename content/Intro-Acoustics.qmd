@@ -4,9 +4,8 @@ title: Introduction to Acoustics
 
 I think we will link to another repository for this info? And maybe just have a wee blurb here?
 
-Intro to Acoustics (Anne)
+##Intro to Acoustics (Anne) Add Content Here
 
-Intro to Pamguard (Cory)
+##Intro to Pamguard (Cory) Add Content Here
 
-Intro to PAMpal (Taiki)
-
+##Intro to PAMpal (Taiki) Add Content Here

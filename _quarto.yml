@@ -41,10 +41,10 @@ website:
         text: Inventory
       - href: content/ProjectManagement.qmd
         text: Project Management
+      - href: content/GithubBook.qmd
+        text: Github Book
       - href: content/WritersWorkshop.qmd
         text: Writers Workshop
-      - href: content/GithubBook.qmd
-        text: Github WebBook
       - href: content/Intro-Acoustics.qmd
         text: Introduction to Acoustics
 
