@@ -43,6 +43,8 @@ website:
         text: Project Management
       - href: content/GithubBook.qmd
         text: Github Book
+      - href: content/ResearchGuide.qmd
+        text: Research Guide
       - href: content/WritersWorkshop.qmd
         text: Writers Workshop
       - href: content/WritingGuide.qmd
