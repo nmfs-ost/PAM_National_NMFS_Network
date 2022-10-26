@@ -45,6 +45,8 @@ website:
         text: Github Book
       - href: content/WritersWorkshop.qmd
         text: Writers Workshop
+      - href: content/WritingGuide.qmd
+        text: Writing Guide
       - href: content/Intro-Acoustics.qmd
         text: Introduction to Acoustics
 
