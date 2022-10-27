@@ -24,7 +24,7 @@ The purpose of this guide is to provide an approach to writing that parallels th
 
 For example:
 
-```{r}
+```
 ---
 title: "My Awesome Paper"
 author: "Me"
