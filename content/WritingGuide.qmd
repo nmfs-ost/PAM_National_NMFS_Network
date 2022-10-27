@@ -23,18 +23,16 @@ The purpose of this guide is to provide an approach to writing that parallels th
 
 For example:
 
-```
----
-title: "My Awesome Paper"
-author: "Me"
-format: 
-  pdf: default
-  elsevier-pdf:
-    keep-tex: true
+    ---
+    title: "My Awesome Paper"
+    author: "Me"
+    format: 
+      pdf: default
+      elsevier-pdf:
+        keep-tex: true
 
-editor: visual
----
-```
+    editor: visual
+    ---
 
 As you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.
 
