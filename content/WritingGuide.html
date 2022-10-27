@@ -66,7 +66,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked">
+<body class="nav-sidebar docked fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -132,6 +132,11 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../content/ResearchGuide.html" class="sidebar-item-text sidebar-link">Research Guide</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../content/WritersWorkshop.html" class="sidebar-item-text sidebar-link">Writers Workshop</a>
   </div>
 </li>
@@ -149,15 +154,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#writing-guide" id="toc-writing-guide" class="nav-link active" data-scroll-target="#writing-guide">Writing Guide</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/WritingGuide.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/WritingGuide.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -181,14 +178,39 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="writing-guide">Writing Guide</h2>
 <p>The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.</p>
 <ol type="1">
-<li>Create a Github Repository for your research</li>
-<li>Create a draft manuscript using a preferred template in R Markdown/Quarto [Shannon will work out these methods soon]</li>
-<li>Introduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.</li>
-<li>References: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.</li>
-<li>Methods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.</li>
-<li>Results: Remember, results are just the facts!</li>
-<li>Discussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.</li>
-<li>Acknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.</li>
+<li>Create a Github Repository for your research
+<ol type="1">
+<li><p>Create Repository</p></li>
+<li><p>Use Github Desktop to clone to your local computer (store in Documents-&gt;Github)</p></li>
+<li><p>Open project in RStudio (version 2022.07.2 build576 or later)</p></li>
+</ol></li>
+<li>Create a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see <a href="https://github.com/quarto-journals/">here</a> for more info); I will use elsevier for this example.
+<ol type="1">
+<li><p>RStudio –&gt; Terminal (bottom left)</p>
+<p><code>quarto use template quarto-journals/elsevier</code></p>
+<p>This will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.</p></li>
+<li><p>In yaml at the top of the document, change the format according to the journal article template you wish to use.</p></li>
+</ol></li>
+</ol>
+<p>For example:</p>
+<pre><code>---
+title: "My Awesome Paper"
+author: "Me"
+format: 
+  pdf: default
+  elsevier-pdf:
+    keep-tex: true
+
+editor: visual
+---</code></pre>
+<p>As you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.</p>
+<ol type="1">
+<li><p>Introduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.</p></li>
+<li><p>References: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.</p></li>
+<li><p>Methods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.</p></li>
+<li><p>Results: Remember, results are just the facts!</p></li>
+<li><p>Discussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.</p></li>
+<li><p>Acknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.</p></li>
 </ol>
 <p><strong><em>Things to remember as you write:</em></strong></p>
 <ul>
@@ -203,6 +225,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Writing Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). <a href="https://doi.org/10.1002/bes2.1800"><strong>https://doi.org/10.1002/bes2.1800</strong></a></p>
 <p>Defining the Role of Authors and Contributors (ICMJE). Link <a href="https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">here</a>.</p>
 <p>A guide to getting published in Ecology and Evolution (BES). Link <a href="https://www.britishecologicalsociety.org/wp-content/uploads/BES-Guide-to-Getting-Published.pdf">here</a>.</p>
+<p>Video Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link <a href="https://youtu.be/hbf7Ai3jnxY">here</a>.</p>
 
 
 </section>
