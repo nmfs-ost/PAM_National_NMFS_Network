@@ -180,18 +180,17 @@ This document will serve as a working draft for the management of lithium batter
 
     a.  Alert
 
-         i\.  Facilities Manager (EXT 2880, cell 858-886-6553)
+        i\. Facilities Manager (EXT 2880, cell 858-886-6553)
 
-         ii\.  Safety Officer (EXT 5650, cell 858-864-4136
+        ii\. Safety Officer (EXT 5650, cell 858-864-4136
 
-         iii\.  Front Desk Receptionist (EXT 7000)
+        iii\. Front Desk Receptionist (EXT 7000)
 
     b.  Send someone with a key card to meet the emergency responders at the loading dock and guide them through the facility doors - go up the elevator or stairs (many routes require a key card for access).
 
     c.  Use the [NOAASafe](https://nsdesk.servicenowservices.com/noaasafe) portal for the reporting of NOAA incidents, injuries, work related illnesses, or near misses. https://nsdesk.servicenowservices.com/noaasafe
 
     d.  Also, please refer to the [NOAA Safety and Environmental Compliance Office (SECO)](https://sites.google.com/a/noaa.gov/ocao/seco) for any other safety-related issues. https://sites.google.com/a/noaa.gov/ocao/seco\
-        
 
 **Attachment A**
 
