@@ -43,10 +43,11 @@ website:
         text: Project Management
       - section: "Open Science"
         contents: 
-          - content/GithubBook.qmd
+          - content/Getting-Started.qmd
           - content/ResearchGuide.qmd
-          - content/WritersWorkshop.qmd
+          - content/CoWorking.qmd
           - content/WritingGuide.qmd
+          - content/GithubBook.qmd
       - href: content/Intro-Acoustics.qmd
         text: Introduction to Acoustics
 

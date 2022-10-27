@@ -6,15 +6,7 @@ title: Github Book
 
 You can create your own website that looks like a 'book' by copying an existing template in Github and editing it in RStudio.
 
-1.  Prepare to do Great Things!
-
-    1.   Load Software: [Github Desktop](https://desktop.github.com/)
-
-    2.  Load Software: [RStudio](https://www.rstudio.com/products/rstudio/download/#download) (v2022.07.2 build 576 or later)
-
-    3.  Load Software: [R](https://www.r-project.org/)
-
-    4.  Create a [Github Login](https://github.com/)
+1.  Prepare to do Great Things! Make sure you have gone through all the steps in the 'Getting Started' section of the Open Sciences chapter of this manual.
 
 2.  Copy a template of Great Things!
 
@@ -69,6 +61,8 @@ You can create your own website that looks like a 'book' by copying an existing 
         The first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be 'contents/filename.qmd' (where filename is the name of that qmd file).
 
 8.  Render & View the Web-book
+
+    You may want to render and view the web-book locally to be sure it is great.
 
     To Render the document, open the index.qmd file (in the main folder) and click on the 'Render' icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!
 
