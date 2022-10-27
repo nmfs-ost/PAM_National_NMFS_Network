@@ -2,45 +2,41 @@
 title: Shared Values and Best Practices
 ---
 
-# **Southwest Acoustic Ecology Lab** 
+# **Southwest Acoustic Ecology Lab**
 
 # Shared Values & Best Practices
 
-NOTE: This is a living document which shall always be considered a \"draft,\" as incoming and veteran members of the lab may want to contribute ideas or revisions. This is a place to begin, a place to return to, a place to ground ongoing conversations.
+::: callout-note
+## Note
 
-**SAEL Lab Values**
+This is a living document which shall always be considered a "draft," as incoming and veteran members of the lab may want to contribute ideas or revisions. This is a place to begin, a place to return to, a place to ground ongoing conversations.
+:::
 
-We value fair treatment of all members and try to create a safe and collaborative atmosphere.  We are dedicated to providing an environment that cultivates and celebrates individual differences and recognizes these differences as integral to the scientific enterprise. We welcome members and collaborators of marginalized groups of all kinds, including but not limited to those based on race, color, physical appearance, gender identity and expression, nationality or ethnicity, sex, sexual orientation, religion, genetic characteristics, neurodiversity, disability, age, ancestry, marital status, family status, veteran status, socioeconomic status, or immigration status. We recognize that success in science requires an environment where all people feel secure in their personal identities. 
+## **SAEL Lab Values**
 
-The SAEL Lab Values also include: 
+We value fair treatment of all members and try to create a safe and collaborative atmosphere. We are dedicated to providing an environment that cultivates and celebrates individual differences and recognizes these differences as integral to the scientific enterprise. We welcome members and collaborators of marginalized groups of all kinds, including but not limited to those based on race, color, physical appearance, gender identity and expression, nationality or ethnicity, sex, sexual orientation, religion, genetic characteristics, neurodiversity, disability, age, ancestry, marital status, family status, veteran status, socioeconomic status, or immigration status. We recognize that success in science requires an environment where all people feel secure in their personal identities.
+
+The SAEL Lab Values also include:
 
 -   Ethics, justice, and equity for research participants and researchers
-
 -   Communication and respect
-
 -   Open data and methods
-
 -   Willingness to teach and learn
-
 -   Openness to fresh perspectives
-
 -   Effective mentoring as a way to increase access, equity and inclusion in STEMM (**S**cience, **T**echnology, **E**ngineering, **M**athematics & **M**edicine)
-
 -   Bringing your whole self, or as much as you want to bring, to the lab
 
-**SAEL Lab Best Practices**
+## **SAEL Lab Best Practices**
 
-**Communication**
+### **Communication**
 
-1.  We hold lab meetings regularly in which all members are expected to attend if their schedule allows. During these meetings all members are expected to contribute by sharing progress reports, discussing challenges, and celebrating successes. 
+1.  We hold lab meetings regularly in which all members are expected to attend if their schedule allows. During these meetings all members are expected to contribute by sharing progress reports, discussing challenges, and celebrating successes.
 
-2.  We use WebEx Teams for informal discussions between lab members and project teams. Similarly, we use Slack and Trello for some projects with external collaborators. 
+2.  We use WebEx Teams for informal discussions between lab members and project teams. Similarly, we use Slack and Trello for some projects with external collaborators.
 
 3.  All lab members are expected to check & respond to email and Teams/Slack regularly
 
-\
-
-**Collaboration**
+### **Collaboration**
 
 1.  Lab members and collaborators, including students, interns, volunteers, and other mentees, can expect respect, patience, and learning opportunities from each other.
 
@@ -50,68 +46,51 @@ The SAEL Lab Values also include: 
 
 4.  Collaborators are encouraged to ask questions and seek understanding from each other.
 
-\
-
-**Safety**
+### **Safety**
 
 1.  Lab members are expected to follow all safety protocols. If they are not sure of the protocol, then they should request this information.
 
 2.  Lab members should never feel obligated to perform a task that they do not feel is safe.
 
-3.  Lab members are encouraged to speak up if they feel they need training to perform a specific task safely. 
+3.  Lab members are encouraged to speak up if they feel they need training to perform a specific task safely.
 
-4.   If lab members have a safety concern, they should bring it up with the PI or the other lab members.
+4.  If lab members have a safety concern, they should bring it up with the PI or the other lab members.
 
-5.  If a lab member feels their safety concerns are not being taken seriously, they can consult the SWFSC Safety Officer ([marty.nelson\@noaa.gov](mailto:marty.nelson@noaa.gov)). 
+5.  If a lab member feels their safety concerns are not being taken seriously, they can consult the SWFSC Safety Officer ([marty.nelson\@noaa.gov](mailto:marty.nelson@noaa.gov)).
 
-\
-\
+### **Handling or resolving incivility, harassment, or assault**
 
-**Handling or resolving incivility, harassment, or assault**
+1.  Maintaining a positive lab culture requires efforts from our entire research group. We expect all lab members:
 
-6.  Maintaining a positive lab culture requires efforts from our entire research group. We expect all lab members: 
+    a.  To familiarize themselves with the definitions of incivility, microaggressions, harassment, and assault, and refrain from these behaviors.
+    b.  To use safe, responsive, and effective ways to respond to cases of incivility, harassment, and/or assault that they observe or learn of from a lab member.
+    c.  To offer support to those who have been harmed.
+    d.  To make it possible for those who have been harmed to return to normalcy and/or work as soon as they wish. Alternatively, depending on the wishes of the person who has been harmed, to create opportunities for rest or leave from work or school.
 
-    1.  To familiarize themselves with the definitions of incivility, microaggressions, harassment, and assault, and refrain from these behaviors.
+2.  Lab members should consider resolving conflicts with each other through empathetic but direct conversation.
 
-    2.  To use safe, responsive, and effective ways to respond to cases of incivility, harassment, and/or assault that they observe or learn of from a lab member.
+3.  If someone is not comfortable discussing an issue with the lab member who caused them harm, they can bring it up with the PI to mediate a conversation. If they do not feel comfortable interacting with the person who has harmed them, nor the PI, they may contact the program supervisor (Jeff Moore, [jeff.e.moore\@noaa.gov](mailto:jeff.moore@noaa.gov)), the deputy director (Robin LeRoux, [robin.leroux\@noaa.gov](mailto:robin.leroux@noaa.gov)) or the division director (Dave Weller, [dave.weller\@noaa.gov](mailto:dave.weller@noaa.gov)). Contractors should contact their contracting agency and interns should contact the intern leadership.
 
-    3.  To offer support to those who have been harmed.
+    Lastly, they may also may consider these resources:
 
-    4.  To make it possible for those who have been harmed to return to normalcy and/or work as soon as they wish. Alternatively, depending on the wishes of the person who has been harmed, to create opportunities for rest or leave from work or school.
+    -   [NOAA Sexual Assault & Sexual Harassment](https://noaasashhelpline.org/)
+    -   Phone: 866-288-6558
+    -   Website & Online Chat: https://noaasashhelpline.org/offsite link
+    -   Mobile App: NOAA SASH Helpline (available via iOS and Android App Stores)
+    -   Text: 202-335-0265 [NOAA Equal Employment Opportunity complaint and counseling options](https://www.noaa.gov/organization/inclusion-and-civil-rights/eeo-counseling-complaints)
 
-7.  Lab members should consider resolving conflicts with each other through empathetic but direct conversation. 
+4.  Acts of incivility, harassment, or assault within our lab group will lead to swift sanctions for the person who has caused harm, up to and including expulsion from the laboratory group depending on the wishes of the person who was harmed, and the severity of the act.
 
-8.  If someone is not comfortable discussing an issue with the lab member who caused them harm, they can bring it up with the PI to mediate a conversation. If they do not feel comfortable interacting with the person who has harmed them, nor the PI, they may contact the program supervisor (Jeff Moore, [jeff.e.moore\@noaa.gov](mailto:jeff.moore@noaa.gov)), the deputy director (Robin LeRoux, [robin.leroux\@noaa.gov](mailto:robin.leroux@noaa.gov)) or the division director (Dave Weller, [dave.weller\@noaa.gov](mailto:dave.weller@noaa.gov)). Contractors should contact their contracting agency and interns should contact the intern leadership. Lastly, they may also may consider these resources: 
+### **Other important resources:**
 
--   [NOAA Sexual Assault & Sexual Harassment Helpline\
-    	](https://noaasashhelpline.org/)Phone:  866-288-6558
-
-    Website & Online Chat:  https://noaasashhelpline.org/offsite link
-
-    Mobile App: NOAA SASH Helpline (available via iOS and Android App Stores)
-
-    Text:  202-335-0265
-
--   [NOAA Equal Employment Opportunity complaint and counseling options](https://www.noaa.gov/organization/inclusion-and-civil-rights/eeo-counseling-complaints)
-
-9.  Acts of incivility, harassment, or assault within our lab group will lead to swift sanctions for the person who has caused harm, up to and including expulsion from the laboratory group depending on the wishes of the person who was harmed, and the severity of the act.
-
-**Other important resources:**
-
-[SWFSC Team for Inclusion Diversity and Equity (TIDE)](https://sites.google.com/noaa.gov/inside-swfsc/home/cross-divisional-teams/tide/tide-calendar)
-
-[SWFSC Emergency Plan](https://drive.google.com/file/d/1VEyhiG4ThCcisAgMgieK_eo5R8xeu4QO/view)
-
-[SWFSC COVID Reintegration Plan](https://sites.google.com/a/noaa.gov/inside-swfsc/covid-19/covid-19-reintegration)
-
-[Online Guide to the Science of Effective Mentorship in STEMM](https://www.nap.edu/resource/25568/interactive/)
-
-[NOAA Office of Inclusion and Civil Rights](https://www.noaa.gov/organization/inclusion-and-civil-rights)
-
-[NOAA Fisheries Diversity & Inclusion](https://www.fisheries.noaa.gov/topic/careers-more#diversity-&-inclusion)
-
-[NOAA Employee Resource & Affinity Groups\
-](https://drive.google.com/open?id=1q26wdiZ8l6qLQtEFr2kOKWbcps8xCCM2)[NOAA Employee Assistance Program](https://sites.google.com/noaa.gov/ohcs/employee-resources/work-life-resources/workplace-programs/employee-assistance-program-eap?authuser=1) (NOAA internal website): 3 free phone counseling sessions to identify & resolve specific issues of concern 
+-   [SWFSC Team for Inclusion Diversity and Equity TIDE)](https://sites.google.com/noaa.gov/inside-swfsc/home/cross-divisional-teams/tide/tide-calendar)
+-   [SWFSC Emergency Plan](https://drive.google.com/file/d/1VEyhiG4ThCcisAgMgieK_eo5R8xeu4QO/view)
+-   [SWFSC COVID Reintegration Plan](https://sites.google.com/a/noaa.gov/inside-swfsc/covid-19/covid-19-reintegration)
+-   [Online Guide to the Science of Effective Mentorship in STEMM](https://www.nap.edu/resource/25568/interactive/)
+-   [NOAA Office of Inclusion and Civil Rights](https://www.noaa.gov/organization/inclusion-and-civil-rights)
+-   [NOAA Fisheries Diversity & Inclusion](https://www.fisheries.noaa.gov/topic/careers-more#diversity-&-inclusion)
+-   [NOAA Employee Resource & Affinity Groups](https://drive.google.com/open?id=1q26wdiZ8l6qLQtEFr2kOKWbcps8xCCM2)
+-   [NOAA Employee Assistance Program](https://sites.google.com/noaa.gov/ohcs/employee-resources/work-life-resources/workplace-programs/employee-assistance-program-eap?authuser=1)
+    -   Available for NOAA employees & contractors: 3 free phone counseling sessions to identify & resolve specific issues of concern
 
 \
-
