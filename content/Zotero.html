@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SAEL Lab Manual - Github Book</title>
+<title>SAEL Lab Manual - Zotero</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/Intro-Acoustics.html" rel="next">
-<link href="../content/Zotero.html" rel="prev">
+<link href="../content/GithubBook.html" rel="next">
+<link href="../content/WritingGuide.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Github Book</h1>
+      <h1 class="quarto-secondary-nav-title">Zotero</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -160,12 +160,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/Zotero.html" class="sidebar-item-text sidebar-link">Zotero</a>
+  <a href="../content/Zotero.html" class="sidebar-item-text sidebar-link active">Zotero</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/GithubBook.html" class="sidebar-item-text sidebar-link active">Github Book</a>
+  <a href="../content/GithubBook.html" class="sidebar-item-text sidebar-link">Github Book</a>
   </div>
 </li>
       </ul>
@@ -210,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Github Book</h1>
+<h1 class="title d-none d-lg-block">Zotero</h1>
 </div>
 
 
@@ -224,48 +224,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="github-book" class="level2">
-<h2 class="anchored" data-anchor-id="github-book">Github Book</h2>
-<p>You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.</p>
+<section id="zotero" class="level2">
+<h2 class="anchored" data-anchor-id="zotero">Zotero</h2>
+<p>Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.</p>
+<p>Get started:</p>
 <ol type="1">
-<li><p>Prepare to do Great Things! Make sure you have gone through all the steps in the ‘Getting Started’ section of the Open Sciences chapter of this manual.</p></li>
-<li><p>Copy a template of Great Things!</p>
-<p>Copy an existing template to your own Github account. Go to <a href="https://github.com/nmfs-opensci/NOAA-quarto-simple">NOAA Quarto Template</a> and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.</p></li>
-<li><p>Copy to your desktop to make it a Greater Thing!</p>
-<p>Using Github Desktop, Clone repository using URL (File-&gt; Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-&gt; Github folder (use defaults). See this <a href="https://rverse-tutorials.github.io/PSAW-2022/">Introduction to Git/Github tutorial</a> for more help.</p></li>
-<li><p>Use RStudio to Modify Great Thing to make it Greater!</p>
-<p>In RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-&gt; Github. Examine the documents:</p>
-<ol type="1">
-<li><p>README.md</p>
-<p><em>This is the README file that will appear on your repository page.</em></p></li>
-<li><p>index.qmd</p>
-<p><em>This will serve as your ‘home’ page for the web-book that is created</em></p></li>
-<li><p>contents folder</p>
-<p><em>This folder will contain the ‘pages’ (chapters) for your web-book</em></p></li>
-<li><p>_quarto.yml</p>
-<p><em>This will define the layout of your web-book</em></p>
-<p>(Insert picture of Layout)</p></li>
-</ol></li>
-<li><p>Modify README.md</p>
-<p>If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.</p></li>
-<li><p>Modify and Rename files in Contents Folder</p>
-<p>Each of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the <a href="https://nmfs-opensci.github.io/NOAA-quarto-simple/">original template web-page</a> for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.</p>
-<p>For each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-&gt; Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. <em>Make sure you SAVE each file when you are finished!</em></p></li>
-<li><p>Modify _quarto.yml file</p>
-<p>The _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site &amp; repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.</p>
-<p>The contents are each of your chapters (or web- pages). Each chapter has two lines of information:</p>
-<ol type="1">
-<li><p>href: refers to the name of the relevant qmd file (located in the contents folder).</p></li>
-<li><p>text: this is the text you will see on the sidebar of the web-book.</p>
-<p>The first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).</p></li>
-</ol></li>
-<li><p>Render &amp; View the Web-book</p>
-<p>You may want to render and view the web-book locally to be sure it is great.</p>
-<p>To Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything &amp; reopen RStudio &amp; run again. If you still have errors, go through file by file!</p>
-<p>To view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.</p></li>
-<li><p>Commit &amp; Push to Github</p>
-<p>Open Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.</p></li>
-<li><p>Open your Github repository and check out your Great Things!</p></li>
+<li>Load <a href="https://www.zotero.org/">Zotero</a> and create a <a href="https://www.zotero.org/user/login/">login</a>. You may also want to install the <a href="https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en">browser plugin</a> so that you can directly save google scholar citations to your online reference list.</li>
+<li></li>
 </ol>
 
 
@@ -485,13 +450,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/Zotero.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Zotero</span>
+      <a href="../content/WritingGuide.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Writing Guide</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/Intro-Acoustics.html" class="pagination-link">
-        <span class="nav-page-text">Intro to Acoustics</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/GithubBook.html" class="pagination-link">
+        <span class="nav-page-text">Github Book</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

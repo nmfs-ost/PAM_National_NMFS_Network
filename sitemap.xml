@@ -2,50 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/index.html</loc>
-    <lastmod>2022-10-27T20:26:09.463Z</lastmod>
+    <lastmod>2022-10-28T15:08:54.157Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/CoWorking.html</loc>
-    <lastmod>2022-10-27T20:26:10.671Z</lastmod>
+    <lastmod>2022-10-28T15:08:55.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Zotero.html</loc>
+    <lastmod>2022-10-28T15:08:56.221Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Inventory.html</loc>
-    <lastmod>2022-10-27T20:26:11.067Z</lastmod>
+    <lastmod>2022-10-28T15:08:56.585Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/SharedValues-BestPractices.html</loc>
-    <lastmod>2022-10-27T20:26:11.507Z</lastmod>
+    <lastmod>2022-10-28T15:08:57.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Pampal.html</loc>
+    <lastmod>2022-10-28T15:08:57.425Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/GithubBook.html</loc>
-    <lastmod>2022-10-27T20:26:11.935Z</lastmod>
+    <lastmod>2022-10-28T15:08:57.849Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Pamguard.html</loc>
+    <lastmod>2022-10-28T15:08:58.233Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/ProjectManagement.html</loc>
-    <lastmod>2022-10-27T20:26:12.323Z</lastmod>
+    <lastmod>2022-10-28T15:08:58.597Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/ResearchGuide.html</loc>
-    <lastmod>2022-10-27T20:26:12.707Z</lastmod>
+    <lastmod>2022-10-28T15:08:59.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Adrift.html</loc>
+    <lastmod>2022-10-28T15:08:59.377Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Stack-Exchange.html</loc>
+    <lastmod>2022-10-28T15:08:59.765Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Acoustics.html</loc>
-    <lastmod>2022-10-27T20:26:13.095Z</lastmod>
+    <lastmod>2022-10-28T15:09:00.125Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/WritersWorkshop.html</loc>
-    <lastmod>2022-10-27T20:26:13.483Z</lastmod>
+    <lastmod>2022-10-28T15:09:00.537Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/WritingGuide.html</loc>
-    <lastmod>2022-10-27T20:26:13.923Z</lastmod>
+    <lastmod>2022-10-28T15:09:00.949Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Safety.html</loc>
-    <lastmod>2022-10-27T20:26:14.447Z</lastmod>
+    <lastmod>2022-10-28T15:09:01.497Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Getting-Started.html</loc>
-    <lastmod>2022-10-27T20:26:14.835Z</lastmod>
+    <lastmod>2022-10-28T15:09:01.889Z</lastmod>
   </url>
 </urlset>
