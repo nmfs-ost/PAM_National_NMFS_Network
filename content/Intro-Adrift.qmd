@@ -1,0 +1,17 @@
+---
+title: Intro to ADRIFT
+---
+
+## Introduction to ADRIFT 
+
+The ADRIFT in the California Current project uses relatively low cost drifting buoys to study the marine environment. The buoys drift freely with the currents and provide a means of studying the marine environment that are not tethered to a ship or the seafloor. This allows us to study animals (and the environment) in deep, offshore waters without the influence of a noisy ship.
+
+ADRIFT buoys consist of a surface buoy, a hydrophone array and recorder at depth, and a rope to connect the surface buoy to the array. The surface buoy provides communications (satellite tracker and radar reflector to avoid vessel collision). Our recording system consists of a 2 element vertical hydrophone array connected to a Soundtrap multi-channel autonomous recorder.
+
+### For More Information:
+
+[Southwest Acoustic Ecology](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab) Web Page and [ADRIFT web page](https://www.fisheries.noaa.gov/west-coast/science-data/adrift-california-current)
+
+Our [Blog](https://www.fisheries.noaa.gov/taxonomy/term/1000356091)
+
+Detailed methods for field data collection can be found [here](https://sael-swfsc.github.io/adrift-field-methods/).

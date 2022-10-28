@@ -1,8 +1,8 @@
 ---
-title: Intro to Acoustics
+title: Intro to PAMpal
 ---
 
-##Introduction to Acoustics (Anne) 
+##Introduction to PAMpal (taiki) 
 Add Content Here
 
 The intent is not to provide a full background, but to provide a starting point for new students, interns, etc. We will want to link to other material, and make sure it is openly available on a public site (videos, etc). We want to avoid linking to anything on a google doc or somewhere with permissions. 

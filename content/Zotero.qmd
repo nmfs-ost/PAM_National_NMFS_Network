@@ -1,0 +1,12 @@
+---
+title: Zotero
+---
+
+## Zotero
+
+Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.
+
+Get started:
+
+1.  Load [Zotero](https://www.zotero.org/) and create a [login](https://www.zotero.org/user/login/). You may also want to install the [browser plugin](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en) so that you can directly save google scholar citations to your online reference list.
+2.  

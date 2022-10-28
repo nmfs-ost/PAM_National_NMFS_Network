@@ -44,12 +44,19 @@ website:
       - section: "Open Science"
         contents: 
           - content/Getting-Started.qmd
+          - content/Stack-Exchange.qmd
           - content/ResearchGuide.qmd
           - content/CoWorking.qmd
           - content/WritingGuide.qmd
+          - content/Zotero.qmd
           - content/GithubBook.qmd
-      - href: content/Intro-Acoustics.qmd
-        text: Introduction to Acoustics
+      - section: "Intro to Acoustics"
+        contents:
+          - content/Intro-Acoustics.qmd
+          - content/Intro-Pamguard.qmd
+          - content/Intro-Pampal.qmd
+          - content/Intro-Adrift.qmd
+        
 
 format:
   html:
