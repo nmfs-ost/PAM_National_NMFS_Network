@@ -194,9 +194,8 @@ This document will serve as a working draft for the management of lithium batter
 
 **Attachment A**
 
-![](https://lh5.googleusercontent.com/WNGrfjvHYZZfs5ETqfahDAmXoyhyvuOwrQ23a6fQutXVuY9W89ECMhGIYT4BW4JAfscSlS3w3PtMEbBZg_4IxlZRtFsfZvs1EyIc9oq5aqquqVGAq8k2n3l7B0m6kxoQEAnE6FfIDFw3yRON4YEC4T-Cy7ywsr5_eM6Z57nzGQJM-8r63ldE2xEy)
-
 \
+![](images/haz%20graphic.jpg)
 
 Add Content Here test
 
