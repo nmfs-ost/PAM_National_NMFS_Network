@@ -4,7 +4,11 @@ title: Safety
 
 ## Lab Safety
 
-### Lithium Ion Batteries
+### **General Lab Safety**
+
+There are many resources on the [Intranet](https://sites.google.com/noaa.gov/inside-swfsc/home/administrative/safety?pli=1&authuser=1). Some examples include the latest information on COVID-19, the NOAA Emergency Notification System, and the NOAA Safety Incident/Accident reporting home page. If you are working onsite (La Jolla) you should familiarize yourself with these links along with how to report an incident if one occurs.
+
+### **Lithium Ion Batteries**
 
 This document will serve as a working draft for the management of lithium batteries. The following bullet points are the ones we discussed today, please feel free to add or make changes to any section according to NOAA, OMAO, and the State of California regulations.
 
@@ -197,7 +201,7 @@ This document will serve as a working draft for the management of lithium batter
 \
 ![](images/haz%20graphic.jpg)
 
-Add Content Here test
+### 
 
 ## Field Safety
 
