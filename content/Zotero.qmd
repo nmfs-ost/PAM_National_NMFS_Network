@@ -8,5 +8,26 @@ Zotero is an open-source online reference manager, where references can be readi
 
 Get started:
 
-1.  Load [Zotero](https://www.zotero.org/) and create a [login](https://www.zotero.org/user/login/). You may also want to install the [browser plugin](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en) so that you can directly save google scholar citations to your online reference list.
-2.  
+1.  Load [Zotero](https://www.zotero.org/) and create a [login](https://www.zotero.org/user/login/).
+
+2.  Create a [browser plugin](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en) so that you can directly save google scholar citations to your online reference list.
+
+3.  Link Rstudio to your Zotero library
+
+Add to your Document:
+
+1.  Use Zotero to download the csl file for the journal you want to use.
+
+    -   Go to the Zotero Preferences menu (Zotero \> Preferences on Mac, Edit \> Preferences on PC).
+
+    -   Click on the Cite menu. \...
+
+    -   Below the list of pre-installed styles, click the link for Get additional styles\...
+
+    -   Search for your desired style in the provided search field.
+
+    -   Select the style you want to install.
+
+2.  Add csl to your document yaml to identify the reference style for your bibliography.
+
+3.  Add your references into the document \[**Add Info Here**\]
