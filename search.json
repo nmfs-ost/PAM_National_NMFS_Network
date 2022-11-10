@@ -18,7 +18,7 @@
     "href": "content/Zotero.html",
     "title": "Zotero",
     "section": "",
-    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login. You may also want to install the browser plugin so that you can directly save google scholar citations to your online reference list."
+    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login.\nCreate a browser plugin so that you can directly save google scholar citations to your online reference list.\nLink Rstudio to your Zotero library\n\nAdd to your Document:\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero > Preferences on Mac, Edit > Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nAdd csl to your document yaml to identify the reference style for your bibliography.\nAdd your references into the document [Add Info Here]"
   },
   {
     "objectID": "content/Inventory.html",
