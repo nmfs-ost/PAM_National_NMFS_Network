@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -243,14 +262,35 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Search for your desired style in the provided search field.</p></li>
 <li><p>Select the style you want to install.</p></li>
 </ul></li>
-<li><p>Add csl to your document yaml to identify the reference style for your bibliography.</p></li>
-<li><p>Add your references into the document [<strong>Add Info Here</strong>]</p></li>
+<li><p>CSL: <a href="https://citationstyles.org/">Citation Style Language</a></p>
+<ol type="1">
+<li><p>Use Zotero to download the csl file for the journal you want to use.</p>
+<ul>
+<li><p>Go to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).</p></li>
+<li><p>Click on the Cite menu. ...</p></li>
+<li><p>Below the list of pre-installed styles, click the link for Get additional styles...</p></li>
+<li><p>Search for your desired style in the provided search field.</p></li>
+<li><p>Select the style you want to install.</p></li>
+</ul></li>
+<li><p>Add csl to your yaml</p>
+<p>--- title<strong>:</strong> “My Document” bibliography<strong>:</strong> references.bib csl<strong>:</strong> nature.csl ---</p></li>
+</ol></li>
+<li><p>Add your references into the document</p>
+<ol type="1">
+<li><p>Inline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, <span class="citation" data-cites="wickham2015">[@wickham2015]</span></p></li>
+<li><p>Bibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:</p>
+<p>### References</p>
+</li>
+<li><p>For more information, see <a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">Quarto Guide</a></p></li>
+</ol></li>
 </ol>
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" role="doc-bibliography">
+
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
