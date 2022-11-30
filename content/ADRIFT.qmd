@@ -1,0 +1,7 @@
+---
+title: ADRIFT
+---
+
+## ADRIFT Field Methods and Hardware
+
+All information regarding the ADRIFT in the California Current Project can be found in our Adrift Field Methods [Github Repository](https://github.com/SAEL-SWFSC/adrift-field-methods) and [web book](https://sael-swfsc.github.io/adrift-field-methods/)

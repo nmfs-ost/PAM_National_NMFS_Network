@@ -41,6 +41,10 @@ website:
         text: Inventory
       - href: content/ProjectManagement.qmd
         text: Project Management
+      - section: "Hardware Methods"
+        contents:
+          - content/ADRIFT.qmd
+          - content/Handheld-Hydrophone.qmd
       - section: "Open Science"
         contents: 
           - content/Getting-Started.qmd
