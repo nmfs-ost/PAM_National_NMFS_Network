@@ -3,3 +3,5 @@ title: Handheld Hydrophone
 ---
 
 ## Handheld Hydrophone User Manual
+
+[Link to hardware repo](https://github.com/Kourtney-Burger/Test-Hardware-Repo)
