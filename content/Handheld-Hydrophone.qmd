@@ -4,4 +4,4 @@ title: Handheld Hydrophone
 
 ## Handheld Hydrophone User Manual
 
-[Link to hardware repo](https://github.com/Kourtney-Burger/Test-Hardware-Repo)
+[Link to Handheld Hydrophone User Manual](https://sael-swfsc.github.io/SAEL-Lab-Hardware/content/handheld-hydrophone.html)
