@@ -34,26 +34,34 @@ website:
       - href: index.qmd
         text: Home
       - href: content/SharedValues-BestPractices.qmd
-        text: Shared Values and Best Practices
-      - href: content/Safety.qmd
-        text: Safety
-      - href: content/Inventory.qmd
-        text: Inventory
-      - href: content/ProjectManagement.qmd
-        text: Project Management
+        text: Shared Values
+      - section: "Lab Management"
+        contents:
+          - content/Safety-Lab.qmd
+          - content/Safety_Lithium-Batteries.qmd
+          - content/Inventory.qmd
+          - content/ProjectManagement.qmd
+          - content/Permits.qmd
+          - content/Reporting.qmd
+          - content/Data-Archive.qmd
+          - content/Metadata-Archive.qmd
       - section: "Hardware Methods"
         contents:
-          - content/ADRIFT.qmd
-          - content/Handheld-Hydrophone.qmd
+          - content/Hardware_ADRIFT.qmd
+          - content/Hardware_Handheld-Hydrophone.qmd
+      - href: content/Analysis-Methods.qmd
+        text: Analysis Methods
+      - href: content/media.qmd
+        text: Media
       - section: "Open Science"
         contents: 
-          - content/Getting-Started.qmd
-          - content/Stack-Exchange.qmd
-          - content/ResearchGuide.qmd
-          - content/CoWorking.qmd
-          - content/WritingGuide.qmd
-          - content/Zotero.qmd
-          - content/GithubBook.qmd
+          - content/OpenScience_Getting-Started.qmd
+          - content/OpenScience_Stack-Exchange.qmd
+          - content/OpenScience_Research-Guide.qmd
+          - content/OpenScience_CoWorking.qmd
+          - content/OpenScience_Writing-Guide.qmd
+          - content/OpenScience_Zotero.qmd
+          - content/OpenScience_GithubBook.qmd
       - section: "Intro to Acoustics"
         contents:
           - content/Intro-Acoustics.qmd
