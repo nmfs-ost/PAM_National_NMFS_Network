@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SAEL Lab Manual - Inventory</title>
+<title>SAEL Lab Manual - Writing Guide</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/ProjectManagement.html" rel="next">
-<link href="../content/Safety_Lithium-Batteries.html" rel="prev">
+<link href="../content/OpenScience_Zotero.html" rel="next">
+<link href="../content/OpenScience_CoWorking.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Inventory</h1>
+      <h1 class="quarto-secondary-nav-title">Writing Guide</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -130,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/Inventory.html" class="sidebar-item-text sidebar-link active">Inventory</a>
+  <a href="../content/Inventory.html" class="sidebar-item-text sidebar-link">Inventory</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -220,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/OpenScience_Writing-Guide.html" class="sidebar-item-text sidebar-link">Writing Guide</a>
+  <a href="../content/OpenScience_Writing-Guide.html" class="sidebar-item-text sidebar-link active">Writing Guide</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -275,7 +275,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Inventory</h1>
+<h1 class="title d-none d-lg-block">Writing Guide</h1>
 </div>
 
 
@@ -290,9 +290,58 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="inventory-inventree" class="level2">
-<h2 class="anchored" data-anchor-id="inventory-inventree">Inventory: Inventree</h2>
-<p>Add Content Here</p>
+<section id="writing-guide" class="level2">
+<h2 class="anchored" data-anchor-id="writing-guide">Writing Guide</h2>
+<p>The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.</p>
+<ol type="1">
+<li>Create a Github Repository for your research
+<ol type="1">
+<li><p>Create Repository</p></li>
+<li><p>Use Github Desktop to clone to your local computer (store in Documents-&gt;Github)</p></li>
+<li><p>Open project in RStudio (version 2022.07.2 build576 or later)</p></li>
+</ol></li>
+<li>Create a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see <a href="https://github.com/quarto-journals/">here</a> for more info); I will use elsevier for this example.
+<ol type="1">
+<li><p>RStudio –&gt; Terminal (bottom left)</p>
+<p><code>quarto use template quarto-journals/elsevier</code></p>
+<p>This will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.</p></li>
+<li><p>In yaml at the top of the document, change the format according to the journal article template you wish to use.</p></li>
+</ol></li>
+</ol>
+<p>For example:</p>
+<pre><code>---
+title: "My Awesome Paper"
+author: "Me"
+format: 
+  pdf: default
+  elsevier-pdf:
+    keep-tex: true
+
+editor: visual
+---</code></pre>
+<p>As you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.</p>
+<ol type="1">
+<li><p>Introduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.</p></li>
+<li><p>References: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.</p></li>
+<li><p>Methods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.</p></li>
+<li><p>Results: Remember, results are just the facts!</p></li>
+<li><p>Discussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.</p></li>
+<li><p>Acknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.</p></li>
+</ol>
+<p><strong><em>Things to remember as you write:</em></strong></p>
+<ul>
+<li><p>Writing is hard. Do not try to write the perfect words– instead, get the information down. It is much easier to write ideas and then edit them later to make them sound smart than it is to write it all down perfectly the first time.</p></li>
+<li><p>Identify Co-authors: This can be tricky. Everyone approaches this a little differently, but <a href="https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">these guidelines</a> can serve as a reasonably standard approach. Discuss early on with your team and as you work with others on your project. If you use guidelines to make your co-author decisions, then this can help alleviate sticky situations related to co-authorship.</p></li>
+<li><p>Be consistent in EVERYTHING, including your approach to topics in the Intro/Methods/Results/Discussion.</p></li>
+<li><p>Do not use subheadings for each paragraph. If you use subheadings, make sure they are consistent across sections (methods, results, and possibly discussion).</p></li>
+<li><p>Follow the rules! (Authors guidelines for your journal)</p></li>
+<li><p>Get Help! Do not wait for the final draft before you share with others. Get help early on to minimize time wasted in re-doing work.</p></li>
+</ul>
+<p><strong><em>For additional information:</em></strong></p>
+<p>Writing Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). <a href="https://doi.org/10.1002/bes2.1800"><strong>https://doi.org/10.1002/bes2.1800</strong></a></p>
+<p>Defining the Role of Authors and Contributors (ICMJE). Link <a href="https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">here</a>.</p>
+<p>A guide to getting published in Ecology and Evolution (BES). Link <a href="https://www.britishecologicalsociety.org/wp-content/uploads/BES-Guide-to-Getting-Published.pdf">here</a>.</p>
+<p>Video Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link <a href="https://youtu.be/hbf7Ai3jnxY">here</a>.</p>
 
 
 </section>
@@ -548,13 +597,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/Safety_Lithium-Batteries.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Lithium Batteries</span>
+      <a href="../content/OpenScience_CoWorking.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Co-Working</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/ProjectManagement.html" class="pagination-link">
-        <span class="nav-page-text">Project Management</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/OpenScience_Zotero.html" class="pagination-link">
+        <span class="nav-page-text">Zotero</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SAEL Lab Manual - Inventory</title>
+<title>SAEL Lab Manual - Zotero</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -29,8 +48,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/ProjectManagement.html" rel="next">
-<link href="../content/Safety_Lithium-Batteries.html" rel="prev">
+<link href="../content/OpenScience_GithubBook.html" rel="next">
+<link href="../content/OpenScience_Writing-Guide.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -72,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Inventory</h1>
+      <h1 class="quarto-secondary-nav-title">Zotero</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -130,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/Inventory.html" class="sidebar-item-text sidebar-link active">Inventory</a>
+  <a href="../content/Inventory.html" class="sidebar-item-text sidebar-link">Inventory</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -225,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/OpenScience_Zotero.html" class="sidebar-item-text sidebar-link">Zotero</a>
+  <a href="../content/OpenScience_Zotero.html" class="sidebar-item-text sidebar-link active">Zotero</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -275,7 +294,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Inventory</h1>
+<h1 class="title d-none d-lg-block">Zotero</h1>
 </div>
 
 
@@ -290,9 +309,49 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="inventory-inventree" class="level2">
-<h2 class="anchored" data-anchor-id="inventory-inventree">Inventory: Inventree</h2>
-<p>Add Content Here</p>
+<section id="zotero" class="level2">
+<h2 class="anchored" data-anchor-id="zotero">Zotero</h2>
+<p>Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.</p>
+<p>Get started:</p>
+<ol type="1">
+<li><p>Load <a href="https://www.zotero.org/">Zotero</a> and create a <a href="https://www.zotero.org/user/login/">login</a>.</p></li>
+<li><p>Create a <a href="https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en">browser plugin</a> so that you can directly save google scholar citations to your online reference list.</p></li>
+<li><p>Link Rstudio to your Zotero library</p></li>
+</ol>
+<p>Add to your Document:</p>
+<ol type="1">
+<li><p>Use Zotero to download the csl file for the journal you want to use.</p>
+<ul>
+<li><p>Go to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).</p></li>
+<li><p>Click on the Cite menu. ...</p></li>
+<li><p>Below the list of pre-installed styles, click the link for Get additional styles...</p></li>
+<li><p>Search for your desired style in the provided search field.</p></li>
+<li><p>Select the style you want to install.</p></li>
+</ul></li>
+<li><p>CSL: <a href="https://citationstyles.org/">Citation Style Language</a></p>
+<ol type="1">
+<li><p>Use Zotero to download the csl file for the journal you want to use.</p>
+<ul>
+<li><p>Go to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).</p></li>
+<li><p>Click on the Cite menu. ...</p></li>
+<li><p>Below the list of pre-installed styles, click the link for Get additional styles...</p></li>
+<li><p>Search for your desired style in the provided search field.</p></li>
+<li><p>Select the style you want to install.</p></li>
+</ul></li>
+<li><p>Add csl to your yaml</p>
+<p>--- title<strong>:</strong> “My Document” bibliography<strong>:</strong> references.bib csl<strong>:</strong> nature.csl ---</p></li>
+</ol></li>
+<li><p>Add your references into the document</p>
+<ol type="1">
+<li><p>Inline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, <span class="citation" data-cites="wickham2015">[@wickham2015]</span></p></li>
+<li><p>Bibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:</p>
+<p>### References</p>
+<div id="refs" role="doc-bibliography">
+
+</div></li>
+<li><p>For more information, see <a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">Quarto Guide</a></p></li>
+</ol></li>
+</ol>
 
 
 </section>
@@ -548,13 +607,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../content/Safety_Lithium-Batteries.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Lithium Batteries</span>
+      <a href="../content/OpenScience_Writing-Guide.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Writing Guide</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/ProjectManagement.html" class="pagination-link">
-        <span class="nav-page-text">Project Management</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/OpenScience_GithubBook.html" class="pagination-link">
+        <span class="nav-page-text">Github Book</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
