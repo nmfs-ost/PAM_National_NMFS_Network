@@ -53,6 +53,9 @@ website:
         text: Analysis Methods
       - href: content/media.qmd
         text: Media
+      - section: "Documents"
+        contents: 
+          - content/Documents_Permit-Numbers.qmd
       - section: "Open Science"
         contents: 
           - content/OpenScience_Getting-Started.qmd
