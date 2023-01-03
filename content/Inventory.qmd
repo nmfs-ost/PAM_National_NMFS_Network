@@ -12,13 +12,13 @@ Complete the following steps to request and Inventory Update
 
 1.  Go to the [Inventory Github page](https://github.com/Kourtney-Burger/Inventree) and click on the 'Issues' tab
 
-    ![](images/Screenshot%202023-01-03%20163007.png)
+    ![](images/Screenshot%202023-01-03%20163007.png){width="573"}
 
 2.  Click the green 'New Issue' button and select the appropriate Issue Template
 
     ![](images/Screenshot%202023-01-03%20163229.png){width="144"}
 
-    ![](images/Screenshot%202023-01-03%20163501.png)
+    ![](images/Screenshot%202023-01-03%20163501.png){width="569"}
 
 3.  Follow the directions in the issue template, and click the 'Submit new issue' button to submit the inventory update request form
 
