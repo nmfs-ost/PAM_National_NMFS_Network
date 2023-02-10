@@ -56,6 +56,8 @@ website:
       - section: "Documents"
         contents: 
           - content/Documents_Permit-Numbers.qmd
+      - href: content/Ocean-Alert-App.qmd
+        text: Ocean Alert App
       - section: "Open Science"
         contents: 
           - content/OpenScience_Getting-Started.qmd

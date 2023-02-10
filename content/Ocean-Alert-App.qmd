@@ -1,0 +1,15 @@
+---
+title: Ocean Alert App
+---
+
+The Ocean Alert app is used to collect sighting data and record deployment/recovery details for our drifters.
+
+## Sighting Data
+
+## Drifter Deployment and Recovery Data
+
+## Manuals For Reference
+
+[Ocean Alert ADRIFT Instructions](https://drive.google.com/file/d/1bqZR9ar4-QImobS6tcbloou8f4ImYVSa/view?usp=share_link)
+
+[Ocean Alert CINMS Whale Spotting Manual](https://drive.google.com/file/d/1UapmQE_rihtly_KTtPZLYqWm-EJupFnh/view?usp=share_link)
