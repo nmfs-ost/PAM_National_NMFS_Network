@@ -41,8 +41,7 @@ website:
           - content/Safety_Lithium-Batteries.qmd
           - content/Inventory.qmd
           - content/ProjectManagement.qmd
-          - content/Permits.qmd
-          - content/Reporting.qmd
+          - content/Permits_Reporting.qmd
           - content/Data-Archive.qmd
           - content/Metadata-Archive.qmd
       - section: "Hardware Methods"
@@ -55,7 +54,6 @@ website:
         text: Media
       - section: "Documents"
         contents: 
-          - content/Documents_Permit-Numbers.qmd
       - href: content/Ocean-Alert-App.qmd
         text: Ocean Alert App
       - section: "Open Science"
