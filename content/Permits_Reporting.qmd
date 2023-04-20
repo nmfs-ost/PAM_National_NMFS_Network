@@ -29,3 +29,5 @@ Add Content Here
 ## Navy Agreement
 
 ### Reporting
+
+An automated script can be found [here](https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/5c9712776262ca1b460776cf1bebcb6e7507e163/Scripts/NMFS-Navy_PAM-Deployments.R) for pulling the necessary Navy reporting data from our [Deployment Details spreadsheet](https://docs.google.com/spreadsheets/d/10bxlwfVOe1LFfj69B_YddxcA0V14m7codYwgD2YncFk/edit#gid=395545420). Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger\@noaa.gov) with any questions/concerns.
