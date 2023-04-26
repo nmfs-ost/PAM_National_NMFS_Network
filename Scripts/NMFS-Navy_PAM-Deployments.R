@@ -1,3 +1,11 @@
+# NAVY PAM Deployments Annual Report - this script will return the final report 
+# All past, active, and planned PAM deployments must be reported annually for given time range
+
+# Lines to update
+  # Set your working directory in line 10
+  # Set the reporting date range (start and end date) in line 20
+  # Set the path to save file outputs in lines 72 & 73
+
 #SET WORKING DIRECTORY AND LOAD PACKAGES
 setwd('Path to working directory')
 library(lubridate)
