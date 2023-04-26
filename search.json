@@ -186,21 +186,21 @@
     "href": "content/Permits_Reporting.html",
     "title": "Permits & Reporting",
     "section": "",
-    "text": "PR1 Permit #0774-1437 from 4/16/1998 - 6/30/2004\nPR1 Permit #774-1714 from 06/30/2004 - 7/7/2010\nPermit # 14097 from 07/07/2010-06/30/2016*\nPermit #19091 from 05/17/2016 – 04/21/2021\nPermit #22306 04/21/2021 – 04/30/2026"
+    "text": "PR1 Permit #0774-1437 from 4/16/1998 - 6/30/2004\nPR1 Permit #774-1714 from 06/30/2004 - 7/7/2010\nPermit # 14097 from 07/07/2010-06/30/2016*\nPermit #19091 from 05/17/2016 – 04/21/2021\nPermit #22306 04/21/2021 – 04/30/2026\n\n\n\nAn automated script can be found here for pulling the necessary protected resources reporting data from our sightings data. This script does not produce the final Take Report needed for this permit. It does return takes per species, which can be added to the final Take Report provided by the permit coordinator. Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger@noaa.gov) with any questions/concerns."
   },
   {
     "objectID": "content/Permits_Reporting.html#noaa-protected-resources-permit",
     "href": "content/Permits_Reporting.html#noaa-protected-resources-permit",
     "title": "Permits & Reporting",
     "section": "",
-    "text": "PR1 Permit #0774-1437 from 4/16/1998 - 6/30/2004\nPR1 Permit #774-1714 from 06/30/2004 - 7/7/2010\nPermit # 14097 from 07/07/2010-06/30/2016*\nPermit #19091 from 05/17/2016 – 04/21/2021\nPermit #22306 04/21/2021 – 04/30/2026"
+    "text": "PR1 Permit #0774-1437 from 4/16/1998 - 6/30/2004\nPR1 Permit #774-1714 from 06/30/2004 - 7/7/2010\nPermit # 14097 from 07/07/2010-06/30/2016*\nPermit #19091 from 05/17/2016 – 04/21/2021\nPermit #22306 04/21/2021 – 04/30/2026\n\n\n\nAn automated script can be found here for pulling the necessary protected resources reporting data from our sightings data. This script does not produce the final Take Report needed for this permit. It does return takes per species, which can be added to the final Take Report provided by the permit coordinator. Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger@noaa.gov) with any questions/concerns."
   },
   {
     "objectID": "content/Permits_Reporting.html#noaa-sanctuaries-permit",
     "href": "content/Permits_Reporting.html#noaa-sanctuaries-permit",
     "title": "Permits & Reporting",
     "section": "NOAA Sanctuaries Permit",
-    "text": "NOAA Sanctuaries Permit\n\nPermit Numbers\nMULTI-2019-005 from 06/04/2019 - 04/20/2024\n\n\nPermit Reporting"
+    "text": "NOAA Sanctuaries Permit\n\nPermit Numbers\nMULTI-2019-005 from 06/04/2019 - 04/20/2024\n\n\nPermit Reporting\nAn automated script can be found here for pulling the necessary Sanctuary reporting data from our Deployment Details spreadsheet. Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger@noaa.gov) with any questions/concerns."
   },
   {
     "objectID": "content/Permits_Reporting.html#fish-wildlife-permits",
