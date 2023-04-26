@@ -14,6 +14,8 @@ Permit #22306 04/21/2021 -- 04/30/2026
 
 ### Permit Reporting
 
+An automated script can be found [here](https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/63ad139ac5c49cc3a80f1ef8a3f3c8bcbc2416ac/Scripts/PR_Takes.R) for pulling the necessary protected resources reporting data from our [sightings data](https://spotter.conserve.io/spotter/projects). This script does not produce the final Take Report needed for this permit. It does return takes per species, which can be added to the final Take Report provided by the permit coordinator. Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger\@noaa.gov) with any questions/concerns.
+
 ## NOAA Sanctuaries Permit
 
 ### Permit Numbers
@@ -21,6 +23,8 @@ Permit #22306 04/21/2021 -- 04/30/2026
 MULTI-2019-005 from 06/04/2019 - 04/20/2024
 
 ### Permit Reporting
+
+An automated script can be found [here](https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/63ad139ac5c49cc3a80f1ef8a3f3c8bcbc2416ac/Scripts/NMS_Reporting.R) for pulling the necessary Sanctuary reporting data from our [Deployment Details spreadsheet](https://docs.google.com/spreadsheets/d/10bxlwfVOe1LFfj69B_YddxcA0V14m7codYwgD2YncFk/edit#gid=395545420). Download the script and follow the directions for each reporting cycle. Contact Kourtney Burger (kourtney.burger\@noaa.gov) with any questions/concerns.
 
 ## Fish & Wildlife Permits
 
