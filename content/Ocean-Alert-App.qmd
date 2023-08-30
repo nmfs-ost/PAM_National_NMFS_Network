@@ -2,7 +2,7 @@
 title: Ocean Alert App
 ---
 
-The Ocean Alert app is used to collect sighting data and record deployment/recovery details for our drifters.
+The Ocean Alert app is used to collect sighting data and record deployment/recovery details for our drifters. [Link to access sighting and deployment data](https://spotter.conserve.io/spotter/projects), must have SAEL username and password to access our data
 
 ## Sighting Data
 
