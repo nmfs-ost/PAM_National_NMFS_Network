@@ -3,7 +3,7 @@ title: Github Book
 ---
 
 ## Github Book
-
+ 
 You can create your own website that looks like a 'book' by copying an existing template in Github and editing it in RStudio.
 
 1.  Prepare to do Great Things! Make sure you have gone through all the steps in the 'Getting Started' section of the Open Sciences chapter of this manual.

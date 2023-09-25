@@ -1,0 +1,217 @@
+---
+title: "Methods Template"
+author: "Kourtney Burger"
+format: 
+  revealjs:
+    slide-number: true
+    footer: "[Source Code](https://github.com/SAEL-SWFSC/adrift-analysis-methods/blob/main/content/Slides/methodsSlidesTemplate.qmd)" #This should link to your methods page
+    theme: black
+editor: visual
+---
+
+## Title Page
+
+This template can be used to create slides for your analysis methods
+
+Edit the text and link in the footer above to redirect to your main methods page
+
+See Quarto's [Revealjs documentation](https://quarto.org/docs/presentations/revealjs/#overview) and [options pages](https://quarto.org/docs/reference/formats/presentations/revealjs.html) for more information on formatting and editing your slides
+
+For advanced formatting options see Quarto's [Advanced Reveal documentation](https://quarto.org/docs/presentations/revealjs/advanced.html)
+
+## New Slide
+
+New slides can be created using the header options
+
+-   *'\## Slide Title'* creates a new slide
+
+-   *'\# Slide Title'* creates a new section with a title slide
+
+-   See following slides for example
+
+# New Section/Title Slide
+
+## New Slide in Section
+
+The outline can be viewed by clicking the three lines in the bottom left corner in the rendered slides
+
+# Formatting options
+
+## Multiple Columns
+
+You can add text and images side by side using columns
+
+Edit the number of columns and column width as needed
+
+::: columns
+::: {.column width="50%"}
+Left column
+
+-   Text
+:::
+
+::: {.column width="50%"}
+Right column
+
+![](images/dog1.jpg){fig-align="left"}
+:::
+:::
+
+## Absolute Positions {.smaller}
+
+Position images or other elements at precise locations using class `.absolute`
+
+![](images/dog4.jpg){.absolute top="125" left="0" width="375"}
+
+![](images/dog2.jpg){.absolute top="350" left="150" width="400"}
+
+![](images/dog3.jpg){.absolute top="125" right="125" width="350"}
+
+## Content Overflow
+
+Here are some ways to deal with too much information on one slide
+
+-   Use the `.smaller` class to use a smaller typeface
+
+-   Use the `.scrollable` class to make off-slide content available by scrolling
+
+## Content Overflow: `.smaller` {.smaller}
+
+Here's the smaller font
+
+## Content Overflow: `.scrollable` {.scrollable}
+
+Here you can scroll down the slide
+
+-   List a
+
+-   List b
+
+-   List c
+
+-   List d
+
+-   List e
+
+-   List f
+
+-   List g
+
+-   List h
+
+-   List i
+
+-   List j
+
+## Adding Code To Slides
+
+You can add code blocks and executable code to your slides. There are a wide variety of options to customize and display code, see the following resources for guidance
+
+-   [HTML Code Blocks](https://quarto.org/docs/output-formats/html-code.html)
+
+-   [Revealjs Code Options](https://quarto.org/docs/reference/formats/presentations/revealjs.html#code)
+
+# Example Method Slides
+
+## Text and Image Side by Side {.smaller}
+
+::: columns
+::: {.column width="30%"}
+-   Currently we are using Matlab 2021b
+
+-   On the home tab -\> Environment -\> Set Path
+
+-   Click "Add folder with Subfolders..."
+
+-   Browse to the folder containing Triton-R2020 (or the newest version of Triton on GitHub)
+
+-   Click 'Save' and then 'Close
+:::
+
+::: {.column width="70%"}
+![](images/Screenshot%202023-09-12%20141454.png){fig-align="center" width="669"}
+:::
+:::
+
+## Slide with Multiple Columns {.smaller}
+
+::: columns
+::: {.column width="33%"}
+-   **Start Matlab and at the command prompt type 'triton' and press enter to run the application**
+
+-   **Three windows will be displayed:**
+
+    -   **Plot**
+
+    -   **Control**
+
+    -   **Message**
+:::
+
+::: {.column width=".5%"}
+:::
+
+::: {.column width="33%"}
+Control Window - Controls settings for Plot Window
+
+Message Window - Keeps a record of the users actions and displays Plot Window cursor location
+:::
+
+::: {.column width=".5%"}
+:::
+
+::: {.column width="33%"}
+![](images/Screenshot%202023-09-12%20135310.png){width="598"}
+
+Plot Window - Displays Long Term Spectral Average (LTSA), spectrogram, spectra, and time series plots
+:::
+:::
+
+## Slide with Scrollable Figure Panel {.scrollable}
+
+::: {layout-nrow="2"}
+![SNR 1 Call](images/snr1.png)
+
+![SNR 2 Call](images/snr2.png)
+
+![SNR 3 Call](images/snr3.png)
+
+![Bad Recordings](images/bad%20recording.png)
+:::
+
+## Slide with Code
+
+```{r eval=FALSE}
+#| echo: true
+#| fig-width: 10
+#| fig-height: 4.5
+library(ggplot2)
+ggplot(mtcars, aes(hp, mpg, color = am)) +
+  geom_point() +
+  geom_smooth(formula = y ~ x, method = "loess")
+```
+
+## Slide with Executable Code
+
+```{r}
+#| echo: true
+#| fig-width: 10
+#| fig-height: 4.5
+#library(ggplot2)
+#ggplot(mtcars, aes(hp, mpg, color = am)) +
+#  geom_point() +
+#  geom_smooth(formula = y ~ x, method = "loess")
+```
+
+## Slide with Highlighted Code Lines
+
+``` {.python code-line-numbers="2-4"}
+library(ggplot2)
+ggplot(mtcars, aes(hp, mpg, color = am)) +
+  geom_point() +
+  geom_smooth(formula = y ~ x, method = "loess")
+```
+
+::: footer
+[More line highlighting options here](https://quarto.org/docs/presentations/revealjs/#line-highlighting)
+:::
