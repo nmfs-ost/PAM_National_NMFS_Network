@@ -2,110 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Getting-Started.html</loc>
-    <lastmod>2023-09-25T19:35:31.835Z</lastmod>
+    <lastmod>2023-09-25T20:39:46.335Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Pamguard.html</loc>
-    <lastmod>2023-09-25T19:35:30.755Z</lastmod>
+    <lastmod>2023-09-25T20:39:44.867Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html</loc>
-    <lastmod>2023-09-25T19:35:29.843Z</lastmod>
+    <lastmod>2023-09-25T20:39:43.671Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Analysis-Methods.html</loc>
-    <lastmod>2023-09-25T19:35:29.047Z</lastmod>
+    <lastmod>2023-09-25T20:39:42.639Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Presentations.html</loc>
-    <lastmod>2023-09-25T19:35:28.247Z</lastmod>
+    <lastmod>2023-09-25T20:39:41.623Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/ProjectManagement.html</loc>
-    <lastmod>2023-09-25T19:35:27.407Z</lastmod>
+    <lastmod>2023-09-25T20:39:40.551Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html</loc>
-    <lastmod>2023-09-25T19:35:26.615Z</lastmod>
+    <lastmod>2023-09-25T20:39:39.423Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Inventory.html</loc>
-    <lastmod>2023-09-25T19:35:25.799Z</lastmod>
+    <lastmod>2023-09-25T20:39:38.499Z</lastmod>
   </url>
   <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Research-Guide.html</loc>
-    <lastmod>2023-09-25T19:35:25.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Safety_Lithium-Batteries.html</loc>
-    <lastmod>2023-09-25T19:35:24.215Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/media.html</loc>
-    <lastmod>2023-09-25T19:35:23.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Safety-Lab.html</loc>
-    <lastmod>2023-09-25T19:35:22.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Pampal.html</loc>
-    <lastmod>2023-09-25T19:35:21.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/index.html</loc>
-    <lastmod>2023-09-25T19:35:19.631Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Permits_Reporting.html</loc>
-    <lastmod>2023-09-25T19:35:20.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Writing-Guide.html</loc>
-    <lastmod>2023-09-25T19:35:21.743Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Acoustics.html</loc>
-    <lastmod>2023-09-25T19:35:22.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Stack-Exchange.html</loc>
-    <lastmod>2023-09-25T19:35:23.483Z</lastmod>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Slides/methodsSlidesTemplate.html</loc>
+    <lastmod>2023-09-25T20:39:36.651Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Metadata-Archive.html</loc>
-    <lastmod>2023-09-25T19:35:24.599Z</lastmod>
+    <lastmod>2023-09-25T20:39:34.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Stack-Exchange.html</loc>
+    <lastmod>2023-09-25T20:39:32.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Acoustics.html</loc>
+    <lastmod>2023-09-25T20:39:31.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Writing-Guide.html</loc>
+    <lastmod>2023-09-25T20:39:30.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Permits_Reporting.html</loc>
+    <lastmod>2023-09-25T20:39:29.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/index.html</loc>
+    <lastmod>2023-09-25T20:39:27.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Pampal.html</loc>
+    <lastmod>2023-09-25T20:39:30.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Safety-Lab.html</loc>
+    <lastmod>2023-09-25T20:39:31.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/media.html</loc>
+    <lastmod>2023-09-25T20:39:32.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Safety_Lithium-Batteries.html</loc>
+    <lastmod>2023-09-25T20:39:33.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Research-Guide.html</loc>
+    <lastmod>2023-09-25T20:39:34.619Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Handheld-Hydrophone.html</loc>
-    <lastmod>2023-09-25T19:35:25.419Z</lastmod>
+    <lastmod>2023-09-25T20:39:38.007Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_CoWorking.html</loc>
-    <lastmod>2023-09-25T19:35:26.243Z</lastmod>
+    <lastmod>2023-09-25T20:39:38.999Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Intro-Adrift.html</loc>
-    <lastmod>2023-09-25T19:35:27.035Z</lastmod>
+    <lastmod>2023-09-25T20:39:39.987Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Writers-Workshop.html</loc>
-    <lastmod>2023-09-25T19:35:27.871Z</lastmod>
+    <lastmod>2023-09-25T20:39:41.107Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_Zotero.html</loc>
-    <lastmod>2023-09-25T19:35:28.679Z</lastmod>
+    <lastmod>2023-09-25T20:39:42.183Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/Ocean-Alert-App.html</loc>
-    <lastmod>2023-09-25T19:35:29.475Z</lastmod>
+    <lastmod>2023-09-25T20:39:43.139Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/OpenScience_GithubBook.html</loc>
-    <lastmod>2023-09-25T19:35:30.367Z</lastmod>
+    <lastmod>2023-09-25T20:39:44.379Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/SAEL-lab-manual/content/SharedValues-BestPractices.html</loc>
-    <lastmod>2023-09-25T19:35:31.383Z</lastmod>
+    <lastmod>2023-09-25T20:39:45.723Z</lastmod>
   </url>
 </urlset>
