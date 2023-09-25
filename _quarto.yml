@@ -65,6 +65,7 @@ website:
           - content/OpenScience_Writing-Guide.qmd
           - content/OpenScience_Zotero.qmd
           - content/OpenScience_GithubBook.qmd
+          - content/OpenScience_Presentations.qmd
       - section: "Intro to Acoustics"
         contents:
           - content/Intro-Acoustics.qmd
