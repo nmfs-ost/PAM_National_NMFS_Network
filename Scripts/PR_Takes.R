@@ -9,14 +9,15 @@
   # Set the path to save file output in line 46
 
 # SET WORKING DIRECTORY AND LOAD PACKAGES
-setwd('Path to working directory')
+setwd('~/GitHub/SAEL-lab-manual/Scripts')
 library(readr)
 library(dplyr)
 library(lubridate)
  
 #TAKE TABLE
 # Import sightings from SpotterPro (https://spotter.conserve.io/spotter/projects)
-sightings <- read_csv("PR/sightings.csv")
+# Complete a quality check on all sightings to ensure there were no data entry errors
+sightings <- read_csv("sightings.csv")
 
 # We will record all close approaches (regardless if we or the animal are approaching)
 # and all sightings w/in 250 yards as a take
@@ -31,7 +32,7 @@ takes$`Distance Category`[takes$`Distance Category` == 'A'] <- '<25'
 takes$`Distance Category`[takes$`Distance Category` == 'B'] <- '25-250'
 takes$`Distance Category`[takes$`Distance Category` == 'C'] <- '>250'
 
-takes <- takes[takes$create_date >= ymd("Start Date") & takes$create_date <= ymd("End Date"), ]
+takes <- takes[takes$create_date >= ymd("2023-01-01") & takes$create_date <= ymd("2023-12-31"), ]
 
 takes <- takes[takes$`Distance Category` == '<25' | takes$`Distance Category` == '25-250',]
 
@@ -43,4 +44,4 @@ takes <- takes %>%
 colnames(takes) <- c('Species', 'ActualTake')
 
 # EXPORT FINAL TAKE TABLE
-write.csv(takes, "Working Directory/2022_Takes.csv", row.names=FALSE)
+write.csv(takes, "2023_Takes.csv", row.names=FALSE)
