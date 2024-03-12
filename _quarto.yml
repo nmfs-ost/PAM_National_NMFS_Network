@@ -40,22 +40,19 @@ website:
           - content/Safety-Lab.qmd
           - content/Safety_Lithium-Batteries.qmd
           - content/Inventory.qmd
-          - content/ProjectManagement.qmd
+      - section: "Data Management"
+        contents:
           - content/Permits_Reporting.qmd
           - content/Data-Archive.qmd
           - content/Metadata-Archive.qmd
+          - content/media.qmd
       - section: "Hardware Methods"
         contents:
           - content/Hardware_ADRIFT.qmd
           - content/Hardware_Handheld-Hydrophone.qmd
-      - href: content/Analysis-Methods.qmd
-        text: Analysis Methods
-      - href: content/media.qmd
-        text: Media
-      - section: "Documents"
-        contents: 
-      - href: content/Ocean-Alert-App.qmd
-        text: Ocean Alert App
+      - section: "Software Management"
+        contents:
+          - content/Ocean-Alert-App.qmd
       - section: "Open Science"
         contents: 
           - content/OpenScience_Getting-Started.qmd
@@ -66,8 +63,9 @@ website:
           - content/OpenScience_Zotero.qmd
           - content/OpenScience_GithubBook.qmd
           - content/OpenScience_Presentations.qmd
-      - section: "Intro to Acoustics"
+      - section: "Acoustic Analysis"
         contents:
+          - content/Analysis-Methods.qmd
           - content/Intro-Acoustics.qmd
           - content/Intro-Pamguard.qmd
           - content/Intro-Pampal.qmd
