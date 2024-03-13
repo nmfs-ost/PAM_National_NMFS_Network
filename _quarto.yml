@@ -65,7 +65,6 @@ website:
           - content/OpenScience_Presentations.qmd
       - section: "Acoustic Analysis"
         contents:
-          - content/Analysis-Methods.qmd
           - content/Intro-Acoustics.qmd
           - content/Intro-Adrift.qmd
         
