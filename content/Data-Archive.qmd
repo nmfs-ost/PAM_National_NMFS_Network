@@ -4,8 +4,26 @@ title: Data Archive
 
 ## Local Data Archive
 
-Add Content Here
+All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.
+
+All raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON
+
+(\\swc-storage4-s\MMTD-ACOUSTICS)
+
+All archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)
 
 ## NCEI Data Archive
 
-Add Content Here
+All ADRIFT, CCES, and PASCAL raw data is publicly accessible through [NCEI Passive Acoustics Data Archive](https://www.ncei.noaa.gov/products/passive-acoustic-data). Sound level metrics can also be accessed from this archive.
+
+All data were packaged using NCEI Passive Packer tool and detailed methods can be found [here](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html).
+
+## Tethys
+
+All ADRIFT, PASCAL, and CCES deployment metadata and detection data are archived in our lab's [Tethys database](https://tethys.sdsu.edu/). See [Tethys SAEL GitHub repository](https://github.com/asimonis/TethysSAEL) and our [detailed methods](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/TethysDeployments.html) for more information.
+
+## OBIS Seamap
+
+Work in progress
+
+All ADRIFT, CCES, and PASCAL marine mammal detection data are publicly accessible from OBIS-SEAMAP database.

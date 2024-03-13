@@ -44,7 +44,6 @@ website:
         contents:
           - content/Permits_Reporting.qmd
           - content/Data-Archive.qmd
-          - content/Metadata-Archive.qmd
           - content/media.qmd
       - section: "Hardware Methods"
         contents:
