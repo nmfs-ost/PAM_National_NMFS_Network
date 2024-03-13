@@ -29,7 +29,7 @@ website:
 
     style: "docked"
     search: true
-    collapse-level: 2
+    collapse-level: 1
     contents:
       - href: index.qmd
         text: Home
@@ -67,8 +67,6 @@ website:
         contents:
           - content/Analysis-Methods.qmd
           - content/Intro-Acoustics.qmd
-          - content/Intro-Pamguard.qmd
-          - content/Intro-Pampal.qmd
           - content/Intro-Adrift.qmd
         
 
