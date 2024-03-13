@@ -528,7 +528,7 @@
     "href": "content/Data-Archive.html#ncei-data-archive",
     "title": "Data Archive",
     "section": "NCEI Data Archive",
-    "text": "NCEI Data Archive\nAll ADRIFT, CCES, and PASCAL raw data is publicly accessible through NCEI Passive Acoustics Data Archive. Sound level metrics can also be accessed from this archive.\nAll data were packaged using NCEI Passive Packer tool and detailed methods can be found here.",
+    "text": "NCEI Data Archive\nAll ADRIFT, CCES, and PASCAL raw data is publicly accessible through NCEI Passive Acoustics Data Archive. Sound level metrics can also be accessed from this archive.\nAll data were packaged using a combination of automated scripts and the NCEI Passive Packer tool. Several automation scripts were used to create Passive Packer ready databases from our deployment details metadata. Detailed methods can be found here.",
     "crumbs": [
       "Data Management",
       "Data Archive"
