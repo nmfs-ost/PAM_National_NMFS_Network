@@ -506,7 +506,7 @@
     "href": "content/Data-Archive.html",
     "title": "Data Archive",
     "section": "",
-    "text": "Add Content Here",
+    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
     "crumbs": [
       "Data Management",
       "Data Archive"
@@ -517,7 +517,7 @@
     "href": "content/Data-Archive.html#local-data-archive",
     "title": "Data Archive",
     "section": "",
-    "text": "Add Content Here",
+    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
     "crumbs": [
       "Data Management",
       "Data Archive"
@@ -528,7 +528,29 @@
     "href": "content/Data-Archive.html#ncei-data-archive",
     "title": "Data Archive",
     "section": "NCEI Data Archive",
-    "text": "NCEI Data Archive\nAdd Content Here",
+    "text": "NCEI Data Archive\nAll ADRIFT, CCES, and PASCAL raw data is publicly accessible through NCEI Passive Acoustics Data Archive. Sound level metrics can also be accessed from this archive.\nAll data were packaged using NCEI Passive Packer tool and detailed methods can be found here.",
+    "crumbs": [
+      "Data Management",
+      "Data Archive"
+    ]
+  },
+  {
+    "objectID": "content/Data-Archive.html#tethys",
+    "href": "content/Data-Archive.html#tethys",
+    "title": "Data Archive",
+    "section": "Tethys",
+    "text": "Tethys\nAll ADRIFT, PASCAL, and CCES deployment metadata and detection data are archived in our lab’s Tethys database. See Tethys SAEL GitHub repository and our detailed methods for more information.",
+    "crumbs": [
+      "Data Management",
+      "Data Archive"
+    ]
+  },
+  {
+    "objectID": "content/Data-Archive.html#obis-seamap",
+    "href": "content/Data-Archive.html#obis-seamap",
+    "title": "Data Archive",
+    "section": "OBIS Seamap",
+    "text": "OBIS Seamap\nWork in progress\nAll ADRIFT, CCES, and PASCAL marine mammal detection data are publicly accessible from OBIS-SEAMAP database.",
     "crumbs": [
       "Data Management",
       "Data Archive"
@@ -691,33 +713,21 @@
     "href": "content/Metadata-Archive.html",
     "title": "Metadata Archive",
     "section": "",
-    "text": "Add Content Here",
-    "crumbs": [
-      "Data Management",
-      "Metadata Archive"
-    ]
+    "text": "Add Content Here"
   },
   {
     "objectID": "content/Metadata-Archive.html#tethys",
     "href": "content/Metadata-Archive.html#tethys",
     "title": "Metadata Archive",
     "section": "",
-    "text": "Add Content Here",
-    "crumbs": [
-      "Data Management",
-      "Metadata Archive"
-    ]
+    "text": "Add Content Here"
   },
   {
     "objectID": "content/Metadata-Archive.html#obis-seamap",
     "href": "content/Metadata-Archive.html#obis-seamap",
     "title": "Metadata Archive",
     "section": "OBIS Seamap",
-    "text": "OBIS Seamap\nAdd Content Here",
-    "crumbs": [
-      "Data Management",
-      "Metadata Archive"
-    ]
+    "text": "OBIS Seamap\nAdd Content Here"
   },
   {
     "objectID": "content/OpenScience_Getting-Started.html",
