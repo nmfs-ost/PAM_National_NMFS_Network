@@ -16,7 +16,7 @@ All archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be fo
 
 All ADRIFT, CCES, and PASCAL raw data is publicly accessible through [NCEI Passive Acoustics Data Archive](https://www.ncei.noaa.gov/products/passive-acoustic-data). Sound level metrics can also be accessed from this archive.
 
-All data were packaged using NCEI Passive Packer tool and detailed methods can be found [here](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html).
+All data were packaged using a combination of automated scripts and the NCEI Passive Packer tool. Several automation scripts were used to create Passive Packer ready databases from our deployment details metadata. Detailed methods can be found [here](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html).
 
 ## Tethys
 
