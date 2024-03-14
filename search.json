@@ -24,18 +24,47 @@
     "text": "Add Content Here"
   },
   {
-    "objectID": "content/OpenScience_Writers-Workshop.html",
-    "href": "content/OpenScience_Writers-Workshop.html",
-    "title": "Writers Workshop",
+    "objectID": "content/Metadata-Archive.html",
+    "href": "content/Metadata-Archive.html",
+    "title": "Metadata Archive",
     "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
+    "text": "Add Content Here"
   },
   {
-    "objectID": "content/OpenScience_Writers-Workshop.html#writers-workshop",
-    "href": "content/OpenScience_Writers-Workshop.html#writers-workshop",
-    "title": "Writers Workshop",
+    "objectID": "content/Metadata-Archive.html#tethys",
+    "href": "content/Metadata-Archive.html#tethys",
+    "title": "Metadata Archive",
     "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
+    "text": "Add Content Here"
+  },
+  {
+    "objectID": "content/Metadata-Archive.html#obis-seamap",
+    "href": "content/Metadata-Archive.html#obis-seamap",
+    "title": "Metadata Archive",
+    "section": "OBIS Seamap",
+    "text": "OBIS Seamap\nAdd Content Here"
+  },
+  {
+    "objectID": "content/Hardware_Handheld-Hydrophone.html",
+    "href": "content/Hardware_Handheld-Hydrophone.html",
+    "title": "Handheld Hydrophone",
+    "section": "",
+    "text": "Link to Handheld Hydrophone User Manual",
+    "crumbs": [
+      "Hardware Methods",
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
+    "href": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
+    "title": "Handheld Hydrophone",
+    "section": "",
+    "text": "Link to Handheld Hydrophone User Manual",
+    "crumbs": [
+      "Hardware Methods",
+      "Handheld Hydrophone"
+    ]
   },
   {
     "objectID": "content/OpenScience_Writing-Guide.html",
@@ -330,58 +359,25 @@
     "text": "Slide with Highlighted Code Lines\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +\n  geom_smooth(formula = y ~ x, method = \"loess\")\n\nMore line highlighting options here\n\n\n\n\nSource Code"
   },
   {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
+    "objectID": "content/OpenScience_Stack-Exchange.html",
+    "href": "content/OpenScience_Stack-Exchange.html",
+    "title": "Stack Exchange",
     "section": "",
-    "text": "Add Content Here",
+    "text": "Stack Exchange is a publicly available crowd-sourced question and answer platform. Stack Exchange consists of many sites on different topics, including the original Stack Overflow (for programming questions), Biology, and even Bioacoustics. Here we provide you with a very brief introduction to Stack Exchange to help you use the platform effectively.\n\nRegister for Stack Exchange\nJoin relevant sites\nLearn how to search for questions\nLearn how to write a good question\nLearn how to write a good answer\n\nFor more information, see:",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
+      "Open Science",
+      "Stack Exchange"
     ]
   },
   {
-    "objectID": "content/Inventory.html#inventory-inventree",
-    "href": "content/Inventory.html#inventory-inventree",
-    "title": "Inventory",
+    "objectID": "content/OpenScience_Stack-Exchange.html#stack-exchange",
+    "href": "content/OpenScience_Stack-Exchange.html#stack-exchange",
+    "title": "Stack Exchange",
     "section": "",
-    "text": "Add Content Here",
+    "text": "Stack Exchange is a publicly available crowd-sourced question and answer platform. Stack Exchange consists of many sites on different topics, including the original Stack Overflow (for programming questions), Biology, and even Bioacoustics. Here we provide you with a very brief introduction to Stack Exchange to help you use the platform effectively.\n\nRegister for Stack Exchange\nJoin relevant sites\nLearn how to search for questions\nLearn how to write a good question\nLearn how to write a good answer\n\nFor more information, see:",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/Inventory.html#inventory-update-request",
-    "href": "content/Inventory.html#inventory-update-request",
-    "title": "Inventory",
-    "section": "Inventory Update Request",
-    "text": "Inventory Update Request\nComplete the following steps to request and Inventory Update\n\nGo to the Inventory Github page and click on the ‘Issues’ tab\n\nClick the green ‘New Issue’ button and select the appropriate Issue Template\n\n\nFollow the directions in the issue template, and click the ‘Submit new issue’ button to submit the inventory update request form\n\n\nEmail Kourtney Burger (kourtney.burger@noaa.gov) with any inventory related questions",
-    "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/Intro-Adrift.html",
-    "href": "content/Intro-Adrift.html",
-    "title": "Intro to ADRIFT",
-    "section": "",
-    "text": "The ADRIFT in the California Current project uses relatively low cost drifting buoys to study the marine environment. The buoys drift freely with the currents and provide a means of studying the marine environment that are not tethered to a ship or the seafloor. This allows us to study animals (and the environment) in deep, offshore waters without the influence of a noisy ship.\nADRIFT buoys consist of a surface buoy, a hydrophone array and recorder at depth, and a rope to connect the surface buoy to the array. The surface buoy provides communications (satellite tracker and radar reflector to avoid vessel collision). Our recording system consists of a 2 element vertical hydrophone array connected to a Soundtrap multi-channel autonomous recorder.\n\n\nSouthwest Acoustic Ecology Web Page and ADRIFT web page\nOur Blog\nDetailed methods for field data collection can be found here.",
-    "crumbs": [
-      "Acoustic Analysis",
-      "Intro to ADRIFT"
-    ]
-  },
-  {
-    "objectID": "content/Intro-Adrift.html#introduction-to-adrift",
-    "href": "content/Intro-Adrift.html#introduction-to-adrift",
-    "title": "Intro to ADRIFT",
-    "section": "",
-    "text": "The ADRIFT in the California Current project uses relatively low cost drifting buoys to study the marine environment. The buoys drift freely with the currents and provide a means of studying the marine environment that are not tethered to a ship or the seafloor. This allows us to study animals (and the environment) in deep, offshore waters without the influence of a noisy ship.\nADRIFT buoys consist of a surface buoy, a hydrophone array and recorder at depth, and a rope to connect the surface buoy to the array. The surface buoy provides communications (satellite tracker and radar reflector to avoid vessel collision). Our recording system consists of a 2 element vertical hydrophone array connected to a Soundtrap multi-channel autonomous recorder.\n\n\nSouthwest Acoustic Ecology Web Page and ADRIFT web page\nOur Blog\nDetailed methods for field data collection can be found here.",
-    "crumbs": [
-      "Acoustic Analysis",
-      "Intro to ADRIFT"
+      "Open Science",
+      "Stack Exchange"
     ]
   },
   {
@@ -469,36 +465,36 @@
     ]
   },
   {
-    "objectID": "content/OpenScience_Stack-Exchange.html",
-    "href": "content/OpenScience_Stack-Exchange.html",
-    "title": "Stack Exchange",
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
     "section": "",
-    "text": "Stack Exchange is a publicly available crowd-sourced question and answer platform. Stack Exchange consists of many sites on different topics, including the original Stack Overflow (for programming questions), Biology, and even Bioacoustics. Here we provide you with a very brief introduction to Stack Exchange to help you use the platform effectively.\n\nRegister for Stack Exchange\nJoin relevant sites\nLearn how to search for questions\nLearn how to write a good question\nLearn how to write a good answer\n\nFor more information, see:",
+    "text": "Add Content Here",
     "crumbs": [
-      "Open Science",
-      "Stack Exchange"
+      "Lab Management",
+      "Inventory"
     ]
   },
   {
-    "objectID": "content/OpenScience_Stack-Exchange.html#stack-exchange",
-    "href": "content/OpenScience_Stack-Exchange.html#stack-exchange",
-    "title": "Stack Exchange",
+    "objectID": "content/Inventory.html#inventory-inventree",
+    "href": "content/Inventory.html#inventory-inventree",
+    "title": "Inventory",
     "section": "",
-    "text": "Stack Exchange is a publicly available crowd-sourced question and answer platform. Stack Exchange consists of many sites on different topics, including the original Stack Overflow (for programming questions), Biology, and even Bioacoustics. Here we provide you with a very brief introduction to Stack Exchange to help you use the platform effectively.\n\nRegister for Stack Exchange\nJoin relevant sites\nLearn how to search for questions\nLearn how to write a good question\nLearn how to write a good answer\n\nFor more information, see:",
+    "text": "Add Content Here",
     "crumbs": [
-      "Open Science",
-      "Stack Exchange"
+      "Lab Management",
+      "Inventory"
     ]
   },
   {
-    "objectID": "content/Intro-Acoustics.html",
-    "href": "content/Intro-Acoustics.html",
-    "title": "SAEL Acoustic Software",
-    "section": "",
-    "text": "The Southwest Acoustic Ecology Lab has focused effort on developing a streamlined approach to passive acoustic data analysis that relies an Open Science approach, including a reliance on open-source software.\n\n\n\nGeneral approach to data analysis using Open Source Software\n\n\nPAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (pamguard.org), but in the future we hope to support other platforms.\n\nPampal Tutorial (https://taikisan21.github.io/PAMpal/)\nPAMpal Github (https://github.com/TaikiSan21/PAMpal)\n\nIn addition, we have developed these R software packages to address other needs:\n\nPAMmisc- A collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people).\nBANTER- A heirarchical species classifier for acoustic events developed using multiple call type detectors (see Rankin et al. 2017). Banter User’s Guide available here.\nPAMscapes- A variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from Marine Cadastre, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the National Center for Atmospheric Research.\nDriftwatch- Driftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. See ‘Setting_Up_Driftwatch.rmd’ in Driftwatch Github repo for more information.",
+    "objectID": "content/Inventory.html#inventory-update-request",
+    "href": "content/Inventory.html#inventory-update-request",
+    "title": "Inventory",
+    "section": "Inventory Update Request",
+    "text": "Inventory Update Request\nComplete the following steps to request and Inventory Update\n\nGo to the Inventory Github page and click on the ‘Issues’ tab\n\nClick the green ‘New Issue’ button and select the appropriate Issue Template\n\n\nFollow the directions in the issue template, and click the ‘Submit new issue’ button to submit the inventory update request form\n\n\nEmail Kourtney Burger (kourtney.burger@noaa.gov) with any inventory related questions",
     "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
+      "Lab Management",
+      "Inventory"
     ]
   },
   {
@@ -687,47 +683,51 @@
     ]
   },
   {
-    "objectID": "content/Hardware_Handheld-Hydrophone.html",
-    "href": "content/Hardware_Handheld-Hydrophone.html",
-    "title": "Handheld Hydrophone",
+    "objectID": "content/Analysis-adrift.html",
+    "href": "content/Analysis-adrift.html",
+    "title": "Intro to ADRIFT",
     "section": "",
-    "text": "Link to Handheld Hydrophone User Manual",
+    "text": "The ADRIFT in the California Current project uses relatively low cost drifting buoys to study the marine environment. The buoys drift freely with the currents and provide a means of studying the marine environment that are not tethered to a ship or the seafloor. This allows us to study animals (and the environment) in deep, offshore waters without the influence of a noisy ship.\nADRIFT buoys consist of a surface buoy, a hydrophone array and recorder at depth, and a rope to connect the surface buoy to the array. The surface buoy provides communications (satellite tracker and radar reflector to avoid vessel collision). Our recording system consists of a 2 element vertical hydrophone array connected to a Soundtrap multi-channel autonomous recorder.\n\n\nSouthwest Acoustic Ecology Web Page and ADRIFT web page\nOur Blog\nDetailed methods for field data collection can be found here.",
     "crumbs": [
-      "Hardware Methods",
-      "Handheld Hydrophone"
+      "Acoustic Analysis",
+      "Intro to ADRIFT"
     ]
   },
   {
-    "objectID": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
-    "href": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
-    "title": "Handheld Hydrophone",
+    "objectID": "content/Analysis-adrift.html#introduction-to-adrift",
+    "href": "content/Analysis-adrift.html#introduction-to-adrift",
+    "title": "Intro to ADRIFT",
     "section": "",
-    "text": "Link to Handheld Hydrophone User Manual",
+    "text": "The ADRIFT in the California Current project uses relatively low cost drifting buoys to study the marine environment. The buoys drift freely with the currents and provide a means of studying the marine environment that are not tethered to a ship or the seafloor. This allows us to study animals (and the environment) in deep, offshore waters without the influence of a noisy ship.\nADRIFT buoys consist of a surface buoy, a hydrophone array and recorder at depth, and a rope to connect the surface buoy to the array. The surface buoy provides communications (satellite tracker and radar reflector to avoid vessel collision). Our recording system consists of a 2 element vertical hydrophone array connected to a Soundtrap multi-channel autonomous recorder.\n\n\nSouthwest Acoustic Ecology Web Page and ADRIFT web page\nOur Blog\nDetailed methods for field data collection can be found here.",
     "crumbs": [
-      "Hardware Methods",
-      "Handheld Hydrophone"
+      "Acoustic Analysis",
+      "Intro to ADRIFT"
     ]
   },
   {
-    "objectID": "content/Metadata-Archive.html",
-    "href": "content/Metadata-Archive.html",
-    "title": "Metadata Archive",
+    "objectID": "content/OpenScience_Writers-Workshop.html",
+    "href": "content/OpenScience_Writers-Workshop.html",
+    "title": "Writers Workshop",
     "section": "",
-    "text": "Add Content Here"
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
   },
   {
-    "objectID": "content/Metadata-Archive.html#tethys",
-    "href": "content/Metadata-Archive.html#tethys",
-    "title": "Metadata Archive",
+    "objectID": "content/OpenScience_Writers-Workshop.html#writers-workshop",
+    "href": "content/OpenScience_Writers-Workshop.html#writers-workshop",
+    "title": "Writers Workshop",
     "section": "",
-    "text": "Add Content Here"
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
   },
   {
-    "objectID": "content/Metadata-Archive.html#obis-seamap",
-    "href": "content/Metadata-Archive.html#obis-seamap",
-    "title": "Metadata Archive",
-    "section": "OBIS Seamap",
-    "text": "OBIS Seamap\nAdd Content Here"
+    "objectID": "content/Analysis-software.html",
+    "href": "content/Analysis-software.html",
+    "title": "SAEL Acoustic Software",
+    "section": "",
+    "text": "The Southwest Acoustic Ecology Lab has focused effort on developing a streamlined approach to passive acoustic data analysis that relies an Open Science approach, including a reliance on open-source software.\n\n\n\nGeneral approach to data analysis using Open Source Software\n\n\n\nPAMpal\nPAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (pamguard.org), but in the future we hope to support other platforms. PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPampal Tutorial (https://taikisan21.github.io/PAMpal/)\nPAMpal CRAN (https://CRAN.R-project.org/package=PAMpal)\nPAMpal Github (https://github.com/TaikiSan21/PAMpal)\n\nIn addition, we have developed these R software packages to address other needs:\n\n\nPAMmisc\nA collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPAMmisc CRAN (https://CRAN.R-project.org/package=PAMpal)\n\n\n\nBANTER\nBANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see Rankin et al. 2017). Banter User’s Guide available here. Banter was originally developed for dolphins, but has also been applied to beaked whales (Rankin et al. 2024), among other species. BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA’s Ocean Acoustics Program.\n\nBANTER User’s Guide (https://taikisan21.github.io/PAMpal/banterGuide.html)\nBANTER CRAN (https://CRAN.R-project.org/package=banter)\nBANTER Github (https://github.com/EricArcher/banter)\n\n\n\nPAMscapes\nA variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from Marine Cadastre, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the National Center for Atmospheric Research. PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA’s Ocean Acoustics Program.\n\nPAMscapes CRAN (https://CRAN.R-project.org/package=PAMscapes)\nPAMscapes Github (https://github.com/cran/PAMscapes)\nPAMscapes Report to NOAA’s Ocean Acoustics Program (link to download)\n\n\n\nDriftwatch\nDriftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).\n\nDriftwatch Github (https://github.com/TaikiSan21/DriftWatch)\nWhere to Start: Setting_Up_Driftwatch.rmd (in Driftwatch Github Repository)",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
   },
   {
     "objectID": "content/OpenScience_Getting-Started.html",

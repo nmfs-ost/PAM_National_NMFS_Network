@@ -29,7 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../content/Intro-Adrift.html" rel="next">
+<link href="../content/Analysis-adrift.html" rel="next">
 <link href="../content/OpenScience_Presentations.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js"></script>
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked fullcontent">
+<body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/Intro-Acoustics.html">Acoustic Analysis</a></li><li class="breadcrumb-item"><a href="../content/Intro-Acoustics.html">SAEL Acoustic Software</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/Analysis-software.html">Acoustic Analysis</a></li><li class="breadcrumb-item"><a href="../content/Analysis-software.html">SAEL Acoustic Software</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -293,13 +293,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/Intro-Acoustics.html" class="sidebar-item-text sidebar-link active">
+  <a href="../content/Analysis-software.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">SAEL Acoustic Software</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../content/Intro-Adrift.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/Analysis-adrift.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Intro to ADRIFT</span></a>
   </div>
 </li>
@@ -310,11 +310,13 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/Intro-Acoustics.html">Acoustic Analysis</a></li><li class="breadcrumb-item"><a href="../content/Intro-Acoustics.html">SAEL Acoustic Software</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/Analysis-software.html">Acoustic Analysis</a></li><li class="breadcrumb-item"><a href="../content/Analysis-software.html">SAEL Acoustic Software</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">SAEL Acoustic Software</h1>
 </div>
@@ -340,20 +342,51 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>General approach to data analysis using Open Source Software</figcaption>
 </figure>
 </div>
-<p>PAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (<a href="pamguard.org">pamguard.org</a>), but in the future we hope to support other platforms.</p>
+<section id="pampal" class="level4">
+<h4 class="anchored" data-anchor-id="pampal">PAMpal</h4>
+<p>PAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (<a href="pamguard.org">pamguard.org</a>), but in the future we hope to support other platforms. <em>PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA’s Advanced Sampling Technology Working Group.</em></p>
 <ul>
 <li><p>Pampal Tutorial (<a href="https://taikisan21.github.io/PAMpal/" class="uri">https://taikisan21.github.io/PAMpal/</a>)</p></li>
+<li><p>PAMpal CRAN (<a href="https://CRAN.R-project.org/package=PAMpal" class="uri">https://CRAN.R-project.org/package=PAMpal</a>)</p></li>
 <li><p>PAMpal Github (<a href="https://github.com/TaikiSan21/PAMpal" class="uri">https://github.com/TaikiSan21/PAMpal</a>)</p></li>
 </ul>
 <p>In addition, we have developed these R software packages to address other needs:</p>
+</section>
+<section id="pammisc" class="level4">
+<h4 class="anchored" data-anchor-id="pammisc">PAMmisc</h4>
+<p>A collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). <em>PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA’s Advanced Sampling Technology Working Group.</em></p>
 <ul>
-<li><p><a href="https://CRAN.R-project.org/package=PAMmisc">PAMmisc</a>- A collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people).</p></li>
-<li><p><a href="https://CRAN.R-project.org/package=banter">BANTER</a>- A heirarchical species classifier for acoustic events developed using multiple call type detectors (see <a href="doi:10.1111/mms.12381">Rankin et al.&nbsp;2017</a>). Banter User’s Guide available <a href="https://taikisan21.github.io/PAMpal/banterGuide.html">here</a>.</p></li>
-<li><p><a href="https://CRAN.R-project.org/package=PAMscapes">PAMscapes</a>- A variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from <a href="https://marinecadastre.gov/ais/">Marine Cadastre</a>, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the <a href="https://rda.ucar.edu/datasets/ds084.1/">National Center for Atmospheric Research</a>.</p></li>
-<li><p>Driftwatch- Driftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. See ‘<a href="https://github.com/TaikiSan21/DriftWatch/blob/main/Setting_Up_DriftWatch.rmd">Setting_Up_Driftwatch.rmd</a>’ in <a href="https://github.com/TaikiSan21/DriftWatch">Driftwatch Github repo</a> for more information.</p></li>
+<li>PAMmisc CRAN (<a href="https://CRAN.R-project.org/package=PAMpal" class="uri">https://CRAN.R-project.org/package=PAMpal</a>)</li>
+</ul>
+</section>
+<section id="banter" class="level4">
+<h4 class="anchored" data-anchor-id="banter">BANTER</h4>
+<p>BANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see <a href="doi:10.1111/mms.12381">Rankin et al.&nbsp;2017</a>). Banter User’s Guide available <a href="https://taikisan21.github.io/PAMpal/banterGuide.html">here</a>. Banter was originally developed for dolphins, but has also been applied to beaked whales (<a href="https://doi.org/10.1016/j.ecoinf.2024.102511">Rankin et al.&nbsp;2024</a>), among other species. <em>BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA’s Ocean Acoustics Program.</em></p>
+<ul>
+<li><p>BANTER User’s Guide (<a href="https://taikisan21.github.io/PAMpal/banterGuide.html" class="uri">https://taikisan21.github.io/PAMpal/banterGuide.html</a>)</p></li>
+<li><p>BANTER CRAN (<a href="https://cran.r-project.org/package=banter">https://CRAN.R-project.org/package=banter</a>)</p></li>
+<li><p>BANTER Github (<a href="https://github.com/EricArcher/banter" class="uri">https://github.com/EricArcher/banter</a>)</p></li>
+</ul>
+</section>
+<section id="pamscapes" class="level4">
+<h4 class="anchored" data-anchor-id="pamscapes">PAMscapes</h4>
+<p>A variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from <a href="https://marinecadastre.gov/ais/">Marine Cadastre</a>, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the <a href="https://rda.ucar.edu/datasets/ds084.1/">National Center for Atmospheric Research</a>. <em>PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA’s Ocean Acoustics Program.</em></p>
+<ul>
+<li><p>PAMscapes CRAN (<a href="https://CRAN.R-project.org/package=PAMscapes" class="uri">https://CRAN.R-project.org/package=PAMscapes</a>)</p></li>
+<li><p>PAMscapes Github (<a href="https://github.com/cran/PAMscapes" class="uri">https://github.com/cran/PAMscapes</a>)</p></li>
+<li><p>PAMscapes Report to NOAA’s Ocean Acoustics Program (link to download)</p></li>
+</ul>
+</section>
+<section id="driftwatch" class="level4">
+<h4 class="anchored" data-anchor-id="driftwatch">Driftwatch</h4>
+<p>Driftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. <em>Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).</em></p>
+<ul>
+<li><p>Driftwatch Github (<a href="https://github.com/TaikiSan21/DriftWatch" class="uri">https://github.com/TaikiSan21/DriftWatch</a>)</p></li>
+<li><p>Where to Start: <a href="https://github.com/TaikiSan21/DriftWatch/blob/main/Setting_Up_DriftWatch.rmd">Setting_Up_Driftwatch.rmd</a> (in Driftwatch Github Repository)</p></li>
 </ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -916,7 +949,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/Intro-Adrift.html" class="pagination-link" aria-label="Intro to ADRIFT">
+      <a href="../content/Analysis-adrift.html" class="pagination-link" aria-label="Intro to ADRIFT">
         <span class="nav-page-text">Intro to ADRIFT</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -929,7 +962,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/Intro-Acoustics.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/Intro-Acoustics.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/Analysis-software.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/Analysis-software.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
