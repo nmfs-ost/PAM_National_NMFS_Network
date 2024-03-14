@@ -6,7 +6,7 @@ The Southwest Acoustic Ecology Lab has focused effort on developing a streamline
 
 [![General approach to data analysis using Open Source Software](images/FOSSA.JPG)](https://www.fisheries.noaa.gov/west-coast/science-data/fossa)
 
-#### PAMpal
+## PAMpal
 
 PAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard ([pamguard.org](pamguard.org)), but in the future we hope to support other platforms. *PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA's Advanced Sampling Technology Working Group.*
 
@@ -18,13 +18,13 @@ PAMpal is an R package for processing passive acoustic data. Currently PAMpal on
 
 In addition, we have developed these R software packages to address other needs:
 
-#### PAMmisc
+## PAMmisc
 
 A collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). *PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA's Advanced Sampling Technology Working Group.*
 
 -   PAMmisc CRAN (<https://CRAN.R-project.org/package=PAMpal>)
 
-#### BANTER
+## BANTER
 
 BANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see [Rankin et al. 2017](doi:10.1111/mms.12381)). Banter User's Guide available [here](https://taikisan21.github.io/PAMpal/banterGuide.html). Banter was originally developed for dolphins, but has also been applied to beaked whales ([Rankin et al. 2024](https://doi.org/10.1016/j.ecoinf.2024.102511)), among other species. *BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA's Ocean Acoustics Program.*
 
@@ -34,7 +34,7 @@ BANTER is a hierarchical species classifier for acoustic events developed using 
 
 -   BANTER Github (<https://github.com/EricArcher/banter>)
 
-#### PAMscapes
+## PAMscapes
 
 A variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from [Marine Cadastre](https://marinecadastre.gov/ais/), connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the [National Center for Atmospheric Research](https://rda.ucar.edu/datasets/ds084.1/). *PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA's Ocean Acoustics Program.*
 
@@ -44,7 +44,7 @@ A variety of tools relevant to the analysis of marine soundscape data (including
 
 -   PAMscapes Report to NOAA's Ocean Acoustics Program (link to download)
 
-#### Driftwatch
+## Driftwatch
 
 Driftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. *Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).*
 

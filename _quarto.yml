@@ -8,6 +8,7 @@ website:
   repo-url: "https://github.com/SAEL-SWFSC/SAEL-lab-manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
+  search: true
   
   
   page-footer:
