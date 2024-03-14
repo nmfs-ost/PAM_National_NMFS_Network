@@ -311,7 +311,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#pampal" id="toc-pampal" class="nav-link active" data-scroll-target="#pampal">PAMpal</a></li>
+  <li><a href="#pammisc" id="toc-pammisc" class="nav-link" data-scroll-target="#pammisc">PAMmisc</a></li>
+  <li><a href="#banter" id="toc-banter" class="nav-link" data-scroll-target="#banter">BANTER</a></li>
+  <li><a href="#pamscapes" id="toc-pamscapes" class="nav-link" data-scroll-target="#pamscapes">PAMscapes</a></li>
+  <li><a href="#driftwatch" id="toc-driftwatch" class="nav-link" data-scroll-target="#driftwatch">Driftwatch</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/Analysis-software.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/Analysis-software.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -342,8 +352,8 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>General approach to data analysis using Open Source Software</figcaption>
 </figure>
 </div>
-<section id="pampal" class="level4">
-<h4 class="anchored" data-anchor-id="pampal">PAMpal</h4>
+<section id="pampal" class="level2">
+<h2 class="anchored" data-anchor-id="pampal">PAMpal</h2>
 <p>PAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (<a href="pamguard.org">pamguard.org</a>), but in the future we hope to support other platforms. <em>PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA’s Advanced Sampling Technology Working Group.</em></p>
 <ul>
 <li><p>Pampal Tutorial (<a href="https://taikisan21.github.io/PAMpal/" class="uri">https://taikisan21.github.io/PAMpal/</a>)</p></li>
@@ -352,15 +362,15 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>In addition, we have developed these R software packages to address other needs:</p>
 </section>
-<section id="pammisc" class="level4">
-<h4 class="anchored" data-anchor-id="pammisc">PAMmisc</h4>
+<section id="pammisc" class="level2">
+<h2 class="anchored" data-anchor-id="pammisc">PAMmisc</h2>
 <p>A collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). <em>PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA’s Advanced Sampling Technology Working Group.</em></p>
 <ul>
 <li>PAMmisc CRAN (<a href="https://CRAN.R-project.org/package=PAMpal" class="uri">https://CRAN.R-project.org/package=PAMpal</a>)</li>
 </ul>
 </section>
-<section id="banter" class="level4">
-<h4 class="anchored" data-anchor-id="banter">BANTER</h4>
+<section id="banter" class="level2">
+<h2 class="anchored" data-anchor-id="banter">BANTER</h2>
 <p>BANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see <a href="doi:10.1111/mms.12381">Rankin et al.&nbsp;2017</a>). Banter User’s Guide available <a href="https://taikisan21.github.io/PAMpal/banterGuide.html">here</a>. Banter was originally developed for dolphins, but has also been applied to beaked whales (<a href="https://doi.org/10.1016/j.ecoinf.2024.102511">Rankin et al.&nbsp;2024</a>), among other species. <em>BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA’s Ocean Acoustics Program.</em></p>
 <ul>
 <li><p>BANTER User’s Guide (<a href="https://taikisan21.github.io/PAMpal/banterGuide.html" class="uri">https://taikisan21.github.io/PAMpal/banterGuide.html</a>)</p></li>
@@ -368,8 +378,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>BANTER Github (<a href="https://github.com/EricArcher/banter" class="uri">https://github.com/EricArcher/banter</a>)</p></li>
 </ul>
 </section>
-<section id="pamscapes" class="level4">
-<h4 class="anchored" data-anchor-id="pamscapes">PAMscapes</h4>
+<section id="pamscapes" class="level2">
+<h2 class="anchored" data-anchor-id="pamscapes">PAMscapes</h2>
 <p>A variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from <a href="https://marinecadastre.gov/ais/">Marine Cadastre</a>, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the <a href="https://rda.ucar.edu/datasets/ds084.1/">National Center for Atmospheric Research</a>. <em>PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA’s Ocean Acoustics Program.</em></p>
 <ul>
 <li><p>PAMscapes CRAN (<a href="https://CRAN.R-project.org/package=PAMscapes" class="uri">https://CRAN.R-project.org/package=PAMscapes</a>)</p></li>
@@ -377,8 +387,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>PAMscapes Report to NOAA’s Ocean Acoustics Program (link to download)</p></li>
 </ul>
 </section>
-<section id="driftwatch" class="level4">
-<h4 class="anchored" data-anchor-id="driftwatch">Driftwatch</h4>
+<section id="driftwatch" class="level2">
+<h2 class="anchored" data-anchor-id="driftwatch">Driftwatch</h2>
 <p>Driftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. <em>Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).</em></p>
 <ul>
 <li><p>Driftwatch Github (<a href="https://github.com/TaikiSan21/DriftWatch" class="uri">https://github.com/TaikiSan21/DriftWatch</a>)</p></li>
@@ -962,7 +972,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/Analysis-software.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/Analysis-software.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/edit/main/content/Analysis-software.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/content/Analysis-software.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
