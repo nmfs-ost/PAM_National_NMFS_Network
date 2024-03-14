@@ -1,6 +1,6 @@
 project: 
   type: website
-
+  
 website: 
   page-navigation: true
   title: "SAEL Lab Manual" 
@@ -8,6 +8,7 @@ website:
   repo-url: "https://github.com/SAEL-SWFSC/SAEL-lab-manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
+  
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -64,8 +65,8 @@ website:
           - content/OpenScience_Presentations.qmd
       - section: "Acoustic Analysis"
         contents:
-          - content/Intro-Acoustics.qmd
-          - content/Intro-Adrift.qmd
+          - content/Analysis-software.qmd
+          - content/Analysis-adrift.qmd
         
 
 format:
@@ -75,6 +76,8 @@ format:
       dark: [cosmo, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
+    toc: true
+
    
      
 
