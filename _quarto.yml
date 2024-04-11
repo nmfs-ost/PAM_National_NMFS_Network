@@ -63,6 +63,7 @@ website:
           - content/OpenScience_Writing-Guide.qmd
           - content/OpenScience_Zotero.qmd
           - content/OpenScience_GithubBook.qmd
+          - content/OpenScience_GithubBranches.qmd
           - content/OpenScience_Presentations.qmd
       - section: "Acoustic Analysis"
         contents:
