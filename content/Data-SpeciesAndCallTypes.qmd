@@ -1,0 +1,59 @@
+---
+title: Species and Call Types
+---
+
+Use the following [species abbreviations and call type codes](https://docs.google.com/spreadsheets/d/1xZzh56lA7P4awbz6CNAOciQk8YNNWQG5LJkI5vR3nH0/edit?usp=sharing) for all data analysis and data archive. Full species abbreviation table available [here](https://drive.google.com/file/d/1fg4yzSoncXLiwsya98yoJMd0N49nUXKA/view).
+
+## Species
+
+| Common Name                                    | Scientific Name            | SAEL Species            | PACM Species |
+|------------------------|----------------|----------------|----------------|
+| Baird's Beaked Whale                           | Berardius bairdii          | BB (or Bb1)             | BWBB         |
+| Blue whale                                     | Balaenoptera musculus      | Bm                      | BLWH         |
+| Bryde's Whale                                  | Balaenoptera brydei        | Be                      | BBWH         |
+| Cross Seamount beaked whales                   | NA                         | BWC                     | BWC          |
+| Cuvier's beaked whale                          | Ziphius cavirostris        | Zc                      | GOBW         |
+| Dall's porpoise                                | Phocoenoides dalli         | Pd                      | DAPO         |
+| Dolphins                                       | Delphinidae sp.            | Includes Gg, Lo, and UO | UNDO         |
+| Fin whale                                      | Balaenoptera physalus      | Bp                      | FIWH         |
+| Gray whale                                     | Eschrichtius robustus      | Er                      | GRWH         |
+| Harbor porpoise                                | Phocoena phocoena          |                         | HAPO         |
+| Hubb's beaked whale                            | Mesoplodon carlhubbsi      | Mc                      | BWMC         |
+| Humpback whale                                 | Megaptera novaeangliae     | Mn                      | HUWH         |
+| Kogia                                          | Kogia sp.                  | Ks                      | UNKO         |
+| Minke whale                                    | Balaenoptera acutorostrata | Ba                      | MIWH         |
+| NBHF - Kogia, Dall's Porpoise, Harbor Porpoise | NA                         | NBHF                    | NBHF         |
+| Orca                                           | Orcinus orca               | Oo                      | OOWH         |
+| Pacific white-sided dolphin                    | Lagenorhynchus obliquidens | Lo                      | PWDO         |
+| Risso's dolphin                                | Grampus griseus            | Gg                      | GRAM         |
+| Sei whale                                      | Balaenoptera borealis      | Bb (or B. Borealis)     | SEWH         |
+| Sperm Whale                                    | Physeter macrocephalus     | Pm                      | SPWH         |
+| Stejneger's beaked whale                       | Mesoplodon stejnegeri      | Ms                      | BWMS         |
+| Unidentified beaked whale 43 kHz               | NA                         | BW43                    | BW43         |
+| Unidentified dolphin                           | NA                         | UO                      | UNDO         |
+| Unidentified mesoplodon (beaked whale)         | Mesoplodon sp.             | BW                      | UNME         |
+
+## Call Types
+
+| Species        | Call Type Name                           | SAEL Call Code | PACM Call Code | PACM Call Description                                                                                                           | Notes |
+|---------|---------|---------|---------|------------------------------|---------|
+| Beaked whale   | Beaked whale frequency modulated upsweep |                | FMUS           | Beaked whale foraging clicks                                                                                                    |       |
+| Blue whale     | Blue whale A call                        | A              | BLANEP         | NE Pacific blue whale A call                                                                                                    |       |
+| Blue whale     | Blue whale B call                        | B              | BLBNEP         | NE Pacific blue whale B call                                                                                                    |       |
+| Blue whale     | Blue whale D call                        | D              | BLDNEP         | NE Pacific blue whale D call                                                                                                    |       |
+| Blue whale     | Blue whale tonal call                    | BLTonal        | BLTONNEP       | NE Pacific blue whale tonal call                                                                                                |       |
+| Blue whale     | Blue whale downsweep call                | BLDS           | BLDSNEP        | NE Pacific blue whale downsweep call                                                                                            |       |
+| Blue whale     | Blue whale mixed call                    | BLMixed        | BLMIXNEP       | NE Pacific blue whale mixed calls (A, B, D, tonal, downsweep)                                                                   |       |
+| Fin whale      | Fin whale 20 Hz pulse                    | 20Hz           | FW20HZ         | NE Pacific fin whale 20 Hz pulses                                                                                               |       |
+| Fin whale      | Fin whale 40 Hz downsweep                | 40Hz           | FW40HZ         | NE Pacfic fin whale 40 Hz downsweeps                                                                                            |       |
+| Gray whale     | Gray whale unidentified                  | Unidentified   | GWUND          | Unidentified NE Pacific gray whale calls                                                                                        |       |
+| Humpback whale | Humpback whale unidentified              | Unidentified   | HWUND          | Unidentified NE Pacific humpback whale calls (cannot distinguish social vs song)                                                |       |
+| Humpback whale | Humpback whale social                    | Social         | HWSOC          | Humpback whale social calls only                                                                                                |       |
+| Humpback whale | Humpback whale song                      | Song           | HWSONG         | Humpback whale song only                                                                                                        |       |
+| Minke whale    | Minke whale boing                        | Boing          | MWNEPBOING     | NE Pacific minke whale boing                                                                                                    |       |
+| NBHF           | NBHF                                     | NA             | NBHF           | All NBHF calls for kogia sp., dall's porpoise, and harbor porpoise                                                              |       |
+| Odontocete     | Odontocete impulsive click               | Clicks         | ODCLICK        | Dolphin clicks (either delphinid or blackfish)                                                                                  |       |
+| Odontocete     | Odontocete whistle                       | Whistles       | ODWHIS         | Dolphin whistles (either delphinid or blackfish)                                                                                |       |
+| Sei whale      | Sei whale 30-80Hz downsweep              | SWDS           | SWDS           | Sei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3-5 seconds apart as doublets, triplets, or more. |       |
+| Sperm whale    | Sperm whale usual click                  | Clicks         | SPUSC          | Sperm whale foraging click                                                                                                      |       |
+| Sperm whale    | Sperm whale slow click                   | Slow Clicks    | SPSLC          | Sperm whale social: slow clicks                                                                                                 |       |

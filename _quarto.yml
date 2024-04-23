@@ -45,6 +45,7 @@ website:
       - section: "Data Management"
         contents:
           - content/Permits_Reporting.qmd
+          - content/Data-SpeciesAndCallTypes.qmd
           - content/Data-Archive.qmd
           - content/media.qmd
       - section: "Hardware Methods"
