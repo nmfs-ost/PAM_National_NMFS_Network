@@ -65,193 +65,18 @@
     ]
   },
   {
-    "objectID": "content/ProjectManagement.html",
-    "href": "content/ProjectManagement.html",
-    "title": "Project Management",
+    "objectID": "content/OpenScience_Writers-Workshop.html",
+    "href": "content/OpenScience_Writers-Workshop.html",
+    "title": "Writers Workshop",
     "section": "",
-    "text": "Add Content Here"
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
   },
   {
-    "objectID": "content/ProjectManagement.html#project-management",
-    "href": "content/ProjectManagement.html#project-management",
-    "title": "Project Management",
+    "objectID": "content/OpenScience_Writers-Workshop.html#writers-workshop",
+    "href": "content/OpenScience_Writers-Workshop.html#writers-workshop",
+    "title": "Writers Workshop",
     "section": "",
-    "text": "Add Content Here"
-  },
-  {
-    "objectID": "content/Metadata-Archive.html",
-    "href": "content/Metadata-Archive.html",
-    "title": "Metadata Archive",
-    "section": "",
-    "text": "Add Content Here"
-  },
-  {
-    "objectID": "content/Metadata-Archive.html#tethys",
-    "href": "content/Metadata-Archive.html#tethys",
-    "title": "Metadata Archive",
-    "section": "",
-    "text": "Add Content Here"
-  },
-  {
-    "objectID": "content/Metadata-Archive.html#obis-seamap",
-    "href": "content/Metadata-Archive.html#obis-seamap",
-    "title": "Metadata Archive",
-    "section": "OBIS Seamap",
-    "text": "OBIS Seamap\nAdd Content Here"
-  },
-  {
-    "objectID": "content/Hardware_ADRIFT.html",
-    "href": "content/Hardware_ADRIFT.html",
-    "title": "ADRIFT",
-    "section": "",
-    "text": "All information regarding the ADRIFT in the California Current Project can be found in our Adrift Field Methods Github Repository and web book",
-    "crumbs": [
-      "Hardware Methods",
-      "ADRIFT"
-    ]
-  },
-  {
-    "objectID": "content/Hardware_ADRIFT.html#adrift-field-methods-and-hardware",
-    "href": "content/Hardware_ADRIFT.html#adrift-field-methods-and-hardware",
-    "title": "ADRIFT",
-    "section": "",
-    "text": "All information regarding the ADRIFT in the California Current Project can be found in our Adrift Field Methods Github Repository and web book",
-    "crumbs": [
-      "Hardware Methods",
-      "ADRIFT"
-    ]
-  },
-  {
-    "objectID": "content/Hardware_Handheld-Hydrophone.html",
-    "href": "content/Hardware_Handheld-Hydrophone.html",
-    "title": "Handheld Hydrophone",
-    "section": "",
-    "text": "Link to Handheld Hydrophone User Manual",
-    "crumbs": [
-      "Hardware Methods",
-      "Handheld Hydrophone"
-    ]
-  },
-  {
-    "objectID": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
-    "href": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
-    "title": "Handheld Hydrophone",
-    "section": "",
-    "text": "Link to Handheld Hydrophone User Manual",
-    "crumbs": [
-      "Hardware Methods",
-      "Handheld Hydrophone"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Presentations.html",
-    "href": "content/OpenScience_Presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Presentations can be made in Quarto as three different slide formats including reveal.js (HTML), PowerPoint (MS Office), and Beamer (LaTeX/PDF).",
-    "crumbs": [
-      "Open Science",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Presentations.html#quarto-slides",
-    "href": "content/OpenScience_Presentations.html#quarto-slides",
-    "title": "Presentations",
-    "section": "",
-    "text": "Presentations can be made in Quarto as three different slide formats including reveal.js (HTML), PowerPoint (MS Office), and Beamer (LaTeX/PDF).",
-    "crumbs": [
-      "Open Science",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Presentations.html#html-slides-template",
-    "href": "content/OpenScience_Presentations.html#html-slides-template",
-    "title": "Presentations",
-    "section": "HTML Slides Template",
-    "text": "HTML Slides Template\nMethods Slides Template",
-    "crumbs": [
-      "Open Science",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_GithubBook.html",
-    "href": "content/OpenScience_GithubBook.html",
-    "title": "Github Book",
-    "section": "",
-    "text": "You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.\n\nPrepare to do Great Things! Make sure you have gone through all the steps in the ‘Getting Started’ section of the Open Sciences chapter of this manual.\nCopy a template of Great Things!\nCopy an existing template to your own Github account. Go to NOAA Quarto Template and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.\nCopy to your desktop to make it a Greater Thing!\nUsing Github Desktop, Clone repository using URL (File-&gt; Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-&gt; Github folder (use defaults). See this Introduction to Git/Github tutorial for more help.\nUse RStudio to Modify Great Thing to make it Greater!\nIn RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-&gt; Github. Examine the documents:\n\nREADME.md\nThis is the README file that will appear on your repository page.\nindex.qmd\nThis will serve as your ‘home’ page for the web-book that is created\ncontents folder\nThis folder will contain the ‘pages’ (chapters) for your web-book\n_quarto.yml\nThis will define the layout of your web-book\n(Insert picture of Layout)\n\nModify README.md\nIf you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nModify and Rename files in Contents Folder\nEach of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the original template web-page for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.\nFor each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-&gt; Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. Make sure you SAVE each file when you are finished!\nModify _quarto.yml file\nThe _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site & repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.\nThe contents are each of your chapters (or web- pages). Each chapter has two lines of information:\n\nhref: refers to the name of the relevant qmd file (located in the contents folder).\ntext: this is the text you will see on the sidebar of the web-book.\nThe first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).\n\nRender & View the Web-book\nYou may want to render and view the web-book locally to be sure it is great.\nTo Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!\nTo view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.\nCommit & Push to Github\nOpen Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out your Great Things!",
-    "crumbs": [
-      "Open Science",
-      "Github Book"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_GithubBook.html#github-book",
-    "href": "content/OpenScience_GithubBook.html#github-book",
-    "title": "Github Book",
-    "section": "",
-    "text": "You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.\n\nPrepare to do Great Things! Make sure you have gone through all the steps in the ‘Getting Started’ section of the Open Sciences chapter of this manual.\nCopy a template of Great Things!\nCopy an existing template to your own Github account. Go to NOAA Quarto Template and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.\nCopy to your desktop to make it a Greater Thing!\nUsing Github Desktop, Clone repository using URL (File-&gt; Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-&gt; Github folder (use defaults). See this Introduction to Git/Github tutorial for more help.\nUse RStudio to Modify Great Thing to make it Greater!\nIn RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-&gt; Github. Examine the documents:\n\nREADME.md\nThis is the README file that will appear on your repository page.\nindex.qmd\nThis will serve as your ‘home’ page for the web-book that is created\ncontents folder\nThis folder will contain the ‘pages’ (chapters) for your web-book\n_quarto.yml\nThis will define the layout of your web-book\n(Insert picture of Layout)\n\nModify README.md\nIf you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nModify and Rename files in Contents Folder\nEach of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the original template web-page for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.\nFor each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-&gt; Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. Make sure you SAVE each file when you are finished!\nModify _quarto.yml file\nThe _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site & repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.\nThe contents are each of your chapters (or web- pages). Each chapter has two lines of information:\n\nhref: refers to the name of the relevant qmd file (located in the contents folder).\ntext: this is the text you will see on the sidebar of the web-book.\nThe first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).\n\nRender & View the Web-book\nYou may want to render and view the web-book locally to be sure it is great.\nTo Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!\nTo view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.\nCommit & Push to Github\nOpen Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out your Great Things!",
-    "crumbs": [
-      "Open Science",
-      "Github Book"
-    ]
-  },
-  {
-    "objectID": "content/Data-Archive.html",
-    "href": "content/Data-Archive.html",
-    "title": "Data Archive",
-    "section": "",
-    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
-    "crumbs": [
-      "Data Management",
-      "Data Archive"
-    ]
-  },
-  {
-    "objectID": "content/Data-Archive.html#local-data-archive",
-    "href": "content/Data-Archive.html#local-data-archive",
-    "title": "Data Archive",
-    "section": "",
-    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
-    "crumbs": [
-      "Data Management",
-      "Data Archive"
-    ]
-  },
-  {
-    "objectID": "content/Data-Archive.html#ncei-data-archive",
-    "href": "content/Data-Archive.html#ncei-data-archive",
-    "title": "Data Archive",
-    "section": "NCEI Data Archive",
-    "text": "NCEI Data Archive\nAll ADRIFT, CCES, and PASCAL raw data is publicly accessible through NCEI Passive Acoustics Data Archive. Sound level metrics can also be accessed from this archive.\nAll data were packaged using a combination of automated scripts and the NCEI Passive Packer tool. Several automation scripts were used to create Passive Packer ready databases from our deployment details metadata. Detailed methods can be found here.",
-    "crumbs": [
-      "Data Management",
-      "Data Archive"
-    ]
-  },
-  {
-    "objectID": "content/Data-Archive.html#tethys",
-    "href": "content/Data-Archive.html#tethys",
-    "title": "Data Archive",
-    "section": "Tethys",
-    "text": "Tethys\nAll ADRIFT, PASCAL, and CCES deployment metadata and detection data are archived in our lab’s Tethys database. See Tethys SAEL GitHub repository and our detailed methods for more information.",
-    "crumbs": [
-      "Data Management",
-      "Data Archive"
-    ]
-  },
-  {
-    "objectID": "content/Data-Archive.html#obis-seamap",
-    "href": "content/Data-Archive.html#obis-seamap",
-    "title": "Data Archive",
-    "section": "OBIS Seamap",
-    "text": "OBIS Seamap\nWork in progress\nAll ADRIFT, CCES, and PASCAL marine mammal detection data are publicly accessible from OBIS-SEAMAP database.",
-    "crumbs": [
-      "Data Management",
-      "Data Archive"
-    ]
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
   },
   {
     "objectID": "content/Permits_Reporting.html",
@@ -309,91 +134,94 @@
     ]
   },
   {
-    "objectID": "content/Analysis-software.html",
-    "href": "content/Analysis-software.html",
-    "title": "SAEL Acoustic Software",
+    "objectID": "content/ProjectManagement.html",
+    "href": "content/ProjectManagement.html",
+    "title": "Project Management",
     "section": "",
-    "text": "The Southwest Acoustic Ecology Lab has focused effort on developing a streamlined approach to passive acoustic data analysis that relies an Open Science approach, including a reliance on open-source software.",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
+    "text": "Add Content Here"
   },
   {
-    "objectID": "content/Analysis-software.html#pampal",
-    "href": "content/Analysis-software.html#pampal",
-    "title": "SAEL Acoustic Software",
-    "section": "PAMpal",
-    "text": "PAMpal\nPAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (pamguard.org), but in the future we hope to support other platforms. PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPampal Tutorial (https://taikisan21.github.io/PAMpal/)\nPAMpal CRAN (https://CRAN.R-project.org/package=PAMpal)\nPAMpal Github (https://github.com/TaikiSan21/PAMpal)\n\nIn addition, we have developed these R software packages to address other needs:",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis-software.html#pammisc",
-    "href": "content/Analysis-software.html#pammisc",
-    "title": "SAEL Acoustic Software",
-    "section": "PAMmisc",
-    "text": "PAMmisc\nA collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPAMmisc CRAN (https://CRAN.R-project.org/package=PAMpal)",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis-software.html#banter",
-    "href": "content/Analysis-software.html#banter",
-    "title": "SAEL Acoustic Software",
-    "section": "BANTER",
-    "text": "BANTER\nBANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see Rankin et al. 2017). Banter User’s Guide available here. Banter was originally developed for dolphins, but has also been applied to beaked whales (Rankin et al. 2024), among other species. BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA’s Ocean Acoustics Program.\n\nBANTER User’s Guide (https://taikisan21.github.io/PAMpal/banterGuide.html)\nBANTER CRAN (https://CRAN.R-project.org/package=banter)\nBANTER Github (https://github.com/EricArcher/banter)",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis-software.html#pamscapes",
-    "href": "content/Analysis-software.html#pamscapes",
-    "title": "SAEL Acoustic Software",
-    "section": "PAMscapes",
-    "text": "PAMscapes\nA variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from Marine Cadastre, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the National Center for Atmospheric Research. PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA’s Ocean Acoustics Program.\n\nPAMscapes CRAN (https://CRAN.R-project.org/package=PAMscapes)\nPAMscapes Github (https://github.com/cran/PAMscapes)\nPAMscapes Report to NOAA’s Ocean Acoustics Program (link to download)",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
-  },
-  {
-    "objectID": "content/Analysis-software.html#driftwatch",
-    "href": "content/Analysis-software.html#driftwatch",
-    "title": "SAEL Acoustic Software",
-    "section": "Driftwatch",
-    "text": "Driftwatch\nDriftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).\n\nDriftwatch Github (https://github.com/TaikiSan21/DriftWatch)\nWhere to Start: Setting_Up_Driftwatch.rmd (in Driftwatch Github Repository)",
-    "crumbs": [
-      "Acoustic Analysis",
-      "SAEL Acoustic Software"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Zotero.html",
-    "href": "content/OpenScience_Zotero.html",
-    "title": "Zotero",
+    "objectID": "content/ProjectManagement.html#project-management",
+    "href": "content/ProjectManagement.html#project-management",
+    "title": "Project Management",
     "section": "",
-    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login.\nCreate a browser plugin so that you can directly save google scholar citations to your online reference list.\nLink Rstudio to your Zotero library\n\nAdd to your Document:\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nCSL: Citation Style Language\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nAdd csl to your yaml\n--- title: “My Document” bibliography: references.bib csl: nature.csl ---\n\nAdd your references into the document\n\nInline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, [@wickham2015]\nBibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:\n### References\n\n\n\nFor more information, see Quarto Guide",
+    "text": "Add Content Here"
+  },
+  {
+    "objectID": "content/Ocean-Alert-App.html",
+    "href": "content/Ocean-Alert-App.html",
+    "title": "Ocean Alert App",
+    "section": "",
+    "text": "The Ocean Alert app is used to collect sighting data and record deployment/recovery details for our drifters. Link to access sighting and deployment data, must have SAEL username and password to access our data",
+    "crumbs": [
+      "Software Management",
+      "Ocean Alert App"
+    ]
+  },
+  {
+    "objectID": "content/Ocean-Alert-App.html#sighting-data",
+    "href": "content/Ocean-Alert-App.html#sighting-data",
+    "title": "Ocean Alert App",
+    "section": "Sighting Data",
+    "text": "Sighting Data",
+    "crumbs": [
+      "Software Management",
+      "Ocean Alert App"
+    ]
+  },
+  {
+    "objectID": "content/Ocean-Alert-App.html#drifter-deployment-and-recovery-data",
+    "href": "content/Ocean-Alert-App.html#drifter-deployment-and-recovery-data",
+    "title": "Ocean Alert App",
+    "section": "Drifter Deployment and Recovery Data",
+    "text": "Drifter Deployment and Recovery Data",
+    "crumbs": [
+      "Software Management",
+      "Ocean Alert App"
+    ]
+  },
+  {
+    "objectID": "content/Ocean-Alert-App.html#manuals-for-reference",
+    "href": "content/Ocean-Alert-App.html#manuals-for-reference",
+    "title": "Ocean Alert App",
+    "section": "Manuals For Reference",
+    "text": "Manuals For Reference\nOcean Alert ADRIFT Instructions\nOcean Alert CINMS Whale Spotting Manual",
+    "crumbs": [
+      "Software Management",
+      "Ocean Alert App"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Presentations.html",
+    "href": "content/OpenScience_Presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Presentations can be made in Quarto as three different slide formats including reveal.js (HTML), PowerPoint (MS Office), and Beamer (LaTeX/PDF).",
     "crumbs": [
       "Open Science",
-      "Zotero"
+      "Presentations"
     ]
   },
   {
-    "objectID": "content/OpenScience_Zotero.html#zotero",
-    "href": "content/OpenScience_Zotero.html#zotero",
-    "title": "Zotero",
+    "objectID": "content/OpenScience_Presentations.html#quarto-slides",
+    "href": "content/OpenScience_Presentations.html#quarto-slides",
+    "title": "Presentations",
     "section": "",
-    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login.\nCreate a browser plugin so that you can directly save google scholar citations to your online reference list.\nLink Rstudio to your Zotero library\n\nAdd to your Document:\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nCSL: Citation Style Language\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nAdd csl to your yaml\n--- title: “My Document” bibliography: references.bib csl: nature.csl ---\n\nAdd your references into the document\n\nInline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, [@wickham2015]\nBibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:\n### References\n\n\n\nFor more information, see Quarto Guide",
+    "text": "Presentations can be made in Quarto as three different slide formats including reveal.js (HTML), PowerPoint (MS Office), and Beamer (LaTeX/PDF).",
     "crumbs": [
       "Open Science",
-      "Zotero"
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Presentations.html#html-slides-template",
+    "href": "content/OpenScience_Presentations.html#html-slides-template",
+    "title": "Presentations",
+    "section": "HTML Slides Template",
+    "text": "HTML Slides Template\nMethods Slides Template",
+    "crumbs": [
+      "Open Science",
+      "Presentations"
     ]
   },
   {
@@ -416,28 +244,6 @@
     "crumbs": [
       "Open Science",
       "Github Branches"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Getting-Started.html",
-    "href": "content/OpenScience_Getting-Started.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Test Repository in Github (see help here)\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)",
-    "crumbs": [
-      "Open Science",
-      "Getting Started"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience_Getting-Started.html#getting-started-in-open-science",
-    "href": "content/OpenScience_Getting-Started.html#getting-started-in-open-science",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Test Repository in Github (see help here)\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)",
-    "crumbs": [
-      "Open Science",
-      "Getting Started"
     ]
   },
   {
@@ -485,6 +291,123 @@
     ]
   },
   {
+    "objectID": "content/OpenScience_Writing-Guide.html",
+    "href": "content/OpenScience_Writing-Guide.html",
+    "title": "Writing Guide",
+    "section": "",
+    "text": "The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see here for more info); I will use elsevier for this example.\n\nRStudio –&gt; Terminal (bottom left)\nquarto use template quarto-journals/elsevier\nThis will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.\nIn yaml at the top of the document, change the format according to the journal article template you wish to use.\n\n\nFor example:\n---\ntitle: \"My Awesome Paper\"\nauthor: \"Me\"\nformat: \n  pdf: default\n  elsevier-pdf:\n    keep-tex: true\n\neditor: visual\n---\nAs you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.\n\nIntroduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.\nReferences: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.\nMethods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.\nResults: Remember, results are just the facts!\nDiscussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.\nAcknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.\n\nThings to remember as you write:\n\nWriting is hard. Do not try to write the perfect words– instead, get the information down. It is much easier to write ideas and then edit them later to make them sound smart than it is to write it all down perfectly the first time.\nIdentify Co-authors: This can be tricky. Everyone approaches this a little differently, but these guidelines can serve as a reasonably standard approach. Discuss early on with your team and as you work with others on your project. If you use guidelines to make your co-author decisions, then this can help alleviate sticky situations related to co-authorship.\nBe consistent in EVERYTHING, including your approach to topics in the Intro/Methods/Results/Discussion.\nDo not use subheadings for each paragraph. If you use subheadings, make sure they are consistent across sections (methods, results, and possibly discussion).\nFollow the rules! (Authors guidelines for your journal)\nGet Help! Do not wait for the final draft before you share with others. Get help early on to minimize time wasted in re-doing work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "crumbs": [
+      "Open Science",
+      "Writing Guide"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Writing-Guide.html#writing-guide",
+    "href": "content/OpenScience_Writing-Guide.html#writing-guide",
+    "title": "Writing Guide",
+    "section": "",
+    "text": "The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see here for more info); I will use elsevier for this example.\n\nRStudio –&gt; Terminal (bottom left)\nquarto use template quarto-journals/elsevier\nThis will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.\nIn yaml at the top of the document, change the format according to the journal article template you wish to use.\n\n\nFor example:\n---\ntitle: \"My Awesome Paper\"\nauthor: \"Me\"\nformat: \n  pdf: default\n  elsevier-pdf:\n    keep-tex: true\n\neditor: visual\n---\nAs you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.\n\nIntroduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.\nReferences: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.\nMethods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.\nResults: Remember, results are just the facts!\nDiscussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.\nAcknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.\n\nThings to remember as you write:\n\nWriting is hard. Do not try to write the perfect words– instead, get the information down. It is much easier to write ideas and then edit them later to make them sound smart than it is to write it all down perfectly the first time.\nIdentify Co-authors: This can be tricky. Everyone approaches this a little differently, but these guidelines can serve as a reasonably standard approach. Discuss early on with your team and as you work with others on your project. If you use guidelines to make your co-author decisions, then this can help alleviate sticky situations related to co-authorship.\nBe consistent in EVERYTHING, including your approach to topics in the Intro/Methods/Results/Discussion.\nDo not use subheadings for each paragraph. If you use subheadings, make sure they are consistent across sections (methods, results, and possibly discussion).\nFollow the rules! (Authors guidelines for your journal)\nGet Help! Do not wait for the final draft before you share with others. Get help early on to minimize time wasted in re-doing work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "crumbs": [
+      "Open Science",
+      "Writing Guide"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Getting-Started.html",
+    "href": "content/OpenScience_Getting-Started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Test Repository in Github (see help here)\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)",
+    "crumbs": [
+      "Open Science",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Getting-Started.html#getting-started-in-open-science",
+    "href": "content/OpenScience_Getting-Started.html#getting-started-in-open-science",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Test Repository in Github (see help here)\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)",
+    "crumbs": [
+      "Open Science",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "content/Safety_Lithium-Batteries.html",
+    "href": "content/Safety_Lithium-Batteries.html",
+    "title": "Lithium Batteries",
+    "section": "",
+    "text": "This document will serve as a working draft for the management of lithium batteries. The following bullet points are the ones we discussed today, please feel free to add or make changes to any section according to NOAA, OMAO, and the State of California regulations.\n\nSWFSC Li Battery Management\n\nPurpose\nThe intent of this document is to provide employees and contractors of the Southwest Fisheries Science Center (SWFCS) with guidelines that will allow personnel to safely handle, ship, store, dispose of, and respond to Lithium (Li) and Li-ion battery emergency situations.\nExtreme caution must be exercised when managing Li and Li-ion batteries within the center or conducting field operations due to the potential for fire, damage, or injury to personnel or property if misused or improperly handled. To prevent injury, it is imperative that employers and employees understand the basic function, hazards and safe use of Li and Li-ion battery powered devices.\nProcurement\nLi and Li-batteries can cause injury if they have design defects, are made of low quality materials, are assembled incorrectly, are used or recharged improperly, or are damaged during shipment or handling by the consumer. When purchasing Li batteries please use the following best practices guidelines. While the list is not exhaustive, it provides SWFCS the ability to ensure that the Li batteries purchased are of the highest quality available:\n\nPurchase batteries from a reputable manufacturer, supplier, or use a preferred supplier\nEnsure that the batteries are tested in accordance with an OSHA recognized Nationally Recognized Testing Laboratory (NLTR) and meet industry standards\nAvoid batteries that have been shipped without protective packaging (i.e., hard plastic casing or similar protective measures)\nInspect batteries upon receipt and safely dispose of damaged batteries\nCheck to ensure that a Safety Data Sheet (SDS) particular to the battery ordered has been shipped alongside the batteries; store this in a binder accessible to those with access with the Li or Li-ion batteries\nDo not over purchase in size or volume\n\nHandling\nObserve the following guidelines when handling Li and Li-ion batteries:\n\nKeep batteries from contacting conductive materials, water, seawater, strong oxidizers, and strong acids\nDo not place batteries in direct sunlight, on hot surfaces or in hot locations\nInspect batteries for signs of damage before use. Do not use batteries if there is any evidence of leakage or deformity. Never use and promptly and properly dispose of damaged or “puffy” batteries\nConsult the SDS for precautions to use when handling leaking batteries.\nKeep all flammable materials away from operating area\nAllow time for cooling before charging a battery that is still warm from usage and refrain from using a battery that is still warm from charging\nTurn off equipment if the battery becomes unexpectedly, or excessively hot. Wait for battery to cool before removing from equipment\nUse batteries only for the application for which they were designed. Only use lithium cells and batteries in approved equipment\nKeep batteries in their original packaging until ready for use\nUse special care in handling batteries. Make sure they are not punctured, crushed, mishandled, disassembled or exposed to storage temperatures exceeding the maximum specified temperature on the product’s safety data sheet\nRemove jewelry items such as rings, wristwatches, pendants, etc., that could come in contact with the battery terminals\n\nStorage\n\nStorage cabinets must conform to the National Fire Protection Agency (NFPA)  30 or equivalent: 18 gauge sheet steel, double wall, locked, and labeled with a list of contents. Maintain at least 2” clearance around the cabinet for ventilation and fire control\nThe cabinet location must be protected from forklifts, hand trucks, overhead loads, and other devices that could result in cell damage to the storage cabinet and the batteries while in storage\nCabinet should be isolated from flammable liquids and hazardous waste. No other hazardous or combustible material should be stored in or on the cabinet.\nLabel all storage cabinets with the applicable hazardous materials placard.\nStorage areas with more than 5 pounds of metallic lithium must be labeled with the appropriate placard in accordance with NFPA 704 diamond that is at least 18” on each side with applicable information (e.g. Health 3, Flammability 2, Reactivity 2, and Special Hazard W); see Attachment A.\nRemove batteries from device for long-term storage\nStore batteries in a lithium safe guard or bag to prevent damage to other batteries in the case of fire or ignition\nStore batteries in a cool, dry, and ventilated area\nStore the batteries at temperatures between 5°C and 20°C (41°F and 68°F)\nSeparate fresh and depleted batteries/cells\nAvoid bulk-storage in non-laboratory areas, such as offices\nVisually inspect storage areas weekly\nMaintain a binder of SDS pertaining to the specific batteries near the storage cabinets\n\nCharging\nLi batteries are grouped into two general categories: primary and secondary batteries. \n\nPrimary batteries consist of single-use cells containing metallic lithium anodes, are non-rechargeable and are commonly known as Li metal batteries\n\nNEVER charge a primary battery\nStore one time use (primary batteries) separately from secondary batteries; properly label the outer packaging to prevent this mistake\n\nSecondary batteries contain an intercalated Li compound for the anode and cathode. These batteries are rechargeable and are commonly referred to as Li-ion batteries\n\nUse the following guidelines when charging secondary batteries.\n\nWhen applicable, use Lithium Polymer (LiPo) bags to charge batteries\nUse only lithium-specific chargers to safely charge cells or battery packs\nCharge secondary batteries to approximately 50% - 70% of capacity before long-term storage. Most chargers will have a designated “storage-mode” dependent on the voltage, type of battery, and how many cells it is\nDisconnect batteries immediately if during operation or charging they:\n\nEmit an unusual smell\nEmit smoke\nOverheat or become abnormally hot\nThe battery begins to swell\nBehave abnormally\n\nDo not leave batteries and chargers unattended during charging. Charging should be in a manned space or remotely monitored\nRemove batteries from chargers promptly after charging is complete. Do not use the charger as a storage device/location\nDo not parallel charge batteries of varying age and charge status\nCheck voltage before parallel charging. All batteries should be within 0.5 volts of each other\nIf a battery cannot maintain a charge for its normal duration, even when properly charged, remove the battery from service and dispose of properly\n\nShipping:\nFederal regulations about shipping Li batteries are updated every year as new hazards are identified. Due to these yearly updates, this document will not provide specific shipping instructions. SWFSC personnel needing to ship Li batteries must take the appropriate International Aviation Transportation Association (IATA), International Maritime Dangerous Goods (IMDG), or Department of Transportation (DOT) training, attend and update their training certification every 2 - 3 years, and provide a copy of the certificate to Marty Nelson, Safety Engineer, SECO. Trained personnel will also adhere to the Federal regulations that govern the specific mode of transportation to be used.\nDisposal\n\nIn California, Li-metal/ion batteries are considered hazardous waste and need to be disposed of properly. All Li batteries types (AAA, AA, C, D, button cell, 9-volt, etc), whether primary or secondary, must be recycled or taken to a household hazardous waste disposal facility, a universal waste handler (e.g., storage facility or broker), or an authorized recycling facility\nOptions for recycling\ni. The Big Green Box ($3.84/lb) https://biggreenbox.com/products/lithium-metal-batteries1\nii. Update Green ($2.00/lb) https://updategreen.com/\niii. Secure E-Waste Solutions https://www.sesrecycling.com/\n\nEmergency Response\n\nPreventative Measures\nPlease follow the steps outlined below to ensure that any batteries showing signs of misuse are handled and disposed of properly. Proper PPE will be worn when taking preventative measures including a lab coat, rubber gloves, and safety glasses.\ni. If batteries are showing evidence of thermal runaway failure, be very cautious; the gases may be flammable and toxic and failure modes can be hazardous\nii. Disconnect the battery (if possible)\niii. Remove the battery from the equipment/device (if possible)\niv.  Place the battery in a metal or other container away from combustibles\nFires\nIn the event that a Li metal or ion battery were to catch fire, a room could fill quickly with dense white smoke and the fire will be difficult to extinguish. The fumes and smoke from the fire can cause severe irritation to the respiratory tract, eyes and skin. All precautions must be taken to limit exposure to these fumes. The following actions should be taken:\ni. Evacuate personnel from all areas affected by the smoke and fumes and sound the fire alarm\nii. Assess the scene for unsafe conditions for yourself and others\niii. Assist victim, determine extent of injury, and administer first aid if appropriate and you are trained\niv. Ventilate the affected areas and continue ventilation until the odor is no longer detected\nv. Use a CO2 (Class BC) or dry chemical (Class ABC) fire extinguisher\nvi. Don’t use a Class D fire extinguisher \nvii. If possible, direct someone to call 9-911 for emergency response on one of the facility phones\n\nReporting\n\nAlert\ni. Facilities Manager (EXT 2880, cell 858-886-6553)\nii. Safety Officer (EXT 5650, cell 858-864-4136\niii. Front Desk Receptionist (EXT 7000)\nSend someone with a key card to meet the emergency responders at the loading dock and guide them through the facility doors - go up the elevator or stairs (many routes require a key card for access).\nUse the NOAASafe portal for the reporting of NOAA incidents, injuries, work related illnesses, or near misses. https://nsdesk.servicenowservices.com/noaasafe\nAlso, please refer to the NOAA Safety and Environmental Compliance Office (SECO) for any other safety-related issues. https://sites.google.com/a/noaa.gov/ocao/seco\n\n\n\nAttachment A",
+    "crumbs": [
+      "Lab Management",
+      "Lithium Batteries"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Zotero.html",
+    "href": "content/OpenScience_Zotero.html",
+    "title": "Zotero",
+    "section": "",
+    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login.\nCreate a browser plugin so that you can directly save google scholar citations to your online reference list.\nLink Rstudio to your Zotero library\n\nAdd to your Document:\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nCSL: Citation Style Language\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nAdd csl to your yaml\n--- title: “My Document” bibliography: references.bib csl: nature.csl ---\n\nAdd your references into the document\n\nInline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, [@wickham2015]\nBibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:\n### References\n\n\n\nFor more information, see Quarto Guide",
+    "crumbs": [
+      "Open Science",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Zotero.html#zotero",
+    "href": "content/OpenScience_Zotero.html#zotero",
+    "title": "Zotero",
+    "section": "",
+    "text": "Zotero is an open-source online reference manager, where references can be readily saved from Google scholar using a browser plugin.\nGet started:\n\nLoad Zotero and create a login.\nCreate a browser plugin so that you can directly save google scholar citations to your online reference list.\nLink Rstudio to your Zotero library\n\nAdd to your Document:\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nCSL: Citation Style Language\n\nUse Zotero to download the csl file for the journal you want to use.\n\nGo to the Zotero Preferences menu (Zotero &gt; Preferences on Mac, Edit &gt; Preferences on PC).\nClick on the Cite menu. ...\nBelow the list of pre-installed styles, click the link for Get additional styles...\nSearch for your desired style in the provided search field.\nSelect the style you want to install.\n\nAdd csl to your yaml\n--- title: “My Document” bibliography: references.bib csl: nature.csl ---\n\nAdd your references into the document\n\nInline Citation: Citations are inserted into your document using square brackets and are separated by semicolons. Each citation must have a key, composed of an ‘@’ symbol plus the citation identifier from the database. For example, [@wickham2015]\nBibliography: A list of works cited will be automatically generated and placed in the document if the style calls for it. You may insert divs such as this:\n### References\n\n\n\nFor more information, see Quarto Guide",
+    "crumbs": [
+      "Open Science",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "content/Data-SpeciesAndCallTypes.html",
+    "href": "content/Data-SpeciesAndCallTypes.html",
+    "title": "Species and Call Types",
+    "section": "",
+    "text": "Use the following species abbreviations and call type codes for all data analysis and data archive. Full species abbreviation table available here.",
+    "crumbs": [
+      "Data Management",
+      "Species and Call Types"
+    ]
+  },
+  {
+    "objectID": "content/Data-SpeciesAndCallTypes.html#species",
+    "href": "content/Data-SpeciesAndCallTypes.html#species",
+    "title": "Species and Call Types",
+    "section": "Species",
+    "text": "Species\n\n\n\n\n\n\n\n\n\nCommon Name\nScientific Name\nSAEL Species\nPACM Species\n\n\n\n\nBaird’s Beaked Whale\nBerardius bairdii\nBB (or Bb1)\nBWBB\n\n\nBlue whale\nBalaenoptera musculus\nBm\nBLWH\n\n\nBryde’s Whale\nBalaenoptera brydei\nBe\nBBWH\n\n\nCross Seamount beaked whales\nNA\nBWC\nBWC\n\n\nCuvier’s beaked whale\nZiphius cavirostris\nZc\nGOBW\n\n\nDall’s porpoise\nPhocoenoides dalli\nPd\nDAPO\n\n\nDolphins\nDelphinidae sp.\nIncludes Gg, Lo, and UO\nUNDO\n\n\nFin whale\nBalaenoptera physalus\nBp\nFIWH\n\n\nGray whale\nEschrichtius robustus\nEr\nGRWH\n\n\nHarbor porpoise\nPhocoena phocoena\n\nHAPO\n\n\nHubb’s beaked whale\nMesoplodon carlhubbsi\nMc\nBWMC\n\n\nHumpback whale\nMegaptera novaeangliae\nMn\nHUWH\n\n\nKogia\nKogia sp.\nKs\nUNKO\n\n\nMinke whale\nBalaenoptera acutorostrata\nBa\nMIWH\n\n\nNBHF - Kogia, Dall’s Porpoise, Harbor Porpoise\nNA\nNBHF\nNBHF\n\n\nOrca\nOrcinus orca\nOo\nOOWH\n\n\nPacific white-sided dolphin\nLagenorhynchus obliquidens\nLo\nPWDO\n\n\nRisso’s dolphin\nGrampus griseus\nGg\nGRAM\n\n\nSei whale\nBalaenoptera borealis\nBb (or B. Borealis)\nSEWH\n\n\nSperm Whale\nPhyseter macrocephalus\nPm\nSPWH\n\n\nStejneger’s beaked whale\nMesoplodon stejnegeri\nMs\nBWMS\n\n\nUnidentified beaked whale 43 kHz\nNA\nBW43\nBW43\n\n\nUnidentified dolphin\nNA\nUO\nUNDO\n\n\nUnidentified mesoplodon (beaked whale)\nMesoplodon sp.\nBW\nUNME",
+    "crumbs": [
+      "Data Management",
+      "Species and Call Types"
+    ]
+  },
+  {
+    "objectID": "content/Data-SpeciesAndCallTypes.html#call-types",
+    "href": "content/Data-SpeciesAndCallTypes.html#call-types",
+    "title": "Species and Call Types",
+    "section": "Call Types",
+    "text": "Call Types\n\n\n\n\n\n\n\n\n\n\n\nSpecies\nCall Type Name\nSAEL Call Code\nPACM Call Code\nPACM Call Description\nNotes\n\n\n\n\nBeaked whale\nBeaked whale frequency modulated upsweep\n\nFMUS\nBeaked whale foraging clicks\n\n\n\nBlue whale\nBlue whale A call\nA\nBLANEP\nNE Pacific blue whale A call\n\n\n\nBlue whale\nBlue whale B call\nB\nBLBNEP\nNE Pacific blue whale B call\n\n\n\nBlue whale\nBlue whale D call\nD\nBLDNEP\nNE Pacific blue whale D call\n\n\n\nBlue whale\nBlue whale tonal call\nBLTonal\nBLTONNEP\nNE Pacific blue whale tonal call\n\n\n\nBlue whale\nBlue whale downsweep call\nBLDS\nBLDSNEP\nNE Pacific blue whale downsweep call\n\n\n\nBlue whale\nBlue whale mixed call\nBLMixed\nBLMIXNEP\nNE Pacific blue whale mixed calls (A, B, D, tonal, downsweep)\n\n\n\nFin whale\nFin whale 20 Hz pulse\n20Hz\nFW20HZ\nNE Pacific fin whale 20 Hz pulses\n\n\n\nFin whale\nFin whale 40 Hz downsweep\n40Hz\nFW40HZ\nNE Pacfic fin whale 40 Hz downsweeps\n\n\n\nGray whale\nGray whale unidentified\nUnidentified\nGWUND\nUnidentified NE Pacific gray whale calls\n\n\n\nHumpback whale\nHumpback whale unidentified\nUnidentified\nHWUND\nUnidentified NE Pacific humpback whale calls (cannot distinguish social vs song)\n\n\n\nHumpback whale\nHumpback whale social\nSocial\nHWSOC\nHumpback whale social calls only\n\n\n\nHumpback whale\nHumpback whale song\nSong\nHWSONG\nHumpback whale song only\n\n\n\nMinke whale\nMinke whale boing\nBoing\nMWNEPBOING\nNE Pacific minke whale boing\n\n\n\nNBHF\nNBHF\nNA\nNBHF\nAll NBHF calls for kogia sp., dall’s porpoise, and harbor porpoise\n\n\n\nOdontocete\nOdontocete impulsive click\nClicks\nODCLICK\nDolphin clicks (either delphinid or blackfish)\n\n\n\nOdontocete\nOdontocete whistle\nWhistles\nODWHIS\nDolphin whistles (either delphinid or blackfish)\n\n\n\nSei whale\nSei whale 30-80Hz downsweep\nSWDS\nSWDS\nSei whale downsweep spanning 80-30Hz, occurs as single downsweeps or repeated 3-5 seconds apart as doublets, triplets, or more.\n\n\n\nSperm whale\nSperm whale usual click\nClicks\nSPUSC\nSperm whale foraging click\n\n\n\nSperm whale\nSperm whale slow click\nSlow Clicks\nSPSLC\nSperm whale social: slow clicks",
+    "crumbs": [
+      "Data Management",
+      "Species and Call Types"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-Methods.html",
+    "href": "content/Analysis-Methods.html",
+    "title": "Analysis Methods",
+    "section": "",
+    "text": "Add Content Here"
+  },
+  {
     "objectID": "content/OpenScience_Stack-Exchange.html",
     "href": "content/OpenScience_Stack-Exchange.html",
     "title": "Stack Exchange",
@@ -504,6 +427,82 @@
     "crumbs": [
       "Open Science",
       "Stack Exchange"
+    ]
+  },
+  {
+    "objectID": "content/Metadata-Archive.html",
+    "href": "content/Metadata-Archive.html",
+    "title": "Metadata Archive",
+    "section": "",
+    "text": "Add Content Here"
+  },
+  {
+    "objectID": "content/Metadata-Archive.html#tethys",
+    "href": "content/Metadata-Archive.html#tethys",
+    "title": "Metadata Archive",
+    "section": "",
+    "text": "Add Content Here"
+  },
+  {
+    "objectID": "content/Metadata-Archive.html#obis-seamap",
+    "href": "content/Metadata-Archive.html#obis-seamap",
+    "title": "Metadata Archive",
+    "section": "OBIS Seamap",
+    "text": "OBIS Seamap\nAdd Content Here"
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "Add Content Here",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html#inventory-inventree",
+    "href": "content/Inventory.html#inventory-inventree",
+    "title": "Inventory",
+    "section": "",
+    "text": "Add Content Here",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html#inventory-update-request",
+    "href": "content/Inventory.html#inventory-update-request",
+    "title": "Inventory",
+    "section": "Inventory Update Request",
+    "text": "Inventory Update Request\nComplete the following steps to request and Inventory Update\n\nGo to the Inventory Github page and click on the ‘Issues’ tab\n\nClick the green ‘New Issue’ button and select the appropriate Issue Template\n\n\nFollow the directions in the issue template, and click the ‘Submit new issue’ button to submit the inventory update request form\n\n\nEmail Kourtney Burger (kourtney.burger@noaa.gov) with any inventory related questions",
+    "crumbs": [
+      "Lab Management",
+      "Inventory"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_GithubBook.html",
+    "href": "content/OpenScience_GithubBook.html",
+    "title": "Github Book",
+    "section": "",
+    "text": "You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.\n\nPrepare to do Great Things! Make sure you have gone through all the steps in the ‘Getting Started’ section of the Open Sciences chapter of this manual.\nCopy a template of Great Things!\nCopy an existing template to your own Github account. Go to NOAA Quarto Template and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.\nCopy to your desktop to make it a Greater Thing!\nUsing Github Desktop, Clone repository using URL (File-&gt; Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-&gt; Github folder (use defaults). See this Introduction to Git/Github tutorial for more help.\nUse RStudio to Modify Great Thing to make it Greater!\nIn RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-&gt; Github. Examine the documents:\n\nREADME.md\nThis is the README file that will appear on your repository page.\nindex.qmd\nThis will serve as your ‘home’ page for the web-book that is created\ncontents folder\nThis folder will contain the ‘pages’ (chapters) for your web-book\n_quarto.yml\nThis will define the layout of your web-book\n(Insert picture of Layout)\n\nModify README.md\nIf you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nModify and Rename files in Contents Folder\nEach of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the original template web-page for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.\nFor each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-&gt; Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. Make sure you SAVE each file when you are finished!\nModify _quarto.yml file\nThe _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site & repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.\nThe contents are each of your chapters (or web- pages). Each chapter has two lines of information:\n\nhref: refers to the name of the relevant qmd file (located in the contents folder).\ntext: this is the text you will see on the sidebar of the web-book.\nThe first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).\n\nRender & View the Web-book\nYou may want to render and view the web-book locally to be sure it is great.\nTo Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!\nTo view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.\nCommit & Push to Github\nOpen Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out your Great Things!",
+    "crumbs": [
+      "Open Science",
+      "Github Book"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_GithubBook.html#github-book",
+    "href": "content/OpenScience_GithubBook.html#github-book",
+    "title": "Github Book",
+    "section": "",
+    "text": "You can create your own website that looks like a ‘book’ by copying an existing template in Github and editing it in RStudio.\n\nPrepare to do Great Things! Make sure you have gone through all the steps in the ‘Getting Started’ section of the Open Sciences chapter of this manual.\nCopy a template of Great Things!\nCopy an existing template to your own Github account. Go to NOAA Quarto Template and copy template to your Github Repository following the directions on the README.md. Give it an appropriate name and make sure it is PUBLIC.\nCopy to your desktop to make it a Greater Thing!\nUsing Github Desktop, Clone repository using URL (File-&gt; Clone Repository). Copy the URL of your repository site (the URL of your copy of the Great Things Repository on your github account), and save project to your Documents-&gt; Github folder (use defaults). See this Introduction to Git/Github tutorial for more help.\nUse RStudio to Modify Great Thing to make it Greater!\nIn RStudio, in the top right corner, select the project dropdown to Add New R Project from an Existing Project– and browse to select the appropriate folder in Documents-&gt; Github. Examine the documents:\n\nREADME.md\nThis is the README file that will appear on your repository page.\nindex.qmd\nThis will serve as your ‘home’ page for the web-book that is created\ncontents folder\nThis folder will contain the ‘pages’ (chapters) for your web-book\n_quarto.yml\nThis will define the layout of your web-book\n(Insert picture of Layout)\n\nModify README.md\nIf you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nModify and Rename files in Contents Folder\nEach of the existing qmd (Quarto) files in the contents folder have additional instructions to help you format your ‘book’ in Quarto. You may want to keep them, or you can always review the original template web-page for this information. Read the ‘Add Content’ page here to understand the minimal information you need for each of these pages in your contents folder.\nFor each page in your website (or chapter in your book), you will want to have a qmd file in this folder. You can open one of the existing qmd files and File-&gt; Save As and save it as another name. Retain the minimal information needed for your page (see the Add Contents page), and then add your content using either the source code or visual editor. Make sure you SAVE each file when you are finished!\nModify _quarto.yml file\nThe _quarto.yml file identifies the structure of the web-book. Make changes to the website (Title, site & repo URL), the Sidebar (link to your preferred logo, link the globe icon to your website and link the github icon to your github URL and rename both of these). Finally– you will want to identify the contents.\nThe contents are each of your chapters (or web- pages). Each chapter has two lines of information:\n\nhref: refers to the name of the relevant qmd file (located in the contents folder).\ntext: this is the text you will see on the sidebar of the web-book.\nThe first contents page (home page) will link to the index.qmd file (in the main folder). The others will be in the contents folder, and therefore their name should be ‘contents/filename.qmd’ (where filename is the name of that qmd file).\n\nRender & View the Web-book\nYou may want to render and view the web-book locally to be sure it is great.\nTo Render the document, open the index.qmd file (in the main folder) and click on the ‘Render’ icon near the top (to the right of the save button). Look in the Terminal (lower left section of RStudio) for any errors. Most errors may be due to typos or unsaved modifications. If you still have errors, save everything & reopen RStudio & run again. If you still have errors, go through file by file!\nTo view the rendered document, open the _site folder, click on the index.html and select ‘View in Web Browser’. Ensure that everything looks as you would expect. You may need to modify, render, view, repeat until it is good. Be sure your project is saved.\nCommit & Push to Github\nOpen Github Desktop and open your project (if it is not already opened). Github desktop will identify the changes you made. At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out your Great Things!",
+    "crumbs": [
+      "Open Science",
+      "Github Book"
     ]
   },
   {
@@ -612,101 +611,58 @@
     "text": "Slide with Highlighted Code Lines\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +\n  geom_smooth(formula = y ~ x, method = \"loess\")\n\nMore line highlighting options here\n\n\n\n\nSource Code"
   },
   {
-    "objectID": "content/OpenScience_Writers-Workshop.html",
-    "href": "content/OpenScience_Writers-Workshop.html",
-    "title": "Writers Workshop",
+    "objectID": "content/Data-Archive.html",
+    "href": "content/Data-Archive.html",
+    "title": "Data Archive",
     "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
-  },
-  {
-    "objectID": "content/OpenScience_Writers-Workshop.html#writers-workshop",
-    "href": "content/OpenScience_Writers-Workshop.html#writers-workshop",
-    "title": "Writers Workshop",
-    "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here."
-  },
-  {
-    "objectID": "content/Analysis-Methods.html",
-    "href": "content/Analysis-Methods.html",
-    "title": "Analysis Methods",
-    "section": "",
-    "text": "Add Content Here"
-  },
-  {
-    "objectID": "content/OpenScience_Research-Guide.html",
-    "href": "content/OpenScience_Research-Guide.html",
-    "title": "Research Guide",
-    "section": "",
-    "text": "The purpose of this guide is to provide an approach to working on a research project that provides an efficient approach to collaborating with yourself (including your future self!) and other researchers. This guide follows our lab philosophy of Open and Reproducible Science.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript to document your research (see Writing Guide in this lab manual).\nBe sure to document all changes to your research using the ‘commit’ documentation. Be detailed. Consider doing smaller changes/commits to keep track of things.\nCreate a project board in Github to identify tasks in your project (to do, doing, done!). Retain these for future review.\nUse Issues to document discussions, modifications, and workflow. Link Issues to tasks in your Project Board.\nWhen you reach milestones in your work (say a draft for author review), create a Version in Github. This will help future you go back in time to a previous version of your work.\n\nThings to remember as you work:\n\nDocument everything! Assume you are documenting every detail for someone who is absolutely new to your work and needs to follow your methods exactly. Your future self will thank you!\n\nFor additional information:\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
     "crumbs": [
-      "Open Science",
-      "Research Guide"
+      "Data Management",
+      "Data Archive"
     ]
   },
   {
-    "objectID": "content/OpenScience_Research-Guide.html#research-guide",
-    "href": "content/OpenScience_Research-Guide.html#research-guide",
-    "title": "Research Guide",
+    "objectID": "content/Data-Archive.html#local-data-archive",
+    "href": "content/Data-Archive.html#local-data-archive",
+    "title": "Data Archive",
     "section": "",
-    "text": "The purpose of this guide is to provide an approach to working on a research project that provides an efficient approach to collaborating with yourself (including your future self!) and other researchers. This guide follows our lab philosophy of Open and Reproducible Science.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript to document your research (see Writing Guide in this lab manual).\nBe sure to document all changes to your research using the ‘commit’ documentation. Be detailed. Consider doing smaller changes/commits to keep track of things.\nCreate a project board in Github to identify tasks in your project (to do, doing, done!). Retain these for future review.\nUse Issues to document discussions, modifications, and workflow. Link Issues to tasks in your Project Board.\nWhen you reach milestones in your work (say a draft for author review), create a Version in Github. This will help future you go back in time to a previous version of your work.\n\nThings to remember as you work:\n\nDocument everything! Assume you are documenting every detail for someone who is absolutely new to your work and needs to follow your methods exactly. Your future self will thank you!\n\nFor additional information:\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "text": "All ADRIFT, PASCAL, and CCES data are locally stored on shared servers/drives.\nAll raw data and current analysis for ADRIFT, PASCAL, and CCES can be found on the DON\n(\\swc-storage4-s-ACOUSTICS)\nAll archived projects and a copy of ADRIFT, PASCAL, and CCES SUD files can be found on the PAM Synology arrays (\\\\SWC-CMAP-N\\pam, \\\\SWC-CMAP-N\\pam2)",
     "crumbs": [
-      "Open Science",
-      "Research Guide"
+      "Data Management",
+      "Data Archive"
     ]
   },
   {
-    "objectID": "content/OpenScience_Writing-Guide.html",
-    "href": "content/OpenScience_Writing-Guide.html",
-    "title": "Writing Guide",
-    "section": "",
-    "text": "The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see here for more info); I will use elsevier for this example.\n\nRStudio –&gt; Terminal (bottom left)\nquarto use template quarto-journals/elsevier\nThis will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.\nIn yaml at the top of the document, change the format according to the journal article template you wish to use.\n\n\nFor example:\n---\ntitle: \"My Awesome Paper\"\nauthor: \"Me\"\nformat: \n  pdf: default\n  elsevier-pdf:\n    keep-tex: true\n\neditor: visual\n---\nAs you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.\n\nIntroduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.\nReferences: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.\nMethods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.\nResults: Remember, results are just the facts!\nDiscussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.\nAcknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.\n\nThings to remember as you write:\n\nWriting is hard. Do not try to write the perfect words– instead, get the information down. It is much easier to write ideas and then edit them later to make them sound smart than it is to write it all down perfectly the first time.\nIdentify Co-authors: This can be tricky. Everyone approaches this a little differently, but these guidelines can serve as a reasonably standard approach. Discuss early on with your team and as you work with others on your project. If you use guidelines to make your co-author decisions, then this can help alleviate sticky situations related to co-authorship.\nBe consistent in EVERYTHING, including your approach to topics in the Intro/Methods/Results/Discussion.\nDo not use subheadings for each paragraph. If you use subheadings, make sure they are consistent across sections (methods, results, and possibly discussion).\nFollow the rules! (Authors guidelines for your journal)\nGet Help! Do not wait for the final draft before you share with others. Get help early on to minimize time wasted in re-doing work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "objectID": "content/Data-Archive.html#ncei-data-archive",
+    "href": "content/Data-Archive.html#ncei-data-archive",
+    "title": "Data Archive",
+    "section": "NCEI Data Archive",
+    "text": "NCEI Data Archive\nAll ADRIFT, CCES, and PASCAL raw data is publicly accessible through NCEI Passive Acoustics Data Archive. Sound level metrics can also be accessed from this archive.\nAll data were packaged using a combination of automated scripts and the NCEI Passive Packer tool. Several automation scripts were used to create Passive Packer ready databases from our deployment details metadata. Detailed methods can be found here.",
     "crumbs": [
-      "Open Science",
-      "Writing Guide"
+      "Data Management",
+      "Data Archive"
     ]
   },
   {
-    "objectID": "content/OpenScience_Writing-Guide.html#writing-guide",
-    "href": "content/OpenScience_Writing-Guide.html#writing-guide",
-    "title": "Writing Guide",
-    "section": "",
-    "text": "The purpose of this guide is to provide an approach to writing that parallels the path of your research to improve efficiency and allow for reproducible research.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript using a preferred template in RStudio [This section is in progress-I am currently getting errors!]. Use the appropriate journal template (see here for more info); I will use elsevier for this example.\n\nRStudio –&gt; Terminal (bottom left)\nquarto use template quarto-journals/elsevier\nThis will install the extension and create an example qmd file and bibliography that you can use as a starting place for your paper.\nIn yaml at the top of the document, change the format according to the journal article template you wish to use.\n\n\nFor example:\n---\ntitle: \"My Awesome Paper\"\nauthor: \"Me\"\nformat: \n  pdf: default\n  elsevier-pdf:\n    keep-tex: true\n\neditor: visual\n---\nAs you work on your research, document relevant information in this manuscript (which can later be turned into a report, publication, thesis, etc). If for some reason you drop the project for a few years (ahem!), then you can return to this document to see where you left off.\n\nIntroduction: As you review literature, add relevant information to the appropriate paragraph in your introduction, and add citation to References. From the beginning, write in your own works (they need to be clear, but not necessarily well written yet!). If you copy words verbatim, then put in quotes and provide link to reference to be sure you know these are not your own words. The goal is to start putting down relevant information as you come across it– not to write pretty. You can clean up/edit at a later stage.\nReferences: Use Zotero for references (more later!). As you come across literature, put your references in Zotero and cite in your manuscript.\nMethods (Draft): For your initial draft manuscript, explicitly input your entire methods (in excruciating detail!) for future reference. Keep track of changes (and reasons for changes) using Issues in Github. Note to Self: We may want to create a separate RMarkdown for super-detailed methods (with version control?), and then cherry pick from this for our final paper methods.\nResults: Remember, results are just the facts!\nDiscussion: If results are the facts, the discussion can provide more information as to the WHY behind your results (and context!). There is (mostly) a strict demarcation between the two sections. Discussion is where the juicy bits go.\nAcknowledgements: As your research progresses, be sure to add people, funders, etc to your acknowledgements.\n\nThings to remember as you write:\n\nWriting is hard. Do not try to write the perfect words– instead, get the information down. It is much easier to write ideas and then edit them later to make them sound smart than it is to write it all down perfectly the first time.\nIdentify Co-authors: This can be tricky. Everyone approaches this a little differently, but these guidelines can serve as a reasonably standard approach. Discuss early on with your team and as you work with others on your project. If you use guidelines to make your co-author decisions, then this can help alleviate sticky situations related to co-authorship.\nBe consistent in EVERYTHING, including your approach to topics in the Intro/Methods/Results/Discussion.\nDo not use subheadings for each paragraph. If you use subheadings, make sure they are consistent across sections (methods, results, and possibly discussion).\nFollow the rules! (Authors guidelines for your journal)\nGet Help! Do not wait for the final draft before you share with others. Get help early on to minimize time wasted in re-doing work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
+    "objectID": "content/Data-Archive.html#tethys",
+    "href": "content/Data-Archive.html#tethys",
+    "title": "Data Archive",
+    "section": "Tethys",
+    "text": "Tethys\nAll ADRIFT, PASCAL, and CCES deployment metadata and detection data are archived in our lab’s Tethys database. See Tethys SAEL GitHub repository and our detailed methods for more information.",
     "crumbs": [
-      "Open Science",
-      "Writing Guide"
+      "Data Management",
+      "Data Archive"
     ]
   },
   {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "Add Content Here",
+    "objectID": "content/Data-Archive.html#obis-seamap",
+    "href": "content/Data-Archive.html#obis-seamap",
+    "title": "Data Archive",
+    "section": "OBIS Seamap",
+    "text": "OBIS Seamap\nWork in progress\nAll ADRIFT, CCES, and PASCAL marine mammal detection data are publicly accessible from OBIS-SEAMAP database.",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/Inventory.html#inventory-inventree",
-    "href": "content/Inventory.html#inventory-inventree",
-    "title": "Inventory",
-    "section": "",
-    "text": "Add Content Here",
-    "crumbs": [
-      "Lab Management",
-      "Inventory"
-    ]
-  },
-  {
-    "objectID": "content/Inventory.html#inventory-update-request",
-    "href": "content/Inventory.html#inventory-update-request",
-    "title": "Inventory",
-    "section": "Inventory Update Request",
-    "text": "Inventory Update Request\nComplete the following steps to request and Inventory Update\n\nGo to the Inventory Github page and click on the ‘Issues’ tab\n\nClick the green ‘New Issue’ button and select the appropriate Issue Template\n\n\nFollow the directions in the issue template, and click the ‘Submit new issue’ button to submit the inventory update request form\n\n\nEmail Kourtney Burger (kourtney.burger@noaa.gov) with any inventory related questions",
-    "crumbs": [
-      "Lab Management",
-      "Inventory"
+      "Data Management",
+      "Data Archive"
     ]
   },
   {
@@ -732,6 +688,50 @@
     ]
   },
   {
+    "objectID": "content/OpenScience_CoWorking.html",
+    "href": "content/OpenScience_CoWorking.html",
+    "title": "Co-Working",
+    "section": "",
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.",
+    "crumbs": [
+      "Open Science",
+      "Co-Working"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_CoWorking.html#co-working-writers-workshop",
+    "href": "content/OpenScience_CoWorking.html#co-working-writers-workshop",
+    "title": "Co-Working",
+    "section": "",
+    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.",
+    "crumbs": [
+      "Open Science",
+      "Co-Working"
+    ]
+  },
+  {
+    "objectID": "content/Hardware_ADRIFT.html",
+    "href": "content/Hardware_ADRIFT.html",
+    "title": "ADRIFT",
+    "section": "",
+    "text": "All information regarding the ADRIFT in the California Current Project can be found in our Adrift Field Methods Github Repository and web book",
+    "crumbs": [
+      "Hardware Methods",
+      "ADRIFT"
+    ]
+  },
+  {
+    "objectID": "content/Hardware_ADRIFT.html#adrift-field-methods-and-hardware",
+    "href": "content/Hardware_ADRIFT.html#adrift-field-methods-and-hardware",
+    "title": "ADRIFT",
+    "section": "",
+    "text": "All information regarding the ADRIFT in the California Current Project can be found in our Adrift Field Methods Github Repository and web book",
+    "crumbs": [
+      "Hardware Methods",
+      "ADRIFT"
+    ]
+  },
+  {
     "objectID": "content/SharedValues-BestPractices.html#sael-lab-values",
     "href": "content/SharedValues-BestPractices.html#sael-lab-values",
     "title": "Shared Values and Best Practices",
@@ -752,80 +752,113 @@
     ]
   },
   {
-    "objectID": "content/Ocean-Alert-App.html",
-    "href": "content/Ocean-Alert-App.html",
-    "title": "Ocean Alert App",
+    "objectID": "content/Hardware_Handheld-Hydrophone.html",
+    "href": "content/Hardware_Handheld-Hydrophone.html",
+    "title": "Handheld Hydrophone",
     "section": "",
-    "text": "The Ocean Alert app is used to collect sighting data and record deployment/recovery details for our drifters. Link to access sighting and deployment data, must have SAEL username and password to access our data",
+    "text": "Link to Handheld Hydrophone User Manual",
     "crumbs": [
-      "Software Management",
-      "Ocean Alert App"
+      "Hardware Methods",
+      "Handheld Hydrophone"
     ]
   },
   {
-    "objectID": "content/Ocean-Alert-App.html#sighting-data",
-    "href": "content/Ocean-Alert-App.html#sighting-data",
-    "title": "Ocean Alert App",
-    "section": "Sighting Data",
-    "text": "Sighting Data",
-    "crumbs": [
-      "Software Management",
-      "Ocean Alert App"
-    ]
-  },
-  {
-    "objectID": "content/Ocean-Alert-App.html#drifter-deployment-and-recovery-data",
-    "href": "content/Ocean-Alert-App.html#drifter-deployment-and-recovery-data",
-    "title": "Ocean Alert App",
-    "section": "Drifter Deployment and Recovery Data",
-    "text": "Drifter Deployment and Recovery Data",
-    "crumbs": [
-      "Software Management",
-      "Ocean Alert App"
-    ]
-  },
-  {
-    "objectID": "content/Ocean-Alert-App.html#manuals-for-reference",
-    "href": "content/Ocean-Alert-App.html#manuals-for-reference",
-    "title": "Ocean Alert App",
-    "section": "Manuals For Reference",
-    "text": "Manuals For Reference\nOcean Alert ADRIFT Instructions\nOcean Alert CINMS Whale Spotting Manual",
-    "crumbs": [
-      "Software Management",
-      "Ocean Alert App"
-    ]
-  },
-  {
-    "objectID": "content/Safety_Lithium-Batteries.html",
-    "href": "content/Safety_Lithium-Batteries.html",
-    "title": "Lithium Batteries",
+    "objectID": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
+    "href": "content/Hardware_Handheld-Hydrophone.html#handheld-hydrophone-user-manual",
+    "title": "Handheld Hydrophone",
     "section": "",
-    "text": "This document will serve as a working draft for the management of lithium batteries. The following bullet points are the ones we discussed today, please feel free to add or make changes to any section according to NOAA, OMAO, and the State of California regulations.\n\nSWFSC Li Battery Management\n\nPurpose\nThe intent of this document is to provide employees and contractors of the Southwest Fisheries Science Center (SWFCS) with guidelines that will allow personnel to safely handle, ship, store, dispose of, and respond to Lithium (Li) and Li-ion battery emergency situations.\nExtreme caution must be exercised when managing Li and Li-ion batteries within the center or conducting field operations due to the potential for fire, damage, or injury to personnel or property if misused or improperly handled. To prevent injury, it is imperative that employers and employees understand the basic function, hazards and safe use of Li and Li-ion battery powered devices.\nProcurement\nLi and Li-batteries can cause injury if they have design defects, are made of low quality materials, are assembled incorrectly, are used or recharged improperly, or are damaged during shipment or handling by the consumer. When purchasing Li batteries please use the following best practices guidelines. While the list is not exhaustive, it provides SWFCS the ability to ensure that the Li batteries purchased are of the highest quality available:\n\nPurchase batteries from a reputable manufacturer, supplier, or use a preferred supplier\nEnsure that the batteries are tested in accordance with an OSHA recognized Nationally Recognized Testing Laboratory (NLTR) and meet industry standards\nAvoid batteries that have been shipped without protective packaging (i.e., hard plastic casing or similar protective measures)\nInspect batteries upon receipt and safely dispose of damaged batteries\nCheck to ensure that a Safety Data Sheet (SDS) particular to the battery ordered has been shipped alongside the batteries; store this in a binder accessible to those with access with the Li or Li-ion batteries\nDo not over purchase in size or volume\n\nHandling\nObserve the following guidelines when handling Li and Li-ion batteries:\n\nKeep batteries from contacting conductive materials, water, seawater, strong oxidizers, and strong acids\nDo not place batteries in direct sunlight, on hot surfaces or in hot locations\nInspect batteries for signs of damage before use. Do not use batteries if there is any evidence of leakage or deformity. Never use and promptly and properly dispose of damaged or “puffy” batteries\nConsult the SDS for precautions to use when handling leaking batteries.\nKeep all flammable materials away from operating area\nAllow time for cooling before charging a battery that is still warm from usage and refrain from using a battery that is still warm from charging\nTurn off equipment if the battery becomes unexpectedly, or excessively hot. Wait for battery to cool before removing from equipment\nUse batteries only for the application for which they were designed. Only use lithium cells and batteries in approved equipment\nKeep batteries in their original packaging until ready for use\nUse special care in handling batteries. Make sure they are not punctured, crushed, mishandled, disassembled or exposed to storage temperatures exceeding the maximum specified temperature on the product’s safety data sheet\nRemove jewelry items such as rings, wristwatches, pendants, etc., that could come in contact with the battery terminals\n\nStorage\n\nStorage cabinets must conform to the National Fire Protection Agency (NFPA)  30 or equivalent: 18 gauge sheet steel, double wall, locked, and labeled with a list of contents. Maintain at least 2” clearance around the cabinet for ventilation and fire control\nThe cabinet location must be protected from forklifts, hand trucks, overhead loads, and other devices that could result in cell damage to the storage cabinet and the batteries while in storage\nCabinet should be isolated from flammable liquids and hazardous waste. No other hazardous or combustible material should be stored in or on the cabinet.\nLabel all storage cabinets with the applicable hazardous materials placard.\nStorage areas with more than 5 pounds of metallic lithium must be labeled with the appropriate placard in accordance with NFPA 704 diamond that is at least 18” on each side with applicable information (e.g. Health 3, Flammability 2, Reactivity 2, and Special Hazard W); see Attachment A.\nRemove batteries from device for long-term storage\nStore batteries in a lithium safe guard or bag to prevent damage to other batteries in the case of fire or ignition\nStore batteries in a cool, dry, and ventilated area\nStore the batteries at temperatures between 5°C and 20°C (41°F and 68°F)\nSeparate fresh and depleted batteries/cells\nAvoid bulk-storage in non-laboratory areas, such as offices\nVisually inspect storage areas weekly\nMaintain a binder of SDS pertaining to the specific batteries near the storage cabinets\n\nCharging\nLi batteries are grouped into two general categories: primary and secondary batteries. \n\nPrimary batteries consist of single-use cells containing metallic lithium anodes, are non-rechargeable and are commonly known as Li metal batteries\n\nNEVER charge a primary battery\nStore one time use (primary batteries) separately from secondary batteries; properly label the outer packaging to prevent this mistake\n\nSecondary batteries contain an intercalated Li compound for the anode and cathode. These batteries are rechargeable and are commonly referred to as Li-ion batteries\n\nUse the following guidelines when charging secondary batteries.\n\nWhen applicable, use Lithium Polymer (LiPo) bags to charge batteries\nUse only lithium-specific chargers to safely charge cells or battery packs\nCharge secondary batteries to approximately 50% - 70% of capacity before long-term storage. Most chargers will have a designated “storage-mode” dependent on the voltage, type of battery, and how many cells it is\nDisconnect batteries immediately if during operation or charging they:\n\nEmit an unusual smell\nEmit smoke\nOverheat or become abnormally hot\nThe battery begins to swell\nBehave abnormally\n\nDo not leave batteries and chargers unattended during charging. Charging should be in a manned space or remotely monitored\nRemove batteries from chargers promptly after charging is complete. Do not use the charger as a storage device/location\nDo not parallel charge batteries of varying age and charge status\nCheck voltage before parallel charging. All batteries should be within 0.5 volts of each other\nIf a battery cannot maintain a charge for its normal duration, even when properly charged, remove the battery from service and dispose of properly\n\nShipping:\nFederal regulations about shipping Li batteries are updated every year as new hazards are identified. Due to these yearly updates, this document will not provide specific shipping instructions. SWFSC personnel needing to ship Li batteries must take the appropriate International Aviation Transportation Association (IATA), International Maritime Dangerous Goods (IMDG), or Department of Transportation (DOT) training, attend and update their training certification every 2 - 3 years, and provide a copy of the certificate to Marty Nelson, Safety Engineer, SECO. Trained personnel will also adhere to the Federal regulations that govern the specific mode of transportation to be used.\nDisposal\n\nIn California, Li-metal/ion batteries are considered hazardous waste and need to be disposed of properly. All Li batteries types (AAA, AA, C, D, button cell, 9-volt, etc), whether primary or secondary, must be recycled or taken to a household hazardous waste disposal facility, a universal waste handler (e.g., storage facility or broker), or an authorized recycling facility\nOptions for recycling\ni. The Big Green Box ($3.84/lb) https://biggreenbox.com/products/lithium-metal-batteries1\nii. Update Green ($2.00/lb) https://updategreen.com/\niii. Secure E-Waste Solutions https://www.sesrecycling.com/\n\nEmergency Response\n\nPreventative Measures\nPlease follow the steps outlined below to ensure that any batteries showing signs of misuse are handled and disposed of properly. Proper PPE will be worn when taking preventative measures including a lab coat, rubber gloves, and safety glasses.\ni. If batteries are showing evidence of thermal runaway failure, be very cautious; the gases may be flammable and toxic and failure modes can be hazardous\nii. Disconnect the battery (if possible)\niii. Remove the battery from the equipment/device (if possible)\niv.  Place the battery in a metal or other container away from combustibles\nFires\nIn the event that a Li metal or ion battery were to catch fire, a room could fill quickly with dense white smoke and the fire will be difficult to extinguish. The fumes and smoke from the fire can cause severe irritation to the respiratory tract, eyes and skin. All precautions must be taken to limit exposure to these fumes. The following actions should be taken:\ni. Evacuate personnel from all areas affected by the smoke and fumes and sound the fire alarm\nii. Assess the scene for unsafe conditions for yourself and others\niii. Assist victim, determine extent of injury, and administer first aid if appropriate and you are trained\niv. Ventilate the affected areas and continue ventilation until the odor is no longer detected\nv. Use a CO2 (Class BC) or dry chemical (Class ABC) fire extinguisher\nvi. Don’t use a Class D fire extinguisher \nvii. If possible, direct someone to call 9-911 for emergency response on one of the facility phones\n\nReporting\n\nAlert\ni. Facilities Manager (EXT 2880, cell 858-886-6553)\nii. Safety Officer (EXT 5650, cell 858-864-4136\niii. Front Desk Receptionist (EXT 7000)\nSend someone with a key card to meet the emergency responders at the loading dock and guide them through the facility doors - go up the elevator or stairs (many routes require a key card for access).\nUse the NOAASafe portal for the reporting of NOAA incidents, injuries, work related illnesses, or near misses. https://nsdesk.servicenowservices.com/noaasafe\nAlso, please refer to the NOAA Safety and Environmental Compliance Office (SECO) for any other safety-related issues. https://sites.google.com/a/noaa.gov/ocao/seco\n\n\n\nAttachment A",
+    "text": "Link to Handheld Hydrophone User Manual",
     "crumbs": [
-      "Lab Management",
-      "Lithium Batteries"
+      "Hardware Methods",
+      "Handheld Hydrophone"
     ]
   },
   {
-    "objectID": "content/OpenScience_CoWorking.html",
-    "href": "content/OpenScience_CoWorking.html",
-    "title": "Co-Working",
+    "objectID": "content/Analysis-software.html",
+    "href": "content/Analysis-software.html",
+    "title": "SAEL Acoustic Software",
     "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.",
+    "text": "The Southwest Acoustic Ecology Lab has focused effort on developing a streamlined approach to passive acoustic data analysis that relies an Open Science approach, including a reliance on open-source software.",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-software.html#pampal",
+    "href": "content/Analysis-software.html#pampal",
+    "title": "SAEL Acoustic Software",
+    "section": "PAMpal",
+    "text": "PAMpal\nPAMpal is an R package for processing passive acoustic data. Currently PAMpal only supports data collected using PAMGuard (pamguard.org), but in the future we hope to support other platforms. PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, with the help of numerous partners, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPampal Tutorial (https://taikisan21.github.io/PAMpal/)\nPAMpal CRAN (https://CRAN.R-project.org/package=PAMpal)\nPAMpal Github (https://github.com/TaikiSan21/PAMpal)\n\nIn addition, we have developed these R software packages to address other needs:",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-software.html#pammisc",
+    "href": "content/Analysis-software.html#pammisc",
+    "title": "SAEL Acoustic Software",
+    "section": "PAMmisc",
+    "text": "PAMmisc\nA collection of miscellaneous functions for passive acoustics (much of the content is adapted from R code written by other people). PAMmisc is a collaboration between Taiki Sakai (SWFSC) and Shannon Rankin, and was funded by NOAA’s Advanced Sampling Technology Working Group.\n\nPAMmisc CRAN (https://CRAN.R-project.org/package=PAMpal)",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-software.html#banter",
+    "href": "content/Analysis-software.html#banter",
+    "title": "SAEL Acoustic Software",
+    "section": "BANTER",
+    "text": "BANTER\nBANTER is a hierarchical species classifier for acoustic events developed using multiple call type detectors (see Rankin et al. 2017). Banter User’s Guide available here. Banter was originally developed for dolphins, but has also been applied to beaked whales (Rankin et al. 2024), among other species. BANTER was developed by a collaboration between Shannon Rankin (SWFSC) and Eric Archer (SWFSC) and was funded by NOAA’s Ocean Acoustics Program.\n\nBANTER User’s Guide (https://taikisan21.github.io/PAMpal/banterGuide.html)\nBANTER CRAN (https://CRAN.R-project.org/package=banter)\nBANTER Github (https://github.com/EricArcher/banter)",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-software.html#pamscapes",
+    "href": "content/Analysis-software.html#pamscapes",
+    "title": "SAEL Acoustic Software",
+    "section": "PAMscapes",
+    "text": "PAMscapes\nA variety of tools relevant to the analysis of marine soundscape data (including tools for downloading AIS data from Marine Cadastre, connecting AIS data to GPS coordinates, plotting summaries of various soundscape measurements, and downloading relevant environmental variables (wind, swell height) from the National Center for Atmospheric Research. PAMscapes development was a collaboration between Shannon Rankin (SWFSC), Taiki Sakai (SWFSC), Anne Simonis (SWFSC), and Megan McKenna (National Marine Sanctuary Foundation); funding provided by NOAA’s Ocean Acoustics Program.\n\nPAMscapes CRAN (https://CRAN.R-project.org/package=PAMscapes)\nPAMscapes Github (https://github.com/cran/PAMscapes)\nPAMscapes Report to NOAA’s Ocean Acoustics Program (link to download)",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/Analysis-software.html#driftwatch",
+    "href": "content/Analysis-software.html#driftwatch",
+    "title": "SAEL Acoustic Software",
+    "section": "Driftwatch",
+    "text": "Driftwatch\nDriftwatch was developed to help with tracking of drifting acoustic buoys using satellite GPS. The basic code is available on Github, but there are a number of steps required to get it to function for outside use. Driftwatch was developed by Taiki Sakai and was funded by the Bureau of Ocean Energy Management (Inter-Agency Agreement G14-M20PG00013).\n\nDriftwatch Github (https://github.com/TaikiSan21/DriftWatch)\nWhere to Start: Setting_Up_Driftwatch.rmd (in Driftwatch Github Repository)",
+    "crumbs": [
+      "Acoustic Analysis",
+      "SAEL Acoustic Software"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience_Research-Guide.html",
+    "href": "content/OpenScience_Research-Guide.html",
+    "title": "Research Guide",
+    "section": "",
+    "text": "The purpose of this guide is to provide an approach to working on a research project that provides an efficient approach to collaborating with yourself (including your future self!) and other researchers. This guide follows our lab philosophy of Open and Reproducible Science.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript to document your research (see Writing Guide in this lab manual).\nBe sure to document all changes to your research using the ‘commit’ documentation. Be detailed. Consider doing smaller changes/commits to keep track of things.\nCreate a project board in Github to identify tasks in your project (to do, doing, done!). Retain these for future review.\nUse Issues to document discussions, modifications, and workflow. Link Issues to tasks in your Project Board.\nWhen you reach milestones in your work (say a draft for author review), create a Version in Github. This will help future you go back in time to a previous version of your work.\n\nThings to remember as you work:\n\nDocument everything! Assume you are documenting every detail for someone who is absolutely new to your work and needs to follow your methods exactly. Your future self will thank you!\n\nFor additional information:\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
     "crumbs": [
       "Open Science",
-      "Co-Working"
+      "Research Guide"
     ]
   },
   {
-    "objectID": "content/OpenScience_CoWorking.html#co-working-writers-workshop",
-    "href": "content/OpenScience_CoWorking.html#co-working-writers-workshop",
-    "title": "Co-Working",
+    "objectID": "content/OpenScience_Research-Guide.html#research-guide",
+    "href": "content/OpenScience_Research-Guide.html#research-guide",
+    "title": "Research Guide",
     "section": "",
-    "text": "Writers Workshop is a weekly co-working meeting where we work on our individual projects together. It is especially difficult to stay focused while writing, and these workshops provide a level of accountability that helps us move our writing forward.\nMeetings are virtual and typically 2-3 hours in length. You should have your materials ready before the workshop begins, so you can focus on your writing.\n\nHave all your materials ready before the workshop begins. Identify a small manageable chunk of writing to complete during the workshop. For example, I will work on paragraph 3 of my introduction. If I have extra time, I will begin on my methods.\nTurn off ALL distractions (no email or web browser, turn off phone, etc)\nFirst 5 minutes of workshop– everyone briefly introduces the work they hope to complete in the first 90 min of the workshop.\nSelect a person to keep the time– they will give a 5 minute warning before the end of the 90 minutes.\nWork on your section with videos on, and your sound muted. Stay focused on your one specific goal and avoid all distractions. Do not do anything that would distract the others from their work.\nAt 90 min mark, everyone briefly discuss how things went (if they had any obstacles). Take a 15 minute break\nEveryone briefly discuss what they will do for the final 60 min of the workshop (one manageable chunk of writing). Identify a person to keep the time. Work quietly (with videos on, sound muted) until the 5 minute warning is given.\nEveryone give a brief update on what they accomplished, how they feel about their work.\n\nFor additional information:\nWriting Science: What makes scientific writing hard and how to make it easier (Kathleen Grogan). https://doi.org/10.1002/bes2.1800\nDefining the Role of Authors and Contributors (ICMJE). Link here.\nA guide to getting published in Ecology and Evolution (BES). Link here.",
+    "text": "The purpose of this guide is to provide an approach to working on a research project that provides an efficient approach to collaborating with yourself (including your future self!) and other researchers. This guide follows our lab philosophy of Open and Reproducible Science.\n\nCreate a Github Repository for your research\n\nCreate Repository\nUse Github Desktop to clone to your local computer (store in Documents-&gt;Github)\nOpen project in RStudio (version 2022.07.2 build576 or later)\n\nCreate a draft manuscript to document your research (see Writing Guide in this lab manual).\nBe sure to document all changes to your research using the ‘commit’ documentation. Be detailed. Consider doing smaller changes/commits to keep track of things.\nCreate a project board in Github to identify tasks in your project (to do, doing, done!). Retain these for future review.\nUse Issues to document discussions, modifications, and workflow. Link Issues to tasks in your Project Board.\nWhen you reach milestones in your work (say a draft for author review), create a Version in Github. This will help future you go back in time to a previous version of your work.\n\nThings to remember as you work:\n\nDocument everything! Assume you are documenting every detail for someone who is absolutely new to your work and needs to follow your methods exactly. Your future self will thank you!\n\nFor additional information:\nVideo Tutorial: Beautiful reports and presentations with Quarto (RStudio). Link here.",
     "crumbs": [
       "Open Science",
-      "Co-Working"
+      "Research Guide"
     ]
   }
 ]
