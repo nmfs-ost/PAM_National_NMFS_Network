@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lab Manual",
+    "title": "National Passive Acoustic Monitoring Network",
     "section": "",
-    "text": "The Southwest Acoustic Ecology Lab conducts research using passive acoustic monitoring to support NOAA’s management needs. We are part of the Marine Mammal and Turtle Division at NOAA’s Southwest Fisheries Science Center in La Jolla, California.\nThis lab manual serves as the go-to handbook for the behind-the-scenes information to support our science.",
+    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
     "crumbs": [
       "Home"
     ]
