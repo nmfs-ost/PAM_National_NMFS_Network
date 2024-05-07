@@ -1,0 +1,31 @@
+---
+title: IRA PAM Strategic Initiative Coordination
+---
+
+## Overview
+
+This page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.
+
+The PAM SI working group has identified four key objectives:
+
+1.   Accelerate Pacific-wide PAM-glider operations;
+
+2.  Establishing National PAM Operational and Archival Cloud Storage solutions;
+
+3.  Developing a National PAM Decision Support Tool;
+
+4.  Advancing National PAM Analytical and Integration Approaches.
+
+Each of these objectives consists of one or more priority projects. Progress towards these objectives will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.
+
+## Important Links
+
+-   [PAM SI Active Action Items tracker](https://docs.google.com/spreadsheets/d/1h1950peKh4xwDw4l7brdDYDucXHnOkf-7q-0hN_xAsM/edit?usp=sharing)
+
+-   [GitHub Projects](https://github.com/orgs/nmfs-ost/projects/16) (\* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)
+
+-   [PAM SI Projects Google Folder](https://drive.google.com/drive/folders/1txXl8CyUh-kLONZWiNXvDJG6fTUEsJjQ?usp=drive_link)
+
+-   [Notes from Bi-weekly SI Team Meetings](https://docs.google.com/document/d/1S1hxuyJ1MenSJsAr4ZSEihF6L58rrkmP52a3_fN3FIk/edit?usp=drive_link)
+
+-   [March 2024 Workshop Report](https://docs.google.com/document/d/1aeGYyn_eWnH1mCNyiXmzkV2Iq9MSrUOQ/edit?usp=sharing&ouid=103428992879595090246&rtpof=true&sd=true)
