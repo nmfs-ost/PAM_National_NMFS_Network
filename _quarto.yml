@@ -3,9 +3,9 @@ project:
   
 website: 
   page-navigation: true
-  title: "SAEL Lab Manual" 
-  site-url: "https://sael-swfsc.github.io/SAEL-lab-manual" 
-  repo-url: "https://github.com/SAEL-SWFSC/SAEL-lab-manual"
+  title: "NMFS National PAM Sharing" 
+  site-url: "https://nmfs-ost.github.io/PAM_National_NMFS_Network/" 
+  repo-url: "https://github.com/nmfs-ost/PAM_National_NMFS_Network"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   search: true
@@ -14,7 +14,8 @@ website:
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
-  
+   #could change noaa logo image here
+   #What National PAM website do we want point to with icons below noaa logo - set in tools
   sidebar:
     background: "#D9E3E4"
     logo: "https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg"
@@ -23,11 +24,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab
-        text: "Southwest Acoustic Ecology Lab, SWFSC"
+        href: https://www.fisheries.noaa.gov/national/science-data/ocean-noise
+        text: "NOAA Fisheries Ocean Noise Programs"
       - icon: github
-        href: https://github.com/SAEL-SWFSC
-        text: "SAEL Github"
+        href: https://github.com/nmfs-ost
+        text: "NOAA Fisheries OST GitHub"
 
     style: "docked"
     search: true
@@ -35,41 +36,31 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/SharedValues-BestPractices.qmd
-        text: Shared Values
+      - href: content/SI_Coordination.qmd
+        text: SI Coordination
       - section: "Lab Management"
         contents:
-          - content/Safety-Lab.qmd
-          - content/Safety_Lithium-Batteries.qmd
-          - content/Inventory.qmd
+          #- content/Safety-Lab.qmd
+          #- content/Safety_Lithium-Batteries.qmd
+          #- content/Inventory.qmd
       - section: "Data Management"
         contents:
-          - content/Permits_Reporting.qmd
-          - content/Data-SpeciesAndCallTypes.qmd
-          - content/Data-Archive.qmd
-          - content/media.qmd
-      - section: "Hardware Methods"
+          #- content/Permits_Reporting.qmd
+          #- content/Data-Archive.qmd
+          #- content/media.qmd
+      - section: "Hardware"
         contents:
-          - content/Hardware_ADRIFT.qmd
-          - content/Hardware_Handheld-Hydrophone.qmd
-      - section: "Software Management"
+          #- content/Hardware_ADRIFT.qmd
+          #- content/Hardware_Handheld-Hydrophone.qmd
+      - section: "Software & Analysis"
         contents:
-          - content/Ocean-Alert-App.qmd
-      - section: "Open Science"
+          #- content/Ocean-Alert-App.qmd
+      - section: "Reporting"
         contents: 
-          - content/OpenScience_Getting-Started.qmd
-          - content/OpenScience_Stack-Exchange.qmd
-          - content/OpenScience_Research-Guide.qmd
-          - content/OpenScience_CoWorking.qmd
-          - content/OpenScience_Writing-Guide.qmd
-          - content/OpenScience_Zotero.qmd
-          - content/OpenScience_GithubBook.qmd
-          - content/OpenScience_GithubBranches.qmd
-          - content/OpenScience_Presentations.qmd
       - section: "Acoustic Analysis"
         contents:
-          - content/Analysis-software.qmd
-          - content/Analysis-adrift.qmd
+          #- content/Analysis-software.qmd
+          #- content/Analysis-adrift.qmd
         
 
 format:
@@ -88,5 +79,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
