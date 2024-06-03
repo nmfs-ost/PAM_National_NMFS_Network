@@ -2,21 +2,13 @@
 title: IRA PAM Strategic Initiative Coordination
 ---
 
+![](images/PA_SI_Graphic.png){fig-align="center" width="398"}
+
 ## Overview
 
 This page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.
 
-The PAM SI working group has identified four key objectives:
-
-1.   Accelerate Pacific-wide PAM-glider operations;
-
-2.  Establishing National PAM Operational and Archival Cloud Storage solutions;
-
-3.  Developing a National PAM Decision Support Tool;
-
-4.  Advancing National PAM Analytical and Integration Approaches.
-
-Each of these objectives consists of one or more priority projects. Progress towards these objectives will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.
+The PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.
 
 ## Important Links
 
@@ -28,4 +20,4 @@ Each of these objectives consists of one or more priority projects. Progress tow
 
 -   [Notes from Bi-weekly SI Team Meetings](https://docs.google.com/document/d/1S1hxuyJ1MenSJsAr4ZSEihF6L58rrkmP52a3_fN3FIk/edit?usp=drive_link)
 
--   [March 2024 Workshop Report](https://docs.google.com/document/d/1aeGYyn_eWnH1mCNyiXmzkV2Iq9MSrUOQ/edit?usp=sharing&ouid=103428992879595090246&rtpof=true&sd=true)
+-   [March 2024 Workshop Report](https://drive.google.com/file/d/1YJsUSxBJ0xDJAtz9DfxAc1tO-cmyBExG/view?usp=drive_link)
