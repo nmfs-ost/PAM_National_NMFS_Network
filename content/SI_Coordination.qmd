@@ -14,10 +14,12 @@ The PAM SI Team has identified eight priority projects that combined work toward
 
 -   [PAM SI Active Action Items tracker](https://docs.google.com/spreadsheets/d/1h1950peKh4xwDw4l7brdDYDucXHnOkf-7q-0hN_xAsM/edit?usp=sharing)
 
+-   [March 2024 Workshop Report](https://drive.google.com/file/d/1YJsUSxBJ0xDJAtz9DfxAc1tO-cmyBExG/view?usp=drive_link)
+
+-   [PAM SI Progress Dashboard](https://docs.google.com/presentation/d/17BGL_YmbUlO6sMvIcEMRz4wHrjA7FNH3/edit?usp=sharing&ouid=103428992879595090246&rtpof=true&sd=true)
+
 -   [GitHub Projects](https://github.com/orgs/nmfs-ost/projects/16) (\* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)
 
 -   [PAM SI Projects Google Folder](https://drive.google.com/drive/folders/1txXl8CyUh-kLONZWiNXvDJG6fTUEsJjQ?usp=drive_link)
 
 -   [Notes from Bi-weekly SI Team Meetings](https://docs.google.com/document/d/1S1hxuyJ1MenSJsAr4ZSEihF6L58rrkmP52a3_fN3FIk/edit?usp=drive_link)
-
--   [March 2024 Workshop Report](https://drive.google.com/file/d/1YJsUSxBJ0xDJAtz9DfxAc1tO-cmyBExG/view?usp=drive_link)
