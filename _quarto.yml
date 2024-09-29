@@ -36,8 +36,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/SI_Coordination.qmd
-        text: SI Coordination
+      - section: "SI Coordination"
+        contents:
+          - content/SI_Coordination.qmd
+          - content/Openscapes.qmd
       - section: "Lab Management"
         contents:
           #- content/Safety-Lab.qmd
