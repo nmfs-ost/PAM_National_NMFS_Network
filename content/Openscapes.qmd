@@ -1,3 +1,13 @@
 ---
 title: Openscapes
 ---
+
+## Goals
+
+[Openscapes](https://openscapes.org/) is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.
+
+Our goals include developing the NMFS PAM sharing structure in real time (national and [regional lab manuals](https://github.com/nmfs-ost/PAM_template_lab_manual)), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups
+
+## Notes
+
+Link to google drive?
