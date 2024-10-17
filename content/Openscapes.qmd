@@ -10,4 +10,4 @@ Our goals include developing the NMFS PAM sharing structure in real time (nation
 
 ## Notes
 
-Link to google drive?
+All meeting notes and Openscapes related documents will be accessible in the [PAM SI Openscapes Google Drive Folder](https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link)
